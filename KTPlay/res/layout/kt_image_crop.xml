@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <!--  -->
+    <com.ktplay.widget.YoMoveImage
+        android:id="@id/kt_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@null"
+        android:scaleType="centerInside"
+        android:src="@null" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <View
+            android:id="@+id/kt_image_mask_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#7f000000" />
+
+        <ImageView
+            android:id="@+id/kt_image_mask"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#7f000000" />
+    </LinearLayout>
+
+    <!-- <com.ktplay.widget.KTDebugView
+       android:id="@+id/kt_debug"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       />
+     -->
+
+</FrameLayout>

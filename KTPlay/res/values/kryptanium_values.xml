@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="kryptanium_users_head_id" type="id" />
+    <item name="kryptanium_users_nickname_id" type="id" />
+    <item name="kryptanium_users_city_id" type="id" />
+    <item name="kryptanium_users_grieview_id" type="id" />
+
+    <item name="kryptanium_user_register_email" type="id" />
+    <item name="kryptanium_user_register_nickname" type="id" />
+    <item name="kryptanium_user_register_password" type="id" />
+    <item name="kryptanium_user_login_email" type="id" />
+    <item name="kryptanium_user_login_password" type="id" />
+    <item name="kryptanium_users_forget_password_email" type="id" />
+    <item name="kryptanium_imagepreview_loader" type="id" />
+    <item name="kryptanium_arrow_flag" type="id" />
+
+    <!-- 内容为空时的占位提示 -->
+    <item name="kt_content_empty_placeholder" type="id" />
+    <item name="kt_icon" type="id" />
+    <item name="kt_item_title" type="id" />
+    <item name="kt_item_avatar" type="id" />
+    <item name="kt_item_content" type="id" />
+    <item name="kt_item_time" type="id" />
+    <item name="kt_item_icon" type="id" />
+    <item name="kt_item_menu" type="id" />
+    <item name="kt_item_tag" type="id" />
+    <item name="kt_item_image" type="id" />
+    <item name="kt_item_images" type="id" />
+    <item name="kt_compoundicon_icon" type="id" />
+    <item name="kt_compoundicon_text" type="id" />
+    <item name="kt_like" type="id" />
+    <item name="kt_menu_title" type="id" />
+    <item name="kt_menu_items" type="id" />
+    <item name="kt_menu_delete" type="id" />
+    <item name="kt_menu_report" type="id" />
+    <item name="kt_menu_album" type="id" />
+    <item name="kt_menu_screenshot" type="id" />
+    <item name="kt_menu_unfavorite" type="id" />
+    <item name="kryptanium_simpletitlebar_right" type="id" />
+    <item name="kt_content" type="id" />
+    <item name="kt_close" type="id" />
+    <item name="kt_progress" type="id" />
+    <item name="kt_newmsg" type="id" />
+    <item name="kt_action" type="id" />
+    <item name="kt_login_slogan" type="id" />
+    <item name="kt_list" type="id" />
+    <item name="kt_mask" type="id" />
+    <item name="kt_image" type="id" />
+    <item name="kt_edit" type="id" />
+    <item name="kt_delete" type="id" />
+    <item name="kt_resend" type="id" />
+    <item name="kt_item" type="id" />
+    <item name="kt_tag" type="id" />
+    <item name="kt_tag_placeholder" type="id" />
+    <item name="kt_tag_downloadingimage" type="id" />
+    <item name="kt_tag_list_tounchcontroller_set" type="id" />
+    <item name="kt_version" type="id" />
+    <item name="kt_video" type="id" />
+    <item name="kt_reference" type="id" />
+    <item name="kt_viewstub" type="id" />
+    <item name="kt_placeholder" type="id" />
+    <item name="kt_menu_summary" type="id" />
+    <item name="kt_menu_full_text" type="id" />
+
+
+    <!-- Menu Dialog -->
+    <item name="kryptanium_menu_dialog_item_button" type="id" />
+    <item name="kryptanium_menu_dialog_item_icon" type="id" />
+    <item name="kryptanium_menu_dialog_item_text" type="id" />
+    <item name="kryptanium_menu_dialog_item_list" type="id" />
+    <item name="kryptanium_menu_dialog_title" type="id" />
+    <item name="kryptanium_menu_dialog_cancel" type="id" />
+
+    <!-- Custom Dialog -->
+    <item name="kryptanium_dialog_title_container" type="id" />
+    <item name="kryptanium_dialog_title" type="id" />
+    <item name="kryptanium_dialog_message" type="id" />
+    <item name="kryptanium_dialog_contentview" type="id" />
+    <item name="kryptanium_dialog_positive_button" type="id" />
+    <item name="kryptanium_dialog_negative_button" type="id" />
+
+    <!-- calendar -->
+    <item name="kryptanium_datepicker_year" type="id" />
+    <item name="kryptanium_datepicker_month" type="id" />
+    <item name="kryptanium_datepicker_day" type="id" />
+    <item name="kryptanium_datepicker_hour" type="id" />
+    <item name="kryptanium_datepicker_minute" type="id" />
+    <item name="kryptanium_datepicker_second" type="id" />
+    <item name="kryptanium_datepicker_confirm" type="id" />
+    <item name="kryptanium_datepicker_cancel" type="id" />
+    <item name="kryptanium_datepicker_itemtext" type="id" />
+
+    <!-- 主界面宽高比 -->
+    <item name="kt_frame_ratio_short" type="integer">2</item>
+    <item name="kt_frame_ratio_long" type="integer">3</item>
+
+    <!-- 独立弹出面宽高比 -->
+    <item name="kt_frame_ratio_standalone_short" type="integer">3</item>
+    <item name="kt_frame_ratio_standalone_long" type="integer">4</item>
+
+    <!-- 首页图片宽高比 -->
+    <item name="kt_hot_image_short" type="integer">2</item>
+    <item name="kt_hot_image_long" type="integer">3</item>
+
+    <!-- 首页图片Size (最大不超过1024,注意：size越大占用的内存和网络流量越大)-->
+    <item name="kt_home_screenshot_size" type="integer">480</item>
+
+    <!-- 相册缩略图片Size (最大不超过1024,注意：size越大占用的内存越大)-->
+    <item name="kt_album_thumbnail_size" type="integer">240</item>
+
+    <!-- 图片质量(最大不超过90，注意：图片质量越高占用的网络流量越大) -->
+    <item name="kt_image_quality" type="integer">60</item>
+
+    <!-- 小图标尺寸(最大不超过120，注意：size越大占用的内存和网络流量越大) -->
+    <item name="kt_iconsize_samll" type="integer">60</item>
+
+    <!-- 大图标尺寸(最大不超过180，注意：size越大占用的内存和网络流量越大) -->
+    <item name="kt_iconsize_large" type="integer">120</item>
+
+    <!-- 话题详情单图宽度(最大不超过480，注意：size越大占用的内存和网络流量越大) -->
+    <item name="kt_topicdetail_imagewidth" type="integer">320</item>
+
+    <!-- 话题详情单图高度(最大不超过640，注意：size越大占用的内存和网络流量越大) -->
+    <item name="kt_topicdetail_imageheight" type="integer">480</item>
+
+    <!-- 发布话题以及话题展示的最大图片数量，最大不超过9 -->
+    <item name="kt_topic_image_maxcount" type="integer">9</item>
+
+</resources>

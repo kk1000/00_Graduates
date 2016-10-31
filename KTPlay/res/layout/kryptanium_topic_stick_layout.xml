@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:paddingBottom="@dimen/kt_card_vmargin"
+    android:paddingLeft="@dimen/kt_card_hmargin"
+    android:paddingRight="@dimen/kt_card_hmargin"
+    android:paddingTop="@dimen/kt_card_vmargin">
+
+    <RelativeLayout
+        android:id="@+id/kryptanium_stick_layout"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@drawable/kryptanium_card_bg">
+
+        <TextView
+            android:id="@+id/kryptanium_stick_text"
+            style="@style/kryptanium_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:gravity="center"
+            android:text="@string/kt_on_top" />
+
+        <TextView
+            android:id="@+id/kryptanium_stick_unread_num"
+            style="@style/kryptanium_primary_text_dark"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/kryptanium_new_msg"
+            android:contentDescription="@null"
+            android:gravity="center"
+            android:visibility="gone" />
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@+id/kryptanium_stick_content"
+            style="@style/kryptanium_primary_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="12dp"
+            android:layout_toLeftOf="@id/kryptanium_stick_unread_num"
+            android:layout_toRightOf="@id/kryptanium_stick_text"
+            android:ellipsize="end"
+            android:maxLines="1" />
+    </RelativeLayout>
+
+</RelativeLayout>

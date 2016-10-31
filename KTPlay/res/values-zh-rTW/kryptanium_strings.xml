@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="kt_please_wait">請稍候...</string>
+    <string name="kt_loading">載入中...</string>
+    <string name="kt_load_failed_retry">載入失敗點擊重試</string>
+    <string name="kt_pressagain_to_quit">再次點擊返回鍵切換到遊戲</string>
+    <string name="kt_sdcard_unavailable">未找到SD卡</string>
+    <string name="kt_sns_app_unavailable" formatted="false">你沒有安裝%@用戶端或版本過舊</string>
+    <string name="kt_login_with_channel_account" formatted="false">使用%@帳戶登錄</string>
+    <string name="kt_log_appkey">[KTPlaySDK資訊]應用程式的關鍵 ︰ \t\t</string>
+    <string name="kt_log_appsecret">[KTPlaySDK資訊]應用程式的秘密 ︰ \t\t</string>
+    <string name="kt_log_kryptanium_version">[KTPlaySDK資訊]SDK版本:</string>
+    <string name="kt_log_kryptanium_type">[KTPlaySDK資訊]版本類型:</string>
+    <string name="kt_log_kryptanium_type_china">國內版</string>
+    <string name="kt_log_kryptanium_type_international">海外版</string>
+    <string name="kt_log_kryptanium_type_universal">全球版</string>
+    <string name="kt_log_kryptanium_channelid">配置的管道號:</string>
+    <string name="kt_error_failurereason">錯誤原因</string>
+    <string name="kt_error_recoverysuggestion">解決方法</string>
+    <string name="kt_plugin_not_found">外掛程式未找到</string>
+    <string name="kt_locked_loginchannel_plugin_missed" formatted="false">你已經指定%@作為唯一的登錄方式，但未引入相關外掛程式工程。</string>
+    <string name="kt_locked_loginchannel_plugin_missed_suggestion" formatted="false">如果確實需要以%@登錄,請引入% @相關的外掛程式工程；&amp; #xA;如果不需要以%登錄，請在你的AndroidManifest.xml檔中移除名為KTPLAY_LOCK_LOGINTYPE的中繼資料</string>
+    <string name="kt_terms_agreement">登錄或註冊表示你接受並同意KTplay的使用者協定與條款，同時確認你已經超過13歲。</string>
+    <string name="kt_terms_agreement_link">使用者協定與條款</string>
+    <string name="kt_photo_select">全部照片</string>
+    <string name="kt_max_of_photos" formatted="false">最多隻能選擇%@張圖片</string>
+    <string name="kt_saved" formatted="false">已保存至:  %@</string>
+    <string name="kt_try_verify_number_signature">可試用一次綁定手機號就能永久使用!</string>
+    <string name="kt_try_verify_email_signature">可試用一次綁定郵箱就能永久使用!</string>
+    <string name="kt_verify_number_signature">需要綁定手機號才能使用!</string>
+    <string name="kt_verify_email_signature">完善郵箱即可享有個性視頻簽名。</string>
+    <string name="kt_allow_storage" formatted="false">立即開啟%@訪問設備存儲的許可權。</string>
+    <string name="kt_activate_storage" formatted="false">遊戲內社區需要使用你的設備存儲來正常展示和發佈遊戲相關的內容。你可以通過設置-應用-%@許可權打開設備存儲許可權。</string>
+    <string name="kt_allow_record_audio" formatted="false">立即開啟%@訪問麥克風的許可權。</string>
+    <string name="kt_activate_audio" formatted="false">"允許遊戲社區訪問你的麥克風才能錄製語音訊息。你可以通過設置-應用-%@許可權打開麥克風許可權。</string>
+</resources>

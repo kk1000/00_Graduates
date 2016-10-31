@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="a_in" format="float" />
+    <attr name="a_out" format="float" />
+    <attr name="x_in" format="float" />
+    <attr name="x_out" format="float" />
+    <attr name="y_in" format="float" />
+    <attr name="y_out" format="float" />
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+
+    <attr name="position">
+        <enum name="left_top" value="0" />
+        <enum name="left_bottom" value="1" />
+        <enum name="right_top" value="2" />
+        <enum name="right_bottom" value="3" />
+        <enum name="center_top" value="4" />
+        <enum name="center_bottom" value="5" />
+        <enum name="center" value="6" />
+        <enum name="center_left" value="7" />
+        <enum name="center_right" value="8" />
+    </attr>
+    <attr name="radius" format="dimension" />
+    <declare-styleable name="SolarSystem">
+        <attr name="position" />
+        <attr name="radius" />
+    </declare-styleable>
+</resources>

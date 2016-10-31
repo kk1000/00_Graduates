@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <com.ktplay.video.ui.KTVideoViewExo
+            android:id="@+id/kt_video_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true" />
+        <!-- 视频水印 -->
+        <FrameLayout
+            android:id="@+id/kt_video_view_wrap_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"></FrameLayout>
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/kt_video_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000" />
+
+    <ProgressBar
+        android:id="@+id/kt_video_pb"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:indeterminateDrawable="@drawable/kt_video_circle_shape"
+        android:indeterminateDuration="1200" />
+
+    <LinearLayout
+        android:id="@+id/kt_video_select_definition_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#BB000000"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/kt_video_completion_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#BB000000"
+        android:gravity="center"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/kt_video_completion_reply"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@drawable/kt_video_completion_background"
+            android:gravity="center"
+            android:padding="15dp"
+            android:src="@drawable/kt_video_replay" />
+
+        <RelativeLayout
+            android:id="@+id/kt_video_completion_like_layout"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/kt_video_completion_background"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@id/kt_compoundicon_icon"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:gravity="center" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/kt_layer_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/kt_operation_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@drawable/kt_video_bottom_gradient_background"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingTop="30dp">
+
+        <ImageView
+            android:id="@+id/kt_iv_ctrl"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:padding="5dp"
+            android:src="@drawable/kt_video_crtl_selecter" />
+
+        <TextView
+            android:id="@+id/kt_tv_time_current"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textColor="@android:color/white"
+            android:textSize="12sp" />
+
+        <SeekBar
+            android:id="@+id/kt_sb"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:max="100"
+            android:maxHeight="2dp"
+            android:minHeight="2dp"
+            android:padding="7dp"
+            android:progress="0"
+            android:progressDrawable="@drawable/kt_seekbar"
+            android:thumb="@drawable/kt_icon_video_progress_thumb"
+            android:thumbOffset="0dp" />
+
+        <TextView
+            android:id="@+id/kt_tv_time_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:textColor="@android:color/white"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/kt_tv_definition_select"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:textColor="@android:color/white"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/kt_video_onclick_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:clickable="true"
+        android:focusable="true" />
+
+</FrameLayout>

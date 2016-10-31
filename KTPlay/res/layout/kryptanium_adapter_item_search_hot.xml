@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_search_hot_tv"
+    style="@style/kryptanium_list_item"
+    android:ellipsize="end"
+    android:gravity="left|center"
+    android:maxLines="2"
+    android:paddingLeft="8dp"
+    android:textColor="@color/kt_theme_primary_textcolor"
+    android:textSize="@dimen/kryptanium_text_size_big" />

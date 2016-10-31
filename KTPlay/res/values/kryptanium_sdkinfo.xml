@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="kt_version" translatable="false">2.4.1</string>
+    <string name="kt_game_engine" translatable="false">Unity</string>
+    <string name="kt_default_region" translatable="false">China</string>
+</resources>

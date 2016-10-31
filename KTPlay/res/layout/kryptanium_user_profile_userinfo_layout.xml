@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/kryptanium_user_profile_userinfo_layout_height"
+    android:background="@color/kt_theme_headsection_background"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/kryptanium_listitem_hpadding">
+
+    <!-- android:padding="@dimen/kryptanium_default_gap_half" -->
+
+    <include
+        layout="@layout/kt_item_avatar"
+        android:layout_width="@dimen/kt_avatar_size_large"
+        android:layout_height="@dimen/kt_avatar_size_large"
+        android:layout_gravity="center_vertical" />
+
+
+    <!-- <ImageView
+        android:id="@+id/kryptanium_profile_head_image"
+        android:layout_width="@dimen/kryptanium_user_profile_userinfo_head_image_width_height"
+        android:layout_height="@dimen/kryptanium_user_profile_userinfo_head_image_width_height"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/kryptanium_user_profile_userinfo_head_image_margin"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="@dimen/kryptanium_user_profile_userinfo_head_image_margin"
+        android:layout_marginBottom="@dimen/kryptanium_user_profile_userinfo_head_image_margin"
+        android:background="@null"
+        android:scaleType="fitXY"/> -->
+    <!--
+        android:layout_marginLeft="@dimen/kryptanium_user_profile_userinfo_head_image_margin"
+        android:layout_marginTop="@dimen/kryptanium_user_profile_userinfo_head_image_margin"
+             android:layout_marginBottom="@dimen/kryptanium_user_profile_userinfo_head_image_margin"
+    -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/kryptanium_profile_sex_image"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/kryptanium_user_profile_userinfo_sex_image_marginLeft"
+            android:scaleType="fitXY" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/kryptanium_user_profile_userinfo_nickname_textview_paddingLeft">
+
+            <TextView
+                android:id="@id/kt_item_title"
+                style="@style/kryptanium_large_text_dark"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:includeFontPadding="false"
+                android:maxLines="1" />
+
+            <LinearLayout
+                android:id="@+id/kryptanium_profile_username_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <TextView
+                    style="@style/kryptanium_secondary_text_dark"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/kt_field_username" />
+
+                <TextView
+                    android:id="@+id/kryptanium_user_profile_username"
+                    style="@style/kryptanium_secondary_text_dark"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxLines="1" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

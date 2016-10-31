@@ -1,0 +1,215 @@
+<resources>
+    <string name="text_house">提示：你在同一时间只能拥有一套房屋，要购买新房先转售旧房，购买、转售价格为基准价格乘以房价指数，不计房屋折旧影响。</string>
+    <string name="text_house_00">您好！我是房产中介客服小樱，愿意为您服务。</string>
+    <string name="text_house_01">先生需要什么帮忙吗？</string>
+    <string name="text_house_02">我们公司的服务最周到，价格最公道。</string>
+    <string name="text_house_03">您还有什么问题么？</string>
+    <string name="text_house_04">对不起，如果您没有问题，我先招呼其他客户。</string>
+
+    <string name="text_house_05">先生很高兴又见到你，有什么需要我帮忙吗？</string>
+    <string name="text_house_06">我们的费用方面不用担心，当然是最优惠啦。</string>
+    <string name="text_house_07">我们手里有不少好的房源哦！</string>
+    <string name="text_house_08">对不起，您慢慢考虑，我有事离开一下。</string>
+
+    <string name="text_house_09">又见到您了，您工作忙不忙，我给您倒杯茶。</string>
+    <string name="text_house_10">老客户我不会坑您的啦，你考虑好了吗</string>
+    <string name="text_house_11">我们手里有不少好的房源哦！</string>
+    <string name="text_house_12">对不起，您慢慢考虑，我的老板刘应找我有事，我得离开一下。</string>
+
+    <string name="text_house_13">您来了，坐吧。听说房价要涨喽。</string>
+    <string name="text_house_14">幸运之神总是会青睐有准备者。</string>
+    <string name="text_house_15">像您这样有头脑的人一定会成功的！</string>
+
+    <string name="text_house_16">天气真好，财神爷又上门了！</string>
+    <string name="text_house_17">您真是我们的忠实客户，给您一张VIP贵宾卡。</string>
+    <string name="text_house_18">您的不能光看不动呀，错过这村就没下店了。</string>
+    <string name="text_house_19">像您这样有头脑的人一定会成功的！</string>
+
+    <string name="text_house_20">心情不好，今天被老板娘骂了。</string>
+    <string name="text_house_21">不要烦我，你自己看吧。</string>
+
+    <string name="text_house_22">听说有人炒股亏死掉，还是炒楼比较安全。</string>
+    <string name="text_house_23">房价不会下跌，不过是在做俯卧撑！</string>
+
+    <string name="text_house_24">您的眼光最准了，相信自己一定没错。</string>
+    <string name="text_house_25">想请我吃饭？(*^__^*) 嘻嘻……</string>
+    <string name="text_house_26">下次吧，晚上我已经有约会了。</string>
+
+    <string name="text_house_27">欢迎欢迎，热烈欢迎！</string>
+    <string name="text_house_28">您的气色不错哦，最近一定鸿运当头。</string>
+
+    <string name="text_house_29">嘘，老板在后面盯着我呢，表开玩笑。</string>
+    <string name="text_house_30">房价还会一直涨哦！您考虑好了吗？</string>
+
+    <string name="text_house_31">业绩不好，又挨老板娘训了，呜呜。</string>
+    <string name="text_house_32">你都不帮我。</string>
+    <string name="text_house_33">没事，你不用管我啦。</string>
+
+    <string name="text_house_34">现在想结婚，首先要有房子哦。</string>
+    <string name="text_house_35">有房子的女人才会有安全感呀。</string>
+
+    <string name="text_house_36">现在刚毕业的大学生，一般都是啃老族。</string>
+    <string name="text_house_37">完全靠自己努力能买得起房子的人很少。</string>
+    <string name="text_house_38">男人在买房上的压力确实比较大哦。</string>
+
+    <string name="text_house_39">问我有没有男朋友？嘻嘻，不告诉你。</string>
+    <string name="text_house_40">女人心，海底针，你不知道吗？</string>
+
+    <string name="text_house_41">别拿这些玩具来哄我，我已经过了那个年龄。</string>
+    <string name="text_house_42">鲜花和钻戒，你说女人会怎么选择？</string>
+    <string name="text_house_43">最好是两者都有咯！</string>
+
+    <string name="text_house_44">计划总赶不上变化，唉……</string>
+    <string name="text_house_45">不要问了，我只是心情不好。</string>
+
+    <string name="text_house_46">房子的装修材料尽量选环保的哦！</string>
+    <string name="text_house_47">现在装修污染会严重影响人健康的！</string>
+    <string name="text_house_48">不要小看粘合用的胶，它往往甲醛超标最高。</string>
+
+    <string name="text_house_49">新房子入住时一定要请我吃饭哦！</string>
+    <string name="text_house_50">客户是我们的衣食父母嘛！</string>
+
+    <string name="text_house_51">你说男人是不是都花心呢？</string>
+    <string name="text_house_52">一开始都是甜言蜜语把女人哄到手。</string>
+    <string name="text_house_53">到头来总抛不开始乱终弃的结局。</string>
+
+    <string name="text_house_54">是审美疲劳？还是我不够好呢？</string>
+    <string name="text_house_55">为什么他会爱上别的女人？</string>
+
+    <string name="text_house_56">宁愿相信世上有鬼，也不要信男人那张破嘴！</string>
+    <string name="text_house_57">哦！对不起，我失态了……</string>
+
+    <string name="text_house_58">谢谢关心，我好多了……</string>
+    <string name="text_house_59">工作能让我不去想他……</string>
+
+    <string name="text_house_60">谢谢你关心，我没事。</string>
+    <string name="text_house_61">能不能借你的肩膀让我靠一靠？</string>
+
+    <string name="text_house_62">在爱情的天平里，爱得越深伤得越重。</string>
+    <string name="text_house_63">当他不爱你的时候，就是真的不爱你了。</string>
+
+    <string name="text_house_64">时间会冲淡一切的，谢谢你的安慰。</string>
+    <string name="text_house_65">努力赚钱才是我现在的目标，我要加油！</string>
+
+    <string name="text_house_66">他们说我不过是只花瓶，真的是这样吗？</string>
+    <string name="text_house_67">难道美丽也有错？</string>
+
+    <string name="text_house_68">谢谢你又来看我，你是好人。</string>
+    <string name="text_house_69">这世界上好男人都快绝种了。</string>
+
+    <string name="text_house_70">你工作还顺心吗？你女朋友漂亮吗？</string>
+    <string name="text_house_71">不要骗我啦，你这么优秀，怎会没有女朋友。</string>
+
+    <string name="text_house_72">哇，这么多的玫瑰花！好漂亮！</string>
+    <string name="text_house_73">好久都没见过这么漂亮的玫瑰了，谢谢你。</string>
+
+    <string name="text_house_74">啊！是你，吓我一大跳！</string>
+    <string name="text_house_75">快别闹啦，我要工作啦。</string>
+
+    <string name="text_house_76">什么是幸福呢？谁能给谁幸福呢？</string>
+    <string name="text_house_77">女人的幸福是建立在安全感的基础上的。</string>
+    <string name="text_house_78">两个人再相爱，也总不能一起抱着饿死吧。</string>
+
+    <string name="text_house_79">好想要一套属于自己的房子啊！</string>
+    <string name="text_house_80">看着这么多新人搬进新居，真羡慕。</string>
+    <string name="text_house_81">真希望有一个完全属于自己的小窝。</string>
+    <string name="text_house_82">在受伤后能独自躲进去慢慢的疗伤。</string>
+
+    <string name="text_house_83">你要为我买一套房子？谢谢啦，不要。</string>
+    <string name="text_house_84">为什么？没有什么为什么。</string>
+    <string name="text_house_85">因为是你，所以我不能要。</string>
+    <string name="text_house_86">我不想让你觉得我是为了你的钱才和你交往。</string>
+
+    <string name="text_house_87">我知道你对我很好，我能叫你哥吗？</string>
+    <string name="text_house_88">哥,谢谢你，我会记住你的。</string>
+    <string name="text_house_89">哥，我想出去走走，下个月带我去郊游好吗？</string>
+    <string name="text_house_90">嗯，谢谢哥，要记得到时候来叫我哦！</string>
+
+
+    <string name="text_house_91">你要找小樱？对不起，她已经辞职离开公司了。</string>
+    <string name="text_house_92">她没有留下联系方式。她还说要你以后忘记她。</string>
+
+    <string name="text_house_93">小樱？她已经辞职离开公司了。她让我转告你，说她去了一个远方的小城市。</string>
+    <string name="text_house_94">她还说她配不上你，要你以后忘记她。</string>
+
+    <string name="text_house_95">唉，你真是多情种，缘分这事情，是天注定的。</string>
+    <string name="text_house_96">有些东西，一旦错过了，就不会再有。</string>
+    <string name="text_house_97">相见不如怀念。但如果有缘，也许还可再见。</string>
+
+    <string name="text_house_98">您好，我是房屋中介客服小莎，愿意为你服务。</string>
+    <string name="text_house_99">先生需要什么帮忙吗？</string>
+
+    <string name="xiaoying_0_00">女友情节 小樱·第一幕</string>
+    <string name="xiaoying_0_01">暮春，天晴。你与小樱一起到郊外游玩散心，一路林间小道，溪水潺潺。</string>
+    <string name="xiaoying_0_02">小樱：“哥，谢谢你陪我出来，远离城市，我觉得一切的烦恼和负面情绪也都离我远去了。”</string>
+    <string name="xiaoying_0_03">吾：“一直就想带你出来走走的，可不是我没空就是你没时间。城市的人总是很忙，让人忘记了大自然的美。”</string>
+    <string name="xiaoying_0_04">小樱：“其实也不是，只要是有心，时间总能挤出来的。”</string>
+    <string name="xiaoying_0_05">吾：“我知道，可你一直都不愿意和我出来约会啊，你知道，我……很喜欢你的，不，应该说是，爱你。”</string>
+    <string name="xiaoying_0_06">小樱：“爱？到底什么才是爱呢？爱，是这么容易说出口的吗？”</string>
+    <string name="xiaoying_0_07">吾低下头：“……   我知道你还没有从上次失恋的阴影中走出来。但我是真心的。”</string>
+    <string name="xiaoying_0_08">小樱摇摇头：“其实，我只是对爱的忠诚失去了信任。男人，其实都一样，对新鲜漂亮的东西总是充满兴趣。想得到就说喜欢，喜欢就说爱。”</string>
+    <string name="xiaoying_0_09">小樱：“可是到手之后，却往往不懂得珍惜。旧的总是不如新的好，得不到的，才觉得是最好的。”</string>
+    <string name="xiaoying_0_10">吾赶紧申辩：“小樱，其实并不是所有的男人都像你说的那样的。”</string>
+    <string name="xiaoying_0_11">小樱半开玩笑半认真：“天下乌鸦一般黑，如果不黑，那就不是乌鸦了。”</string>
+    <string name="xiaoying_0_12">吾大汗：“那这么说来，世间岂不是没有一个好男人了？”</string>
+    <string name="xiaoying_0_13">小樱俏皮的皱了皱鼻子：“我可没这么说，花心男人中有对女人疼爱珍惜的，好男人中也有偶尔偷腥的。”</string>
+    <string name="xiaoying_0_14">吾笑着问：“那我是属于哪一种呢？”</string>
+    <string name="xiaoying_0_15">小樱笑而不答，跑在前面，穿过树林，来到一片金灿灿的油菜地……</string>
+    <string name="xiaoying_0_16">吾紧追过去：“你还没有回答我刚才的问题呢。”</string>
+    <string name="xiaoying_0_17">吾：“到底什么样的人，才能成为你理想中的男朋友呢？”</string>
+    <string name="xiaoying_0_18">小樱想了想：“我想，他要有一双干净清澈的眼睛和一颗平和厚实的心。”</string>
+    <string name="xiaoying_0_19">小樱望了我一眼：“其实，有时候，你也让我心动过。”</string>
+    <string name="xiaoying_0_20">吾：“那为什么？你一直都不接受我。我想为你买一套房子，来证明我是愿意为你付出。”</string>
+    <string name="xiaoying_0_21">小樱轻声答道：“我的确是很希望有一套完全属于自己的房子，你开出的价码的确也非常有诱惑力。”</string>
+    <string name="xiaoying_0_22">吾惊讶的张大双眼：“价码？我可没有那个意思。”</string>
+    <string name="xiaoying_0_23">吾站在小樱面前，紧盯着她：“我只希望你过得好一点。”</string>
+    <string name="xiaoying_0_24">小樱避开我的眼睛：“谢谢，不过我不能接受，因为我不能因为一套房子而爱上你。”</string>
+    <string name="xiaoying_0_25">吾有点激动：“这……难道爱一个人，不是需要为她付出，为她承担吗？”</string>
+    <string name="xiaoying_0_26">小樱摘下一支油菜花，在手中把玩：“我每天接待的客户里，有些是小两口高高兴兴买房的，也有离婚分割变卖财产的，还有很多有钱人买房来金屋藏娇的。”</string>
+    <string name="xiaoying_0_27">吾：“这……小樱，我无话可说。”</string>
+    <string name="xiaoying_0_28">小樱抬起头：“不说这些不开心的话题了，你看，天好蓝啊！如果人心也如同天一般纯净，该多好。”</string>
+    <string name="xiaoying_0_29">吾：“小樱，你知道吗，听了你的话，我觉得心中隐隐作痛。”</string>
+    <string name="xiaoying_0_30">小樱认真的看了我一眼：“其实我觉得，做你女朋友一定是件很幸福的事情。”</string>
+    <string name="xiaoying_0_31">吾拉住小樱的手，有点激动的说：“小樱，做我的女朋友好吗？”</string>
+    <string name="xiaoying_0_32">小樱望着我，眼神似乎有些迷离，却轻轻的抽出手来：“对不起，我不能。”说完跑进草丛中。</string>
+    <string name="xiaoying_0_33">吾急忙跟过去：“小樱，小樱……”</string>
+    <string name="xiaoying_0_34">草很绿，沁人心脾的那种绿。</string>
+    <string name="xiaoying_0_35">小樱：“哥，我们认识有多久了？”</string>
+    <string name="xiaoying_0_36">吾：“哦，算算，应该有好几年了吧。”</string>
+    <string name="xiaoying_0_37">小樱：“是啊，好几年了。”小樱低下头似乎又在回想什么。</string>
+    <string name="xiaoying_0_38">吾赶紧打断她：“小樱，过去不开心的事情，就不要去想它了。”</string>
+    <string name="xiaoying_0_39">小樱眼里似乎含着泪花：“可是，我常常无法控制自己，不去想过去。”</string>
+    <string name="xiaoying_0_40">小樱停住脚步，深吸了一口气，开始诉说她的过去：“他是我生命中的第一个男人。我大学毕业后就在这家房产公司上班，他是这家公司的老板。”</string>
+    <string name="xiaoying_0_41">小樱：“我进公司不久，他就找一切机会来接近我。他说他爱上了我，可是他已经有老婆孩子。我拒绝过他很多次，可还是拗不过他，最终还是做了他的情人。”</string>
+    <string name="xiaoying_0_42">听到小樱的话，吾内心的震撼无法形容！觉得胸中升起一口闷气，憋屈得慌。</string>
+    <string name="xiaoying_0_43">小樱：“我为他三次怀孕，又三次堕胎。他每次都痛哭流涕的发誓会和他老婆离婚再和我结婚，可每次的誓言都成了空气。”</string>
+    <string name="xiaoying_0_44">小樱：“我从没有问他要过一分钱，但他安排我住进一套他的别墅里，他什么都给我买好。我要求不多，但是我想要什么，只要我望一眼，他就会给我买下来。”</string>
+    <string name="xiaoying_0_45">小樱：“他并不能每天陪我，经常是我一个人住在空荡荡的别墅里，我只觉得非常的孤单和空虚。所以我只有努力工作来充实自己。”</string>
+    <string name="xiaoying_0_46">小樱：“房子再大，我也觉得这不是我的家。我只希望自己存够钱，能买套真正属于自己的房子，不用很大，只要能安放我的心。”</string>
+    <string name="xiaoying_0_47">吾越听越着急：“那你，现在离开他没有？”</string>
+    <string name="xiaoying_0_48">小樱有点难过：“不用我离开他，他已经厌倦了我，金丝雀在笼中关久了，也成了家雀。有更多充满新鲜和诱惑的女人在外面等着他。”</string>
+    <string name="xiaoying_0_49">吾叹了口气：“唉，这样的事情，听说过很多，却没想到会发生在你的身上。”</string>
+    <string name="xiaoying_0_50">小樱望着我：“不过也好，至少我也得到了解脱。”</string>
+    <string name="xiaoying_0_51">吾握起小樱的双手：“小……小樱，以后，让我来好好照顾你好吗？”</string>
+    <string name="xiaoying_0_52">小樱睁大眼睛盯着我：“你不介意？”</string>
+    <string name="xiaoying_0_53">吾被她的眼睛融化掉了：“我……不在乎你的过去。小樱，我爱你。”</string>
+    <string name="xiaoying_0_54">小樱眼睛含着泪，露出一丝微笑：“谢谢，其实，我拥有的，不过是一副还算能吸引男人的身躯和脸蛋而已。”</string>
+    <string name="xiaoying_0_55">说完，小樱退后几步，慢慢的坐在地上，躺下来，摆出一副撩人的姿势望着吾。</string>
+    <string name="xiaoying_0_56">这意想不到的一幕，简直看得吾血脉喷张鼻血直流……</string>
+    <string name="xiaoying_0_57">小樱轻舔了下舌头，用充满诱惑的声音说：“哥，我美吗？”</string>
+    <string name="xiaoying_0_58">吾简直都快要爆炸了，目瞪口呆的表情已经说明了一切。</string>
+    <string name="xiaoying_0_59">小樱笑了笑，轻轻脱掉她的外套，只留下里面的白色内衣，做出一个更加撩人的姿势……</string>
+    <string name="xiaoying_0_60">小樱：“哥，你想要我吗？”</string>
+    <string name="xiaoying_0_61">吾顿时天旋地转，觉得世界上最好的运气降临到了自己的头上，那感觉，怎一个爽字了得！</string>
+    <string name="xiaoying_0_62">吾：“小樱，你知道吗，听了你的话，我觉得心中隐隐作痛。”</string>
+    <string name="xiaoying_0_63">选择1：送上门来的，哪能白白浪费！让我来满足她的要求！</string>
+    <string name="xiaoying_0_64">小樱主动解开她的内衣，露出她姣好的身材和完美的曲线……</string>
+    <string name="xiaoying_0_65">而吾更是迫不及待，将小樱翻过身来…… …… …… …… （此后略去N字 (*^__^*) 嘻嘻……）</string>
+    <string name="xiaoying_0_66">也许，人世间最美好的事情，莫过于此，如果这是诱惑，如果这是欲望，就让它们来得更猛烈些吧……</string>
+    <string name="xiaoying_0_67">选择2：强忍现在欲望，放弃这次机会，来证明自己是真爱！</string>
+    <string name="xiaoying_0_68">小樱眼睛里一闪一闪，似乎是感动，又似乎是失望……</string>
+    <string name="xiaoying_0_69">吾张开双臂：“小樱，忘记过去，做我的女人吧！”</string>
+    <string name="xiaoying_0_70">小樱冲过来，一把抱着吾，失声痛哭起来，泪水顺着她的脸庞，滴到吾的胸前，吾轻抚着她的背，吻了吻她的额头……</string>
+    <string name="xiaoying_0_71">一个女孩子的青春，是最美好的东西，就像这在风中绽放的樱花，是如此的娇艳美丽……</string>
+    <string name="xiaoying_0_72">此时，为什么又想起了那两句诗：“有花堪折直须折，莫待无花空折枝”……吾这样做，到底是对还是错，又或者在情与爱面前，根本没有对与错，只有拥有或者失去……</string>
+</resources>

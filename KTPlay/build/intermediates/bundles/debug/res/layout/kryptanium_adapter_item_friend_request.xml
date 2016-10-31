@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 好友请求列表页面 -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        style="@style/kryptanium_list_item"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/kryptanium_topic_item_user_info_rl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/kryptanium_friendrequest_accept_layout"
+            android:paddingBottom="12dp"
+            android:paddingTop="12dp">
+
+            <include
+                layout="@layout/kt_item_avatar"
+                android:layout_width="@dimen/kt_avatar_width"
+                android:layout_height="@dimen/kt_avatar_height"
+                android:layout_marginRight="12dp" />
+
+            <TextView
+                android:id="@+id/kt_item_title"
+                style="@style/kryptanium_primary_text_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="12dp"
+                android:layout_toRightOf="@id/kt_item_avatar"
+                android:ellipsize="end"
+                android:includeFontPadding="false"
+                android:maxLines="1" />
+
+            <TextView
+                android:id="@+id/kryptanium_leaderboard_friend_info_content"
+                style="@style/kryptanium_secondary_text_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/kt_item_title"
+                android:layout_below="@+id/kt_item_title"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="6dp"
+                android:ellipsize="end"
+                android:includeFontPadding="false"
+                android:maxLines="1" />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/kryptanium_friendrequest_accept_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true">
+
+            <TextView
+                android:id="@+id/kryptanium_friends_repuest_agree"
+                android:layout_width="@dimen/kryptanium_msgbox_item_textview_down_width"
+                android:layout_height="@dimen/kryptanium_msgbox_item_textview_down_height"
+                android:background="@drawable/kryptanium_colorbg_green"
+                android:gravity="center"
+                android:text="@string/kt_accept"
+                android:textColor="@color/kryptanium_text_white"
+                android:visibility="visible" />
+        </FrameLayout>
+    </RelativeLayout>
+
+</LinearLayout>

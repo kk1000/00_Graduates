@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="kt_please_wait">잠시만 기다려주세요...</string>
+    <string name="kt_loading">로딩 중...</string>
+    <string name="kt_load_failed_retry">로딩실패! 재시도하세요.</string>
+    <string name="kt_pressagain_to_quit">다시 백버튼을 클릭하여 게임화면으로 전환</string>
+    <string name="kt_sdcard_unavailable">SD카드를 찾지 못했습니다.</string>
+    <string name="kt_sns_app_unavailable" formatted="false">아직 %@클라이언트를 설치하지 않았거나 버전이 너무 낮습니다</string>
+    <string name="kt_login_with_channel_account" formatted="false">%@계정으로 로그인</string>
+    <string name="kt_log_appkey">[KTPlaySDK정보]App Key:\t\t</string>
+    <string name="kt_log_appsecret">[KTPlaySDK정보]App Secret:\t\t</string>
+    <string name="kt_log_kryptanium_version">[KTPlaySDK정보]SDK버전:</string>
+    <string name="kt_log_kryptanium_type">[KTPlaySDK정보]버전유형:</string>
+    <string name="kt_log_kryptanium_type_china">국내버전</string>
+    <string name="kt_log_kryptanium_type_international">해외버전</string>
+    <string name="kt_log_kryptanium_type_universal">글로벌버전</string>
+    <string name="kt_log_kryptanium_channelid">설정한 스토어번호</string>
+    <string name="kt_error_failurereason">오류원인</string>
+    <string name="kt_error_recoverysuggestion">해결방법</string>
+    <string name="kt_plugin_not_found">플로그인을 찾지 못했습니다</string>
+    <string name="kt_locked_loginchannel_plugin_missed" formatted="false">유저님은 %@(을)를 유일한 로그인방식으로 지정했지만 관련된 플러그인을 사용하고 있지 않습니다</string>
+    <string name="kt_locked_loginchannel_plugin_missed_suggestion" formatted="false">만약 %@(으)로 로그인해야 되면 %@ 관련되는 플러그인을 추가하세요; &amp;#xA;만약 %@(으)로 로그인하지 않아도 되면 AndroidManifest.xml메일에서 KTPLAY_LOCK_LOGINTYPE이라는 meta-data를 삭제하세요.</string>
+    <string name="kt_terms_agreement">로그인 혹은 회원가입은 유저님이 KTplay의 유저약관에 동의했고 13세를 초과했음을 의미합니다.</string>
+    <string name="kt_terms_agreement_link">유저약관</string>
+    <string name="kt_photo_select">모든사진</string>
+    <string name="kt_max_of_photos" formatted="false">최대 %@장의 이미지를 선택할수 있습니다</string>
+    <string name="kt_saved" formatted="false">보관함: %@</string>
+    <string name="kt_try_verify_number_signature">첫 1회만 무료로 사용가능하지만 휴대폰 번호를 연동하시면 영구적으로 사용 가능합니다</string>
+    <string name="kt_try_verify_email_signature">첫 1회는 무료로 사용가능하지만 메일을 연동하시면 영구적으로 사용 가능합니다</string>
+    <string name="kt_verify_number_signature">휴대폰번호를 연동해야 사용할 수 있습니다!</string>
+    <string name="kt_verify_email_signature">메일주소를 입력하시면 동영상 서명 기능을 이용할 수 있습니다</string>
+    <string name="kt_allow_storage" formatted="false">%@에 장치 메모리 액세스 권한 부여</string>
+    <string name="kt_activate_storage" formatted="false">게임내 커뮤니티는 사용자의 장치 메모리를 이용하여 게임 관련 콘텐츠를 표시하고 발표해야 합니다. 사용자는 설정 - 앱 - %@ - 권한을 통해 장치 메모리 권한을 열 수 있습니다.</string>
+    <string name="kt_allow_record_audio" formatted="false">%@에 마이크 액세스 권한 부여</string>
+    <string name="kt_activate_audio" formatted="false">게임 커뮤니티의 마이크 액세스를 허용해야 음성 메시지를 녹음할 수 있습니다. 설정 - 앱 - %@권한에서 마이크 권한을 설정할 수 있습니다.</string>
+</resources>

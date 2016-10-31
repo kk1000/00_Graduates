@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 邮箱注册 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!-- 内容区 -->
+
+        <LinearLayout
+            android:layout_width="@dimen/kryptanium_login_content_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <!-- 信封icon -->
+
+            <ImageView
+                android:id="@+id/kryptanium_emailicon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="24dp"
+                android:background="@drawable/kt_icon_email" />
+            <!-- 邮箱名字 -->
+
+            <TextView
+                android:id="@+id/kryptanium_email_username"
+                style="@style/kryptanium_primary_text_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="12dp"
+                android:textColor="@color/kt_theme_color"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/kryptanium_email_description"
+                style="@style/kryptanium_primary_text_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="12dp"
+                android:text="@string/kt_enter_email" />
+            <!-- 用户名/邮箱 -->
+
+            <com.ktplay.widget.KTClearableEditText
+                android:id="@+id/kryptanium_emailregister_username"
+                style="@style/kryptanium_edittext"
+                android:layout_width="match_parent"
+                android:layout_marginTop="8dp"
+                android:hint="@string/kt_email"
+                android:inputType="textEmailAddress" />
+
+            <!-- 密码 -->
+
+            <com.ktplay.widget.KTClearableEditText
+                android:id="@+id/kryptanium_emailregister_password"
+                style="@style/kryptanium_edittext"
+                android:layout_width="match_parent"
+                android:layout_marginTop="5dp"
+                android:hint="@string/kt_password_placeholder"
+                android:inputType="textPassword" />
+
+            <!-- 注册按钮 -->
+
+            <TextView
+                android:id="@+id/kryptanium_emailregister_register"
+                style="@style/kryptanium_button_style_main"
+                android:layout_width="match_parent"
+                android:layout_marginTop="8dp"
+                android:text="@string/kt_done" />
+
+            <TextView
+                android:id="@+id/kryptanium_emailregister_determine"
+                style="@style/kryptanium_button_style_main"
+                android:layout_width="match_parent"
+                android:layout_marginTop="8dp"
+                android:text="@string/kt_i_know"
+
+                android:visibility="gone" />
+            <!-- 用户条款和隐私协议 -->
+
+            <com.ktplay.widget.KTLinkableTextView
+                android:id="@+id/kryptanium_emailregister_privacy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/kt_terms_agreement"
+                android:textColor="@color/kryptanium_text_dark_gray"
+                android:textSize="@dimen/kryptanium_fontsize_middle" />
+        </LinearLayout>
+
+    </ScrollView>
+</FrameLayout>

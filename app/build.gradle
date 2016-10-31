@@ -1,0 +1,78 @@
+apply plugin: 'com.android.application'
+apply plugin: 'bugly'
+
+bugly {
+    appId = 'b77676f5a3'
+    appKey = '1674c344-91eb-4b13-85ab-ae54405af19a'
+}
+
+// 配置了所有android构建的参数
+android {
+    // 编译使用SDK版本
+    signingConfigs {
+        nEdAy {
+            keyAlias 'neday'
+            keyPassword 'abcd1234'
+            storeFile file('Z:/Users/nEdAy/nEdAy.jks')
+            storePassword 'abcd1234'
+        }
+    }
+
+    compileSdkVersion 25
+    // 编译工具的版本
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.xpple.graduates"
+        minSdkVersion 15
+        //noinspection OldTargetApi  逃避权限管理,壓制目标SDK版本，如果目标设备的API版本正好等于此数值，就不会为此程序开启兼容性检查判断的工作
+        targetSdkVersion 22
+        versionCode 169
+        versionName "1.6.9"
+        resConfigs "zh"
+        ndk {
+            // 设置支持的SO库架构
+            abiFilters 'armeabi', 'x86'//, 'armeabi-v7a', 'x86_64', 'arm64-v8a'
+        }
+    }
+    buildTypes {
+        debug {
+            //显示Log
+            buildConfigField "boolean", "LOG_DEBUG", "true"
+            //设置是否混淆
+            minifyEnabled true
+            //设置压缩对齐 Zipalign优化
+            zipAlignEnabled true
+            //移除无用的资源文件  慎用危险！如方法getResources().getIdentifier无效,另阿里百川和京东开普勒的图片签名认证会出现问题
+            shrinkResources true
+            signingConfig signingConfigs.nEdAy
+            //设置混淆配置文件 proguard-android.txt在sdk目录里面，不用管，proguard-rules.pro是我们自己配的混淆文件
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        // 发布时候的设置
+        release {
+            //不显示Log
+            buildConfigField "boolean", "LOG_DEBUG", "false"
+            //设置是否混淆
+            minifyEnabled true
+            //设置压缩对齐 Zipalign优化
+            zipAlignEnabled true
+            //移除无用的资源文件  慎用危险！如方法getResources().getIdentifier无效,另阿里百川和京东开普勒的图片签名认证会出现问题
+            shrinkResources true
+            signingConfig signingConfigs.nEdAy
+            //设置混淆配置文件 proguard-android.txt在sdk目录里面，不用管，proguard-rules.pro是我们自己配的混淆文件
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':KTPlay')
+    compile 'com.android.support:support-v4:25.0.0'
+    compile 'uk.co.chrisjenx:calligraphy:2.2.0'
+    compile 'com.nineoldandroids:library:2.4.0'
+    //Bugly Upgrade
+    compile 'com.tencent.bugly:crashreport_upgrade:1.1.7'
+    compile 'com.tencent.bugly:nativecrashreport:3.0'
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 首页 -->
+<com.ktplay.widget.PullRefreshView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_pull_refresh_viewgroup"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.ktplay.widget.KTScrollView
+        android:id="@+id/kryptanium_hot_page_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/kryptanium_hot_page_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/kryptanium_home_top_layout_marginBottom"
+            android:layout_marginTop="0dp"
+            android:orientation="vertical">
+
+            <!-- line1 -->
+
+
+            <!-- line2 -->
+
+
+            <!-- line3 -->
+
+        </LinearLayout>
+    </com.ktplay.widget.KTScrollView>
+</com.ktplay.widget.PullRefreshView>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kryptanium_menuitem_gender_male"
+        android:icon="@drawable/kryptanium_male"
+        android:title="@string/kt_male" />
+    <item
+        android:id="@+id/kryptanium_menuitem_gender_female"
+        android:icon="@drawable/kryptanium_female"
+        android:title="@string/kt_female" />
+</menu>

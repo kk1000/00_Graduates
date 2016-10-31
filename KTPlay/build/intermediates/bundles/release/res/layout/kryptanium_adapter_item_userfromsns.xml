@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 添加好友 - 从社交关系中添加 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/kryptanium_list_item_with_noclick"
+    android:layout_gravity="center_vertical">
+
+    <!-- KT用户头像 -->
+
+    <include layout="@layout/kt_item_avatar" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="80dp"
+        android:orientation="vertical"
+        android:paddingLeft="45dp">
+        <!-- KT用户昵称 -->
+        <TextView
+            android:id="@id/kt_item_title"
+            style="@style/kryptanium_primary_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:maxLines="1" />
+
+        <!-- SNS用户昵称 -->
+        <TextView
+            android:id="@id/kt_item_content"
+            style="@style/kryptanium_secondary_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:maxLines="1" />
+    </LinearLayout>
+
+    <!-- 添加按钮 -->
+    <TextView
+        android:id="@+id/kryptanium_userfromsns_add"
+        style="@style/kryptanium_button_style_main"
+        android:layout_width="60dp"
+        android:layout_gravity="center_vertical|right"
+        android:text="@string/kt_add" />
+</FrameLayout>

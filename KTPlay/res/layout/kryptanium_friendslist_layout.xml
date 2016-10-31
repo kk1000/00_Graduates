@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 新好友请求 -->
+
+    <FrameLayout
+        android:id="@+id/kryptanium_friendspage_friends_request_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="50dp"
+        android:padding="8dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/kryptanium_friend_requests" />
+
+        <TextView
+            style="@style/kryptanium_primary_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="45dp" />
+
+        <ImageView
+            android:id="@id/kryptanium_arrow_flag"
+            android:layout_width="@dimen/kryptanium_user_profile_set_flag_width_height"
+            android:layout_height="@dimen/kryptanium_user_profile_set_flag_width_height"
+            android:layout_gravity="center_vertical|right"
+            android:scaleType="centerInside"
+            android:src="@drawable/kryptanium_right_arrow" />
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/kryptanium_friendspage_friends_request_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/kt_theme_highlighted_item_background"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:visibility="gone">
+
+        <!-- 好友请求 -->
+
+        <TextView
+            android:id="@+id/kryptanium_ishasrequests"
+            style="@style/kryptanium_primary_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="@string/kt_friend_requests" />
+
+        <!--
+         <ListView
+        android:id="@+id/kryptanium_friendrequest_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/kryptanium_selected_bg_grey"
+        android:dividerHeight="0.4dp"
+        android:fadingEdge="none"
+        android:listSelector="#00000000"/>
+        -->
+
+        <RelativeLayout
+            android:id="@+id/kryptanium_listview_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/kryptanium_ishasrequests"
+            android:layout_gravity="center"
+            android:layout_toLeftOf="@+id/kryptanium_tabindicator_new_msg_layout"
+            android:gravity="center">
+
+            <com.ktplay.widget.HorizontalListView
+                android:id="@+id/kryptanium_friendrequest_listview"
+                style="@style/kryptanium_list"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="5dp"
+                android:clickable="false" />
+
+
+            <!-- 解决新请求列表点击不能进入下一级的问题 -->
+            <View
+                android:id="@+id/kryptanium_friendrequest_mask"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:background="@null" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/kryptanium_tabindicator_new_msg_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/kryptanium_tabindicator_new_msg"
+                android:layout_width="23dp"
+                android:layout_height="23dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/kryptanium_new_msg"
+                android:contentDescription="@null"
+                android:gravity="center"
+                android:textColor="@color/kryptanium_text_white" />
+
+            <ImageView
+                android:id="@id/kryptanium_arrow_flag"
+                android:layout_width="@dimen/kryptanium_user_profile_set_flag_width_height"
+                android:layout_height="@dimen/kryptanium_user_profile_set_flag_width_height"
+                android:scaleType="centerInside"
+                android:src="@drawable/kryptanium_right_arrow" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/kryptanium_ishasfriends_ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/kryptanium_default_gap_half"
+        android:visibility="gone">
+
+        <!--   <TextView
+              android:id="@+id/kryptanium_ishasfriends"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="@dimen/kryptanium_default_gap"
+              android:layout_marginRight="@dimen/kryptanium_default_gap_half"
+              android:layout_marginTop="@dimen/kryptanium_default_gap_2x"
+              android:gravity="center"
+              android:textSize="@dimen/kryptanium_fontsize_large"
+              android:textColor="@color/kryptanium_text_dark"
+              android:text="@string/s_kt_friends_nofriends"/> -->
+
+        <LinearLayout
+            android:id="@+id/kryptanium_add_friends"
+            android:layout_width="@dimen/kryptanium_user_login_wh_new"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/kryptanium_default_gap"
+            android:background="@drawable/kryptanium_colorbg_green"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/kt_add_friends"
+                android:textColor="@color/kryptanium_text_white"
+                android:textSize="@dimen/kryptanium_fontsize_big" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/kryptanium_friends_listview"
+        style="@style/kryptanium_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

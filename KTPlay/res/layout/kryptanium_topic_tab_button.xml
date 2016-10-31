@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:layout_gravity="center"
+    android:background="@color/kt_theme_titlebar_background"
+    android:clickable="true"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/kryptanium_topic_textview"
+            android:layout_width="85dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="@string/kt_all_topics"
+            android:textColor="@color/kt_state_text"
+            android:textSize="@dimen/kryptanium_text_size_big" />
+
+        <ImageView
+            android:id="@+id/kryptanium_topic_imageview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:contentDescription="@null"
+            android:paddingLeft="6dp"
+            android:src="@drawable/kt_topic_tab_classify_selector" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/kryptanium_bar_line"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/kt_topic_tab_item_barline_selector" />
+
+</FrameLayout>

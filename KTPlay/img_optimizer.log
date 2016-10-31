@@ -1,0 +1,546 @@
+2016-08-23 16:10:51  info:  Task optimizeKTPlayRelease begin:
+----------------------------------------
+2016-08-23 16:10:51  info:  182 images need to be optimized.
+----------------------------------------
+2016-08-23 16:10:51  info:  Succeed! 403B-->401B, 0.49627793% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_inbox.png
+----------------------------------------
+2016-08-23 16:10:51  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-hdpi-v4\ktplay_plugin_sns_button_close_normal.png
+----------------------------------------
+2016-08-23 16:10:51  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_inreview.png
+----------------------------------------
+2016-08-23 16:10:52  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-hdpi-v4\ktplay_plugin_sns_button_close_pressed.png
+----------------------------------------
+2016-08-23 16:10:52  info:  Succeed! 5867B-->3678B, 37.31038% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_ktplay.png
+----------------------------------------
+2016-08-23 16:10:52  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-hdpi-v4\ktplay_plugin_sns_null.png
+----------------------------------------
+2016-08-23 16:10:52  info:  Succeed! 344B-->339B, 1.4534883% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_like_normal.png
+----------------------------------------
+2016-08-23 16:10:52  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_btn_download_icon.png
+----------------------------------------
+2016-08-23 16:10:52  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_like_selected.png
+----------------------------------------
+2016-08-23 16:10:52  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_button_addfriend_icon.png
+----------------------------------------
+2016-08-23 16:10:52  info:  Succeed! 193B-->184B, 4.6632123% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_manage.png
+----------------------------------------
+2016-08-23 16:10:52  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_button_add_image_icon.png
+----------------------------------------
+2016-08-23 16:10:52  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_newstatus.png
+----------------------------------------
+2016-08-23 16:10:52  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_button_delete_icon.png
+----------------------------------------
+2016-08-23 16:10:52  info:  Succeed! 346B-->338B, 2.3121388% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_openfile.png
+----------------------------------------
+2016-08-23 16:10:52  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_button_fullscreen_close_icon.png
+----------------------------------------
+2016-08-23 16:10:53  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_openfile_selected.png
+----------------------------------------
+2016-08-23 16:10:53  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_button_title_icon.png
+----------------------------------------
+2016-08-23 16:10:53  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat.png
+----------------------------------------
+2016-08-23 16:10:53  info:  Succeed! 21308B-->8057B, 62.187912% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_people.png
+----------------------------------------
+2016-08-23 16:10:53  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_addimgbtn_background.png
+----------------------------------------
+2016-08-23 16:10:53  info:  Succeed! 337B-->326B, 3.264095% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_person.png
+----------------------------------------
+2016-08-23 16:10:53  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_album_background.png
+----------------------------------------
+2016-08-23 16:10:53  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_recent.png
+----------------------------------------
+2016-08-23 16:10:53  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_expression_icon.png
+----------------------------------------
+2016-08-23 16:10:53  info:  Succeed! 354B-->348B, 1.6949153% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_redo.png
+----------------------------------------
+2016-08-23 16:10:53  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_keyboard_icon.png
+----------------------------------------
+2016-08-23 16:10:53  info:  Succeed! 309B-->296B, 4.20712% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_reply.png
+----------------------------------------
+2016-08-23 16:10:54  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_reply_large.png
+----------------------------------------
+2016-08-23 16:10:54  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_login.png
+----------------------------------------
+2016-08-23 16:10:54  info:  Succeed! 415B-->382B, 7.951807% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_report.png
+----------------------------------------
+2016-08-23 16:10:54  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_screenshot_background.png
+----------------------------------------
+2016-08-23 16:10:54  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_reward.png
+----------------------------------------
+2016-08-23 16:10:54  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_voice_icon.png
+----------------------------------------
+2016-08-23 16:10:54  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_search.png
+----------------------------------------
+2016-08-23 16:10:54  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_voicing_me_v1.png
+----------------------------------------
+2016-08-23 16:10:54  info:  Succeed! 433B-->394B, 9.006928% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_share.png
+----------------------------------------
+2016-08-23 16:10:54  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_voicing_me_v2.png
+----------------------------------------
+2016-08-23 16:10:54  info:  Succeed! 580B-->564B, 2.7586207% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_tag.png
+----------------------------------------
+2016-08-23 16:10:54  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_voicing_me_v3.png
+----------------------------------------
+2016-08-23 16:10:55  info:  Succeed! 580B-->564B, 2.7586207% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_tag_selected.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_voicing_me_v4.png
+----------------------------------------
+2016-08-23 16:10:55  info:  Succeed! 349B-->348B, 0.28653294% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_topic.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_voicing_other_v1.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_vote.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_voicing_other_v2.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_loading_w.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_voicing_other_v3.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_loading_w_x2.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_chat_volume.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_male.png
+----------------------------------------
+2016-08-23 16:10:55  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_check_false.png
+----------------------------------------
+2016-08-23 16:10:55  info:  Succeed! 196B-->192B, 2.0408163% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_more.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_check_true.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_new_msg_img.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_clear_input_button.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_profile_setting_icon.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_close_dialog_img.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_promotion_donwload.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_close_icon.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_reply_button_bg.png
+----------------------------------------
+2016-08-23 16:10:56  info:  Succeed! 2341B-->2340B, 0.042716786% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_collections_new.png
+----------------------------------------
+2016-08-23 16:10:56  info:  Succeed! 6494B-->3804B, 41.42285% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_retrievepwd_icon.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_complete_userprofile_default_icon.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_right_arrow.png
+----------------------------------------
+2016-08-23 16:10:56  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_complete_userprofile_default_icon_mask.png
+----------------------------------------
+2016-08-23 16:10:57  info:  Succeed! 465B-->449B, 3.4408603% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_setting_btn_icon.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_default_icon_album.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabicon_msgbox.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_default_icon_head.png
+----------------------------------------
+2016-08-23 16:10:57  info:  Succeed! 254B-->253B, 0.39370078% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_chat.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_draft_icon_delete.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_chat_select.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_draft_icon_edit.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_hot.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_draft_icon_resend.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_hot_select.png
+----------------------------------------
+2016-08-23 16:10:57  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_1.png
+----------------------------------------
+2016-08-23 16:10:58  info:  Succeed! 552B-->541B, 1.9927536% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_login.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_10.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_login_select.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_11.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_logon.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_12.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_logon_border.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_13.png
+----------------------------------------
+2016-08-23 16:10:58  info:  Succeed! 257B-->239B, 7.003891% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_logon_border_select.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_14.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_topic.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_15.png
+----------------------------------------
+2016-08-23 16:10:58  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_topic_select.png
+----------------------------------------
+2016-08-23 16:10:59  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_16.png
+----------------------------------------
+2016-08-23 16:10:59  info:  Succeed! 371B-->366B, 1.347709% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_users.png
+----------------------------------------
+2016-08-23 16:10:59  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_17.png
+----------------------------------------
+2016-08-23 16:10:59  info:  Succeed! 461B-->456B, 1.0845987% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_users_select.png
+----------------------------------------
+2016-08-23 16:10:59  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_18.png
+----------------------------------------
+2016-08-23 16:10:59  info:  Succeed! 300B-->215B, 28.333334% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_titlebar_button_back_icon.png
+----------------------------------------
+2016-08-23 16:10:59  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_19.png
+----------------------------------------
+2016-08-23 16:10:59  info:  Succeed! 216B-->215B, 0.46296296% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_titlebar_button_back_icon_white.png
+----------------------------------------
+2016-08-23 16:10:59  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_2.png
+----------------------------------------
+2016-08-23 16:10:59  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_titlebar_button_icon_blue.png
+----------------------------------------
+2016-08-23 16:10:59  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_20.png
+----------------------------------------
+2016-08-23 16:10:59  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_topic_button_bg.png
+----------------------------------------
+2016-08-23 16:10:59  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_21.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_topic_classify_text_down_selected.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_22.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_topic_classify_text_down_selected_press.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_23.png
+----------------------------------------
+2016-08-23 16:11:00  info:  Succeed! 1754B-->1461B, 16.704676% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_video_mask.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_24.png
+----------------------------------------
+2016-08-23 16:11:00  info:  Succeed! 119B-->111B, 6.722689% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_video_pause.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_25.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_video_play.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_26.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_video_play_button.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_3.png
+----------------------------------------
+2016-08-23 16:11:00  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_active_user.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_4.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_collection.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_5.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_image.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_6.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_promoted_games.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_7.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_video.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_8.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_video_play.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_9.png
+----------------------------------------
+2016-08-23 16:11:01  info:  Succeed! 3246B-->2185B, 32.686382% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_binding_phone_default.png
+----------------------------------------
+2016-08-23 16:11:01  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_emoji_del_icon.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_email.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_female.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_email_sent.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_flag_album_normal.png
+----------------------------------------
+2016-08-23 16:11:02  info:  Succeed! 5378B-->2894B, 46.188175% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_functionality.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_flag_caution.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_reward.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_flag_friend_invite_already.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_favorite_normal.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_flag_friend_invite_normal.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_favorite_selected.png
+----------------------------------------
+2016-08-23 16:11:02  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_flag_friend_invite_selected.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_like_normal.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_frame_selected_bar.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_like_selected.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_friendupdates.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_normal.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_friend_requests.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_progress_thumb.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_friend_title_button.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_reply.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_frineds_contacts.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_selected.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_frineds_kt.png
+----------------------------------------
+2016-08-23 16:11:03  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_white.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_frineds_nearby.png
+----------------------------------------
+2016-08-23 16:11:04  info:  Succeed! 3420B-->2745B, 19.736841% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_logo.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_his_friend_icon.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_share_icon.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_hotgame_btn_n.png
+----------------------------------------
+2016-08-23 16:11:04  info:  Succeed! 967B-->909B, 5.997932% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_star_big_on.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_album.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_videosignature_placeholder.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_alert_done.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_video_icon.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_alert_failed.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_video_replay.png
+----------------------------------------
+2016-08-23 16:11:04  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_block.png
+----------------------------------------
+2016-08-23 16:11:05  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_vote_icon.png
+----------------------------------------
+2016-08-23 16:11:05  info:  Total: 182, Succeed: 57, Skipped: 125, Failed: 0, Saved: 27.2900390625KB
+----------------------------------------
+2016-08-23 16:11:05  info:  Task optimizeKTPlayDebug executed successfully.
+----------------------------------------
+2016-08-23 16:11:05  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_camera.png
+----------------------------------------
+2016-08-23 16:11:05  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_checked.png
+----------------------------------------
+2016-08-23 16:11:05  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_copy.png
+----------------------------------------
+2016-08-23 16:11:05  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_delete.png
+----------------------------------------
+2016-08-23 16:11:05  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_download.png
+----------------------------------------
+2016-08-23 16:11:05  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_draft.png
+----------------------------------------
+2016-08-23 16:11:05  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_emoji.png
+----------------------------------------
+2016-08-23 16:11:06  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_emoji_selected.png
+----------------------------------------
+2016-08-23 16:11:06  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_favorite_large_normal.png
+----------------------------------------
+2016-08-23 16:11:06  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_favorite_large_selected.png
+----------------------------------------
+2016-08-23 16:11:06  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_favorite_normal.png
+----------------------------------------
+2016-08-23 16:11:06  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_favorite_selected.png
+----------------------------------------
+2016-08-23 16:11:06  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_home.png
+----------------------------------------
+2016-08-23 16:11:06  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_inbox.png
+----------------------------------------
+2016-08-23 16:11:06  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_inreview.png
+----------------------------------------
+2016-08-23 16:11:06  info:  Succeed! 3678B-->3667B, 0.29907557% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_ktplay.png
+----------------------------------------
+2016-08-23 16:11:07  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_like_normal.png
+----------------------------------------
+2016-08-23 16:11:07  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_like_selected.png
+----------------------------------------
+2016-08-23 16:11:07  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_manage.png
+----------------------------------------
+2016-08-23 16:11:07  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_newstatus.png
+----------------------------------------
+2016-08-23 16:11:07  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_openfile.png
+----------------------------------------
+2016-08-23 16:11:07  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_openfile_selected.png
+----------------------------------------
+2016-08-23 16:11:07  info:  Succeed! 8057B-->8034B, 0.28546605% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_people.png
+----------------------------------------
+2016-08-23 16:11:07  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_person.png
+----------------------------------------
+2016-08-23 16:11:08  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_recent.png
+----------------------------------------
+2016-08-23 16:11:08  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_redo.png
+----------------------------------------
+2016-08-23 16:11:08  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_reply.png
+----------------------------------------
+2016-08-23 16:11:08  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_reply_large.png
+----------------------------------------
+2016-08-23 16:11:08  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_report.png
+----------------------------------------
+2016-08-23 16:11:08  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_reward.png
+----------------------------------------
+2016-08-23 16:11:08  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_search.png
+----------------------------------------
+2016-08-23 16:11:09  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_share.png
+----------------------------------------
+2016-08-23 16:11:09  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_tag.png
+----------------------------------------
+2016-08-23 16:11:09  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_tag_selected.png
+----------------------------------------
+2016-08-23 16:11:09  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_topic.png
+----------------------------------------
+2016-08-23 16:11:09  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_icon_vote.png
+----------------------------------------
+2016-08-23 16:11:09  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_loading_w.png
+----------------------------------------
+2016-08-23 16:11:09  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_loading_w_x2.png
+----------------------------------------
+2016-08-23 16:11:10  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_male.png
+----------------------------------------
+2016-08-23 16:11:10  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_more.png
+----------------------------------------
+2016-08-23 16:11:10  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_new_msg_img.png
+----------------------------------------
+2016-08-23 16:11:10  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_profile_setting_icon.png
+----------------------------------------
+2016-08-23 16:11:10  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_promotion_donwload.png
+----------------------------------------
+2016-08-23 16:11:10  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_reply_button_bg.png
+----------------------------------------
+2016-08-23 16:11:10  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_retrievepwd_icon.png
+----------------------------------------
+2016-08-23 16:11:10  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_right_arrow.png
+----------------------------------------
+2016-08-23 16:11:10  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_setting_btn_icon.png
+----------------------------------------
+2016-08-23 16:11:11  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabicon_msgbox.png
+----------------------------------------
+2016-08-23 16:11:11  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_chat.png
+----------------------------------------
+2016-08-23 16:11:11  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_chat_select.png
+----------------------------------------
+2016-08-23 16:11:11  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_hot.png
+----------------------------------------
+2016-08-23 16:11:11  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_hot_select.png
+----------------------------------------
+2016-08-23 16:11:11  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_login.png
+----------------------------------------
+2016-08-23 16:11:11  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_login_select.png
+----------------------------------------
+2016-08-23 16:11:11  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_logon.png
+----------------------------------------
+2016-08-23 16:11:12  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_logon_border.png
+----------------------------------------
+2016-08-23 16:11:12  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_profile_logon_border_select.png
+----------------------------------------
+2016-08-23 16:11:12  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_topic.png
+----------------------------------------
+2016-08-23 16:11:12  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_topic_select.png
+----------------------------------------
+2016-08-23 16:11:12  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_users.png
+----------------------------------------
+2016-08-23 16:11:12  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_tabindicator_button_users_select.png
+----------------------------------------
+2016-08-23 16:11:12  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_titlebar_button_back_icon.png
+----------------------------------------
+2016-08-23 16:11:12  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_titlebar_button_back_icon_white.png
+----------------------------------------
+2016-08-23 16:11:12  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_titlebar_button_icon_blue.png
+----------------------------------------
+2016-08-23 16:11:13  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_topic_button_bg.png
+----------------------------------------
+2016-08-23 16:11:13  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_topic_classify_text_down_selected.png
+----------------------------------------
+2016-08-23 16:11:13  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_topic_classify_text_down_selected_press.png
+----------------------------------------
+2016-08-23 16:11:13  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_video_mask.png
+----------------------------------------
+2016-08-23 16:11:13  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_video_pause.png
+----------------------------------------
+2016-08-23 16:11:13  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_video_play.png
+----------------------------------------
+2016-08-23 16:11:13  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kryptanium_video_play_button.png
+----------------------------------------
+2016-08-23 16:11:13  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_active_user.png
+----------------------------------------
+2016-08-23 16:11:14  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_collection.png
+----------------------------------------
+2016-08-23 16:11:14  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_image.png
+----------------------------------------
+2016-08-23 16:11:14  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_promoted_games.png
+----------------------------------------
+2016-08-23 16:11:14  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_video.png
+----------------------------------------
+2016-08-23 16:11:14  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_home_video_play.png
+----------------------------------------
+2016-08-23 16:11:14  info:  Succeed! 2185B-->2162B, 1.0526316% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_binding_phone_default.png
+----------------------------------------
+2016-08-23 16:11:14  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_email.png
+----------------------------------------
+2016-08-23 16:11:14  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_email_sent.png
+----------------------------------------
+2016-08-23 16:11:14  info:  Succeed! 2894B-->2889B, 0.17277125% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_functionality.png
+----------------------------------------
+2016-08-23 16:11:15  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_reward.png
+----------------------------------------
+2016-08-23 16:11:15  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_favorite_normal.png
+----------------------------------------
+2016-08-23 16:11:15  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_favorite_selected.png
+----------------------------------------
+2016-08-23 16:11:15  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_like_normal.png
+----------------------------------------
+2016-08-23 16:11:15  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_like_selected.png
+----------------------------------------
+2016-08-23 16:11:15  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_normal.png
+----------------------------------------
+2016-08-23 16:11:15  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_progress_thumb.png
+----------------------------------------
+2016-08-23 16:11:15  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_reply.png
+----------------------------------------
+2016-08-23 16:11:16  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_selected.png
+----------------------------------------
+2016-08-23 16:11:16  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_icon_video_white.png
+----------------------------------------
+2016-08-23 16:11:16  info:  Succeed! 2745B-->2732B, 0.47358835% saved! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_logo.png
+----------------------------------------
+2016-08-23 16:11:16  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_share_icon.png
+----------------------------------------
+2016-08-23 16:11:16  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_star_big_on.png
+----------------------------------------
+2016-08-23 16:11:16  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_videosignature_placeholder.png
+----------------------------------------
+2016-08-23 16:11:16  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_video_icon.png
+----------------------------------------
+2016-08-23 16:11:16  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_video_replay.png
+----------------------------------------
+2016-08-23 16:11:16  warn:  Skipped! Z:\Users\nEdAy\Desktop\Graduates\KTPlay\res\drawable-xhdpi-v4\kt_vote_icon.png
+----------------------------------------
+2016-08-23 16:11:16  info:  Total: 182, Succeed: 6, Skipped: 176, Failed: 0, Saved: 0.07421875KB
+----------------------------------------
+2016-08-23 16:11:16  info:  Task optimizeKTPlayRelease executed successfully.
+----------------------------------------

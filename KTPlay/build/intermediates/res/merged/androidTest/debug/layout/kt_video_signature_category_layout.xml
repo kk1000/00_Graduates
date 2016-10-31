@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingLeft="6dp">
+
+    <FrameLayout
+        android:id="@+id/kt_video_siginature_model_layout"
+        android:layout_width="144dp"
+        android:layout_height="78dp">
+
+        <FrameLayout
+            android:id="@+id/kt_create_topic_video_signature_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginTop="6dp"
+            android:visibility="gone">
+
+            <include layout="@layout/kt_video_signature_nickname_layout" />
+        </FrameLayout>
+        <!--include layout="@layout/kt_video_signature_nickname_layout"/-->
+        <TextView
+            android:id="@+id/kt_create_topic_video_signature_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/kt_no_signature"
+            android:textColor="#ffffff"
+            android:visibility="gone" />
+        <!-- 选择框 -->
+
+        <ImageView
+            android:id="@+id/kt_video_signature_check"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right"
+            android:enabled="true"
+            android:minHeight="45dp"
+            android:minWidth="45dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"
+            android:src="@drawable/kryptanium_checkbox_album"
+            android:visibility="gone" />
+    </FrameLayout>
+</RelativeLayout>

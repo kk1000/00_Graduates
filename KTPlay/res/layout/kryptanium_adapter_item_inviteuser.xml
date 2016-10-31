@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 添加好友(本游戏) -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/kryptanium_list_item">
+
+    <!-- 选择框 -->
+
+    <CheckBox
+        android:id="@+id/kryptanium_inviteuser_check"
+        style="@style/kryptanium_checkbox"
+        android:layout_gravity="center_vertical"
+        android:checked="true"
+        android:clickable="false"
+        android:defaultValue="true" />
+
+
+    <!-- 头像 -->
+    <include
+        layout="@layout/kt_item_avatar"
+        android:layout_width="@dimen/kt_avatar_width"
+        android:layout_height="@dimen/kt_avatar_height"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="33dp" />
+
+    <!-- 性别图标 -->
+
+    <ImageView
+        android:id="@+id/kryptanium_inviteuser_gender"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="77dp"
+        android:background="@null"
+        android:scaleType="fitCenter" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="97dp"
+        android:layout_marginRight="70dp"
+        android:orientation="vertical">
+
+        <!-- 用户昵称 -->
+
+        <TextView
+            android:id="@id/kt_item_title"
+            style="@style/kryptanium_primary_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1" />
+
+        <!--用户名-->
+        <TextView
+            android:id="@+id/kryptanium_inviteuser_username"
+            style="@style/kryptanium_secondary_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1" />
+        <!-- 收到的赞 -->
+        <!-- <TextView
+             style="@style/kryptanium_secondary_text_light"
+             android:id="@+id/kryptanium_inviteuser_likes"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:maxLines="1"
+             />-->
+    </LinearLayout>
+
+    <!-- 发送状态 -->
+
+    <TextView
+        android:id="@+id/kryptanium_inviteuser_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|right"
+        android:background="#00000000"
+        android:maxLines="1"
+        android:textColor="@color/kryptanium_text_dark_gray"
+        android:textSize="@dimen/kryptanium_text_size_small" />
+
+</FrameLayout>

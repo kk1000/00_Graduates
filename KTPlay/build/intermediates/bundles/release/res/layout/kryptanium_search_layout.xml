@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fadingEdge="none"
+    android:orientation="vertical"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/kryptanium_search_hot"
+            style="@style/kryptanium_primary_text_light"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/kryptanium_listitem_vpadding"
+            android:text="@string/kt_hot_searches" />
+
+        <com.ktplay.widget.KTGridViewInScrollView
+            android:id="@+id/kryptanium_search_hot_gridview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:cacheColorHint="#00000000"
+            android:gravity="center"
+            android:horizontalSpacing="@dimen/kryptanium_frame_wh_padding"
+            android:listSelector="@null"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="@dimen/kryptanium_frame_wh_padding" />
+
+        <TextView
+            android:id="@+id/kryptanium_topic_search_div"
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+
+        <com.ktplay.widget.KTListViewInScrollView
+            android:id="@+id/kryptanium_topic_search_listview"
+            style="@style/kryptanium_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+</ScrollView>

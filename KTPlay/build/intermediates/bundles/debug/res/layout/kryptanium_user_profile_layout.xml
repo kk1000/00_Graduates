@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <!-- 好友相关按钮 (添加/解除好友关系) -->
+    <TextView
+        android:id="@+id/kryptanium_profile_friend_status"
+        style="@style/kryptanium_button_style_main"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/kt_add_as_friend"
+        android:textColor="@color/kryptanium_text_white"
+        android:visibility="gone" />
+
+    <com.ktplay.widget.PullRefreshView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@id/kryptanium_pull_refresh_viewgroup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/kryptanium_profile_friend_status">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <include layout="@layout/kryptanium_user_profile_userinfo_layout" />
+
+                <FrameLayout
+                    android:id="@+id/kt_profile_ad_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <ListView
+                    android:id="@id/kt_list"
+                    style="@style/kryptanium_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <LinearLayout
+                    android:id="@+id/kryptanium_profile_games_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/kryptanium_profile_games_list_title"
+                        style="@style/kryptanium_primary_text"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/kryptanium_user_profile_games_textview_title_marginBottom"
+                        android:layout_marginLeft="@dimen/kryptanium_layout_marginLeft"
+                        android:layout_marginTop="@dimen/kryptanium_user_profile_games_textview_title_marginTop"
+                        android:includeFontPadding="false"
+                        android:visibility="invisible" />
+
+                    <com.ktplay.widget.HorizontalListView
+                        android:id="@+id/kryptanium_profile_games_list"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/kryptanium_user_profile_games_listview_height"
+                        android:layout_marginBottom="@dimen/kryptanium_user_profile_games_listview_marginBottom"
+                        android:layout_marginLeft="@dimen/kryptanium_layout_marginLeft"
+                        android:cacheColorHint="#ffffffff"
+                        android:listSelector="#00000000"
+                        android:spacing="@dimen/kryptanium_user_profile_listview_spacing" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </com.ktplay.widget.PullRefreshView>
+
+    <!--<LinearLayout-->
+    <!--android:id="@+id/kryptanium_profile_friend_status_bottom_layout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:background="@color/kt_theme_button_mask"-->
+    <!--android:gravity="center"-->
+    <!--android:orientation="vertical"-->
+    <!--android:visibility="gone"-->
+    <!--android:padding="4dp"-->
+    <!--&gt;-->
+
+    <!--<View style="@style/kryptanium_seperate_line"/>-->
+
+
+    <!--</LinearLayout>-->
+
+</RelativeLayout>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 内容区 -->
+
+    <LinearLayout
+        android:layout_width="@dimen/kryptanium_login_content_width"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/kryptanium_retrievepwd_icon" />
+        <!-- 手机号码 -->
+        <TextView
+            android:id="@+id/kryptanium_phone_retrievepwd_phonenumber"
+            style="@style/kryptanium_menu_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="18876589069"
+            android:textColor="#ff29b6f6" />
+
+        <!-- 密码 -->
+
+        <com.ktplay.widget.KTClearableEditText
+            android:id="@+id/kryptanium_phone_retrievepwd_password"
+            style="@style/kryptanium_edittext"
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:hint="@string/kt_password_placeholder"
+            android:inputType="textPassword" />
+
+        <!-- 验证码 -->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp">
+
+            <!-- 获取验证码 -->
+
+            <TextView
+                android:id="@+id/kryptanium_phone_retrievepwd_get_verifycode"
+                style="@style/kryptanium_button_style_main"
+                android:layout_width="100dp"
+                android:layout_gravity="center_vertical"
+                android:text="@string/kt_get_verification_code" />
+
+            <!-- 验证码 -->
+
+            <com.ktplay.widget.KTClearableEditText
+                android:id="@+id/kryptanium_phone_retrievepwd_verifycode"
+                style="@style/kryptanium_edittext"
+                android:layout_width="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="105dp"
+                android:hint="@string/kt_verification_code"
+                android:inputType="number" />
+        </FrameLayout>
+
+        <!-- 下一步按钮 -->
+
+        <TextView
+            android:id="@+id/kryptanium_phone_retrievepwd_next"
+            style="@style/kryptanium_button_style_main"
+            android:layout_width="match_parent"
+            android:layout_marginTop="8dp"
+            android:text="@string/kt_reset" />
+
+        <!-- 用户名重置密码链接 -->
+
+        <!--  <TextView
+             style="@style/kryptanium_link_text"
+             android:id="@+id/kryptanium_phone_retrievepwd_to_username_retrievepwd"
+             android:layout_gravity="center_horizontal|bottom"
+             android:layout_marginTop="40dp"
+             android:text="@string/kt_reset_password_with_email"/> -->
+    </LinearLayout>
+
+</FrameLayout>

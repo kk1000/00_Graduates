@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.ktplay.widget.KTTabView
+        android:id="@+id/kryptanium_topic_tabview"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:visibility="gone"></com.ktplay.widget.KTTabView>
+    <!-- 子controller的显示区域 -->
+
+    <ViewFlipper
+        android:id="@+id/kt_sub_controller_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:paddingTop="4dp" />
+
+</LinearLayout>

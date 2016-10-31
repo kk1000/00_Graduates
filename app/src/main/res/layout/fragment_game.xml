@@ -1,0 +1,407 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg_about"
+    android:gravity="center"
+    tools:context=".ui.gameFragment.GameFragment">
+
+
+    <LinearLayout
+        android:id="@+id/ll_value"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@mipmap/panel"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_value_0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="5dp">
+
+            <ImageView
+                android:id="@+id/btn_exit"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="left"
+                android:contentDescription="@string/ImageViewDescription"
+                android:src="@mipmap/btn_back" />
+
+            <TextView
+                android:id="@+id/tv_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/money"
+                android:paddingLeft="40dp"
+                android:paddingTop="10dp"
+                android:text="@string/money"
+                android:textColor="@color/base_color_text_white" />
+
+            <TextView
+                android:id="@+id/tv_healthy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/healthy"
+                android:paddingLeft="50dp"
+                android:paddingTop="7dp"
+                android:text="@string/healthy"
+                android:textColor="@color/base_color_text_white" />
+
+            <ImageView
+                android:id="@+id/btn_save"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/btn_cundang"
+                android:text="存" />
+
+            <ImageView
+                android:id="@+id/btn_load"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/btn_dudang"
+                android:text="读" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_value_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_ability"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@mipmap/ability"
+                    android:paddingLeft="50dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/ability"
+                    android:textColor="@color/base_color_text_white" />
+
+                <TextView
+                    android:id="@+id/tv_experience"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@mipmap/experience"
+                    android:paddingLeft="50dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/experience"
+                    android:textColor="@color/base_color_text_white" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_communication"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@mipmap/communication"
+                    android:paddingLeft="50dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/communication"
+                    android:textColor="@color/base_color_text_white" />
+
+                <TextView
+                    android:id="@+id/tv_happy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@mipmap/happy"
+                    android:paddingLeft="50dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/happy"
+                    android:textColor="@color/base_color_text_white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_morality"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@mipmap/morality"
+                    android:paddingLeft="50dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/morality"
+                    android:textColor="@color/base_color_text_white" />
+
+                <TextView
+                    android:id="@+id/tv_age"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@mipmap/age"
+                    android:paddingLeft="50dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/age"
+                    android:textColor="@color/base_color_text_white" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_value_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_position"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="false"
+                    android:text="国内中小公司基层员工"
+                    android:textColor="@color/base_color_text_black" />
+
+                <TextView
+                    android:id="@+id/tv_partner"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:paddingTop="3dp"
+                    android:text="@string/no_partner"
+                    android:textColor="@color/base_color_text_black" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_house"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/no_house"
+                    android:textColor="@color/base_color_text_black" />
+
+                <TextView
+                    android:id="@+id/tv_car"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:paddingTop="3dp"
+                    android:text="@string/no_car"
+                    android:textColor="@color/base_color_text_black" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <include
+        android:id="@+id/ss"
+        layout="@layout/solarsystem"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ll_time"
+        android:layout_below="@+id/ll_value" />
+
+    <LinearLayout
+        android:id="@+id/ll_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ll_module"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/surplus_hour"
+                android:textColor="#f27718" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/surplus_month"
+                android:textColor="#f27718" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_time"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#f75d0a" />
+
+            <TextView
+                android:id="@+id/tv_month"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#f75d0a" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/hour"
+                android:textColor="#f27718" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/month"
+                android:textColor="#f27718" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/btn_go_next_month"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@mipmap/btn_nextmonth" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_module"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <ImageView
+            android:id="@+id/stock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/ImageViewDescription"
+            android:padding="5dp"
+            android:src="@mipmap/gupiao_1" />
+
+
+        <ImageView
+            android:id="@+id/position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/ImageViewDescription"
+            android:padding="5dp"
+            android:src="@mipmap/rencai_1" />
+
+
+        <ImageView
+            android:id="@+id/house"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/ImageViewDescription"
+            android:padding="5dp"
+            android:src="@mipmap/fangchan_1" />
+
+
+        <ImageView
+            android:id="@+id/car"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/ImageViewDescription"
+            android:padding="5dp"
+            android:src="@mipmap/qiche_1" />
+
+
+        <ImageView
+            android:id="@+id/partner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/ImageViewDescription"
+            android:padding="5dp"
+            android:src="@mipmap/hongniang_1" />
+
+        <ImageView
+            android:id="@+id/lottery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/ImageViewDescription"
+            android:padding="5dp"
+            android:src="@mipmap/caipiao_1" />
+    </LinearLayout>
+
+</RelativeLayout>

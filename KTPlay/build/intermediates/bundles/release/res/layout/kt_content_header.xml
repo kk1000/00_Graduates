@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 内容(话题/回复等)头 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!-- 内容作者头像 -->
+    <include
+        android:id="@id/kt_item_avatar"
+        layout="@layout/kt_item_avatar"
+        android:layout_width="@dimen/kt_avatar_width_small"
+        android:layout_height="@dimen/kt_avatar_height_small"
+        android:layout_marginRight="6dp" />
+
+
+    <!-- 内容作者名称 -->
+    <TextView
+        android:id="@id/kt_item_title"
+        style="@style/kryptanium_hint_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="6dp"
+        android:layout_toRightOf="@id/kt_item_avatar"
+        android:ellipsize="end"
+        android:gravity="left|center_vertical"
+        android:includeFontPadding="false"
+        android:maxLines="1"
+        android:maxWidth="@dimen/kryptanium_user_topic_headtitle_itemtitle_maxwidth"
+        android:textStyle="bold" />
+
+    <!-- 标识(标签) -->
+    <TextView
+        android:id="@id/kt_item_tag"
+        style="@style/kryptanium_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="6dp"
+        android:layout_toRightOf="@id/kt_item_title"
+        android:gravity="center"
+        android:text="@string/kt_account_adm"
+        android:visibility="gone" />
+
+    <!-- 菜单按钮(More) -->
+    <ImageView
+        android:id="@id/kt_item_menu"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_alignParentRight="true"
+        android:background="@null"
+        android:padding="9dp"
+        android:scaleType="fitEnd"
+        android:src="@drawable/kryptanium_more" />
+
+    <!-- 内容创建时间 -->
+    <TextView
+        android:id="@id/kt_item_time"
+        style="@style/kryptanium_hint_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/kt_item_title"
+        android:layout_below="@id/kt_item_title"
+        android:layout_marginTop="3dp"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:textSize="12sp" />
+
+</RelativeLayout>

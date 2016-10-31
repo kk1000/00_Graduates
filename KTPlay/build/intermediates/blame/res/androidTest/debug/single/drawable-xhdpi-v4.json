@@ -1,0 +1,718 @@
+[
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabicon_msgbox.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabicon_msgbox.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_voicing_me_v4.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_voicing_me_v4.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_reply.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_reply.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_friend_title_button.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_friend_title_button.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_share.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_share.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_newstatus.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_newstatus.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_22.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_22.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_screenshot_background.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_screenshot_background.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_button_title_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_button_title_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_1.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_1.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_video_replay.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_video_replay.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_binding_phone_default.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_binding_phone_default.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_share_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_share_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_flag_friend_invite_already.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_flag_friend_invite_already.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_titlebar_button_back_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_titlebar_button_back_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_flag_friend_invite_normal.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_flag_friend_invite_normal.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_like_normal.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_like_normal.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_login_select.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_login_select.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_19.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_19.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_right_arrow.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_right_arrow.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_volume.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_volume.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_inreview.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_inreview.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_redo.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_redo.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_hotgame_btn_n.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_hotgame_btn_n.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_keyboard_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_keyboard_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_users_select.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_users_select.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_home_image.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_home_image.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_checked.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_checked.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_reply_button_bg.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_reply_button_bg.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_login.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_login.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_topic_button_bg.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_topic_button_bg.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_default_icon_album.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_default_icon_album.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_close_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_close_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_2.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_2.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_voicing_me_v3.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_voicing_me_v3.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_addimgbtn_background.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_addimgbtn_background.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_logon_border_select.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_logon_border_select.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_chat_select.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_chat_select.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_reward.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_reward.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_videosignature_placeholder.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_videosignature_placeholder.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_email_sent.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_email_sent.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_favorite_large_normal.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_favorite_large_normal.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_profile_setting_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_profile_setting_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_report.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_report.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_topic.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_topic.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_home_active_user.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_home_active_user.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_11.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_11.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_draft_icon_delete.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_draft_icon_delete.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_17.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_17.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_reply_large.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_reply_large.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_complete_userprofile_default_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_complete_userprofile_default_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_female.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_female.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_flag_friend_invite_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_flag_friend_invite_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_home_collection.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_home_collection.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_functionality.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_functionality.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_tag_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_tag_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_collections_new.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_collections_new.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_album_background.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_album_background.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_4.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_4.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_frineds_kt.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_frineds_kt.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_20.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_20.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_his_friend_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_his_friend_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_video_progress_thumb.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_video_progress_thumb.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_openfile_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_openfile_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_male.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_male.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_reward.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_reward.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_video_white.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_video_white.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_recent.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_recent.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_draft.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_draft.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_ktplay.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_ktplay.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_16.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_16.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_people.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_people.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_topic.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_topic.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_btn_download_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_btn_download_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_10.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_10.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_download.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_download.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_voicing_me_v2.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_voicing_me_v2.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_titlebar_button_back_icon_white.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_titlebar_button_back_icon_white.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_hot.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_hot.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_26.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_26.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_star_big_on.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_star_big_on.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_email.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_email.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_23.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_23.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_frineds_contacts.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_frineds_contacts.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_topic_classify_text_down_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_topic_classify_text_down_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_button_addfriend_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_button_addfriend_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_button_add_image_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_button_add_image_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_7.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_7.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_logon_border.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_logon_border.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_voice_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_voice_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_14.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_14.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_new_msg_img.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_new_msg_img.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_expression_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_expression_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_setting_btn_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_setting_btn_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_voicing_other_v1.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_voicing_other_v1.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_video_like_normal.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_video_like_normal.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_chat.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_chat.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_video_pause.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_video_pause.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_emoji_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_emoji_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_friend_requests.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_friend_requests.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_video_normal.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_video_normal.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_friendupdates.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_friendupdates.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_home_video.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_home_video.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_vote.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_vote.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_complete_userprofile_default_icon_mask.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_complete_userprofile_default_icon_mask.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_13.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_13.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_video_favorite_normal.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_video_favorite_normal.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_home_video_play.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_home_video_play.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_promotion_donwload.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_promotion_donwload.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_camera.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_camera.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_button_delete_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_button_delete_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_logo.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_logo.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_favorite_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_favorite_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_video_play_button.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_video_play_button.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_draft_icon_edit.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_draft_icon_edit.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_inbox.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_inbox.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_frineds_nearby.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_frineds_nearby.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_users.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_users.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_titlebar_button_icon_blue.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_titlebar_button_icon_blue.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_default_icon_head.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_default_icon_head.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_5.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_5.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_check_true.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_check_true.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_8.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_8.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_alert_done.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_alert_done.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_flag_caution.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_flag_caution.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_album.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_album.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_alert_failed.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_alert_failed.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_close_dialog_img.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_close_dialog_img.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_video_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_video_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_manage.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_manage.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_home.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_home.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_video_favorite_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_video_favorite_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_voicing_other_v2.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_voicing_other_v2.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_emoji.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_emoji.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_like_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_like_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_copy.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_copy.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_topic_classify_text_down_selected_press.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_topic_classify_text_down_selected_press.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_del_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_del_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_25.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_25.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_logon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_logon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_video_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_video_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_more.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_more.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_hot_select.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_hot_select.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_voicing_other_v3.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_voicing_other_v3.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_search.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_search.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_video_reply.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_video_reply.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_login.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_profile_login.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_home_promoted_games.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_home_promoted_games.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_24.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_24.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_loading_w_x2.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_loading_w_x2.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_chat_voicing_me_v1.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_chat_voicing_me_v1.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_tag.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_tag.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_flag_album_normal.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_flag_album_normal.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_clear_input_button.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_clear_input_button.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_button_fullscreen_close_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_button_fullscreen_close_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_person.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_person.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_21.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_21.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_retrievepwd_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_retrievepwd_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_3.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_3.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_video_play.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_video_play.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_frame_selected_bar.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_frame_selected_bar.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_9.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_9.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_favorite_normal.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_favorite_normal.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_icon_video_like_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_icon_video_like_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_block.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_block.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_6.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_6.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_15.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_15.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_openfile.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_openfile.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_check_false.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_check_false.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_12.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_12.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_video_mask.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_video_mask.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_favorite_large_selected.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_favorite_large_selected.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_emoji_18.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_emoji_18.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_topic_select.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_tabindicator_button_topic_select.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_draft_icon_resend.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_draft_icon_resend.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_loading_w.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_loading_w.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kt_vote_icon.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kt_vote_icon.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kryptanium_icon_delete.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kryptanium_icon_delete.png"
+    }
+]

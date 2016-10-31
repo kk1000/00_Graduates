@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_chat_list_layout"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:background="@drawable/kryptanium_listview_item_bg">
+
+    <RelativeLayout
+        android:id="@+id/kryptanium_chat_list_head"
+        android:layout_width="64dp"
+        android:layout_height="64dp">
+
+        <include
+            android:id="@id/kt_item_avatar"
+            layout="@layout/kt_item_avatar"
+            android:layout_width="@dimen/kt_avatar_width"
+            android:layout_height="@dimen/kt_avatar_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:baselineAlignBottom="true" />
+
+
+        <TextView
+            android:id="@+id/kryptanium_chat_list_unread_count"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_alignBottom="@id/kt_item_avatar"
+            android:layout_alignRight="@id/kt_item_avatar"
+            android:background="@drawable/kryptanium_new_msg"
+            android:contentDescription="@null"
+            android:gravity="center"
+            android:textColor="@color/kryptanium_text_white"
+            android:textSize="8sp" />
+
+        <ImageView
+            android:id="@+id/kryptanium_chat_list_unread_count_more"
+            android:layout_width="wrap_content"
+            android:layout_height="16dp"
+            android:layout_alignBottom="@id/kt_item_avatar"
+            android:layout_marginLeft="40dp"
+            android:background="@drawable/kryptanium_new_msg_img"
+            android:contentDescription="@null"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/kryptanium_chat_list_last_time"
+        style="@style/kryptanium_hint_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="6dp"
+        android:layout_marginTop="12dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_toLeftOf="@id/kryptanium_chat_list_last_time"
+        android:layout_toRightOf="@id/kryptanium_chat_list_head"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/kryptanium_chat_list_nickname"
+            style="@style/kryptanium_primary_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:ellipsize="end"
+            android:maxLines="1" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="1dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/kryptanium_chat_list_msg_send_failed"
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/kryptanium_flag_caution" />
+
+            <com.ktplay.widget.KTEmojiText
+                android:id="@+id/kryptanium_chat_list_last_msg"
+                style="@style/kryptanium_secondary_text"
+                android:layout_width="wrap_content"
+                android:layout_height="16dp"
+                android:layout_marginLeft="10dp"
+                android:maxLines="1" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--分別對應上面左圆角的半径，上面右圆角的半径，下面左圆角的半径，下面右圆角的半径-->
+    <solid android:color="@color/kt_theme_titlebar_background"></solid>
+    <corners
+        android:bottomLeftRadius="0dp"
+        android:bottomRightRadius="0dp"
+        android:topLeftRadius="0dp"
+        android:topRightRadius="@dimen/kt_round_corner_border_size" />
+</shape>

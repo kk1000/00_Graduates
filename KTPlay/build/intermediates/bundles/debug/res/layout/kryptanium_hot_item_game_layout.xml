@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@null"
+    android:paddingRight="4dp">
+
+    <com.ktplay.widget.KTRoundRectImageView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/kryptanium_hot_item_player_iv"
+        android:layout_width="@dimen/kt_avatar_size_large"
+        android:layout_height="@dimen/kt_avatar_size_large"
+        android:background="@null" />
+
+</FrameLayout>

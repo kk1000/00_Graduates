@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--&lt;!&ndash; Main Theme Color &ndash;&gt;-->
+    <!--<color name="kt_theme_color">#FF9719</color>-->
+
+    <!--&lt;!&ndash; Disabled Color (button, etc)  &ndash;&gt;-->
+    <!--<color name="kt_theme_color_disabled">#9fFF9719</color>-->
+
+    <!--&lt;!&ndash; Main Background Color &ndash;&gt;-->
+    <!--<color name="kt_theme_background">#fff0f0f0</color>-->
+
+    <!--&lt;!&ndash; Navigation Bar Background &ndash;&gt;-->
+    <!--<color name="kt_theme_navigationbar_background">#D07D3B</color>-->
+
+    <!--&lt;!&ndash; Navigation item color for selected state &ndash;&gt;-->
+    <!--<color name="kt_theme_navigationitem_selected">#A75408</color>-->
+
+    <!--<color name="kt_theme_titlebar_background">#ffffffff</color>-->
+
+    <!--&lt;!&ndash; List Item Background Color &ndash;&gt;-->
+    <!--<color name="kt_theme_listitem_background">#ffffffff</color>-->
+
+    <!--&lt;!&ndash; List Item Divider Color &ndash;&gt;-->
+    <!--<color name="kt_theme_listitem_dividercolor">#fff1f1f1</color>-->
+
+    <!--&lt;!&ndash; Popup window background color &ndash;&gt;-->
+    <!--<color name="kt_theme_popup_background">#ffffffff</color>-->
+
+    <!--&lt;!&ndash; Popup window border color &ndash;&gt;-->
+    <!--<color name="kt_theme_popup_border">#ffeeeeee</color>-->
+
+    <!--&lt;!&ndash; Section Background Color &ndash;&gt;-->
+    <!--<color name="kt_theme_section_background">#ffffffff</color>-->
+
+    <!--&lt;!&ndash; Head Section Background Color &ndash;&gt;-->
+    <!--<color name="kt_theme_headsection_background">#A75408</color>-->
+
+    <!--&lt;!&ndash; Primary Text Color &ndash;&gt;-->
+    <!--<color name="kt_theme_title_textcolor">#ff333333</color>-->
+
+    <!--&lt;!&ndash; Title text color for dark background &ndash;&gt;-->
+    <!--<color name="kt_theme_title_textcolor_dark">#ffffffff</color>-->
+
+    <!--&lt;!&ndash; Primary Text Color &ndash;&gt;-->
+    <!--<color name="kt_theme_primary_textcolor">#ff555555</color>-->
+
+    <!--&lt;!&ndash; Primary text color for dark background &ndash;&gt;-->
+    <!--<color name="kt_theme_primary_textcolor_dark">#ffffffff</color>-->
+
+    <!--&lt;!&ndash; Secondary Text Color &ndash;&gt;-->
+    <!--<color name="kt_theme_secondary_textcolor">#ff707070</color>-->
+
+    <!--&lt;!&ndash; Secondary text color for dark background &ndash;&gt;-->
+    <!--<color name="kt_theme_secondary_textcolor_dark">#b3ffffff</color>-->
+
+    <!--&lt;!&ndash; Hint Text Color &ndash;&gt;-->
+    <!--<color name="kt_theme_hint_textcolor">#ff999999</color>-->
+
+    <!--&lt;!&ndash; Sub-Title Background Color &ndash;&gt;-->
+    <!--<color name="kt_theme_subtitle_background">#ffe4e4e4</color>-->
+
+    <!--&lt;!&ndash; Disabled Text Color &ndash;&gt;-->
+    <!--<color name="kt_theme_disabled_textcolor">#7f000000</color>-->
+
+    <!--&lt;!&ndash; Image loading placeholder background color &ndash;&gt;-->
+    <!--<color name="kt_theme_imageloading_placeholder_background">#ffeeeeee</color>-->
+
+    <!--&lt;!&ndash;Background color for highlighted item&ndash;&gt;-->
+    <!--<color name="kt_theme_highlighted_item_background">#fffffdeb</color>-->
+
+</resources>

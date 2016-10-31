@@ -1,0 +1,894 @@
+[
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_user_profile_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_user_profile_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_toast.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_toast.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_chat_splash.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_chat_splash.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_create_topic_select_video_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_create_topic_select_video_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_ad_content_fullscreen_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_ad_content_fullscreen_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_promotion.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_promotion.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_simple_titlebar_back.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_simple_titlebar_back.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_soft_input_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_soft_input_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_userprofile.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_userprofile.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_signature_category_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_signature_category_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_details_ilike_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_details_ilike_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_friends_action.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_friends_action.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_player_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_player_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_activeuser_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_activeuser_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_mg_button.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_mg_button.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_redemption_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_redemption_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_user_binding_email_success_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_user_binding_email_success_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_queuedtask.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_queuedtask.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_promote_position_interstitial_ad_full_screen.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_promote_position_interstitial_ad_full_screen.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_item_icon.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_item_icon.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_image_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_image_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_album.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_album.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_userfromsns.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_userfromsns.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_vote_item.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_vote_item.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_user_set_email_pwd_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_user_set_email_pwd_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_invite_contacts_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_invite_contacts_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_info_page.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_info_page.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_image_crop.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_image_crop.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_chat_other.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_chat_other.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapterview_footer_home.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapterview_footer_home.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_adapter_item_topic_sub_reply.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_adapter_item_topic_sub_reply.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_user_unlogin_game.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_user_unlogin_game.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_tab_button.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_tab_button.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_shareto_sns_item.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_shareto_sns_item.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_placeholder.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_placeholder.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_login_landing_nonsns.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_login_landing_nonsns.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_chat_selectfriends_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_chat_selectfriends_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_search_list.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_search_list.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_simple_titlebar.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_simple_titlebar.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_snssahre_reward.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_snssahre_reward.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_collections_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_collections_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_liker_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_liker_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_game_store_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_game_store_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_snsshare_reward_complete.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_snsshare_reward_complete.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_game_promotion_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_game_promotion_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_chat_blocked_users.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_chat_blocked_users.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_item_activeuser_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_item_activeuser_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_menuitem.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_menuitem.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_more_imagepreview_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_more_imagepreview_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_newmsg.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_newmsg.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topicreply_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topicreply_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_simple_titlebar_imagebutton.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_simple_titlebar_imagebutton.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_user_profile_setting_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_user_profile_setting_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_user_profile_sub_reply_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_user_profile_sub_reply_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_provision_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_provision_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_strong_notice_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_strong_notice_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_secure_authentication_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_secure_authentication_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_pull_refreshview_head.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_pull_refreshview_head.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_bind_phone_get_verifycode_and_set_pwd.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_bind_phone_get_verifycode_and_set_pwd.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_domestic_retrievepwd_with_phone.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_domestic_retrievepwd_with_phone.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_dropdown_menu.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_dropdown_menu.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_search_details_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_search_details_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_standalone_frame.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_standalone_frame.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_line.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_line.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_chat_isssue_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_chat_isssue_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_compound_icon.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_compound_icon.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_add_image_thumbnail_item_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_add_image_thumbnail_item_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_video_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_video_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_user_login_game.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_user_login_game.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_login_with_username.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_login_with_username.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_users_top5_item_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_users_top5_item_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_invite_contacts.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_invite_contacts.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_report_result_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_report_result_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_imagepreviewanimation_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_imagepreviewanimation_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_topicreply.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_topicreply.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_register_with_email.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_register_with_email.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_user_login_channel.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_user_login_channel.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_friend_addfromsns.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_friend_addfromsns.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapterview_footer_normal.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapterview_footer_normal.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_collections.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_collections.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_strong_adapter_item_friend.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_strong_adapter_item_friend.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_login_splash.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_login_splash.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_dialog_wait_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_dialog_wait_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_simple_titlebar_home.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_simple_titlebar_home.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_collections_detail_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_collections_detail_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_tabindicator.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_tabindicator.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_chat_friend.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_chat_friend.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_user_manage_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_user_manage_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_topic_report_classify_select.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_topic_report_classify_select.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_draft.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_draft.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_login_with_local_info.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_login_with_local_info.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_game_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_game_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_register_with_phone.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_register_with_phone.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_user_set_info_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_user_set_info_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_chat_blocked_users_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_chat_blocked_users_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_dateselector_item.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_dateselector_item.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_register_with_username.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_register_with_username.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_user_profile_userinfo_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_user_profile_userinfo_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_chat_me.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_chat_me.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_signature_nickname_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_signature_nickname_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_retrievepwd_with_email_describe.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_retrievepwd_with_email_describe.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_ad_install_fullscreen_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_ad_install_fullscreen_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_search.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_search.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ktplay_plugin_sns_native_auth.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\ktplay_plugin_sns_native_auth.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_friend_kt.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_friend_kt.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_imagepreview_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_imagepreview_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_ad_install_popup_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_ad_install_popup_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_layer_for_selecter.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_layer_for_selecter.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_retrievepwd_with_phone.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_retrievepwd_with_phone.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_topic_promotion.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_topic_promotion.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_user_topic.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_user_topic.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_dialog.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_dialog.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_compound_brief_icon.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_compound_brief_icon.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_usertopic.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_usertopic.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_ad_install_banner_large_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_ad_install_banner_large_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_topic_sharecampaign.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_topic_sharecampaign.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_add_friend_nearby_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_add_friend_nearby_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_ad_install_card_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_ad_install_card_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_friends_adder.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_friends_adder.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_topic_sub_replay_list_header.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_topic_sub_replay_list_header.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_collections_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_collections_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_user_binding_email_send_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_user_binding_email_send_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_friends_splashscreen_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_friends_splashscreen_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_liker.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_liker.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_secure_authentication_item_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_secure_authentication_item_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_dateselector_container.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_dateselector_container.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_reply_details.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_reply_details.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_bind_phone_input_phonenumber.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_bind_phone_input_phonenumber.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_other_user_friends_list.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_other_user_friends_list.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_adapter_item_video.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_adapter_item_video.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_signature_player_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_signature_player_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_friends_head.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_friends_head.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_login_with_phone.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_login_with_phone.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_domestic_retrievepwd_with_username_or_email.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_domestic_retrievepwd_with_username_or_email.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_frame_game_inform_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_frame_game_inform_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_item_game_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_item_game_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_secure_authentication_failure_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_secure_authentication_failure_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_user_topics.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_user_topics.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_item_player_store_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_item_player_store_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_content_empty_placeholder.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_content_empty_placeholder.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_users_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_users_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_chat_list_normal.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_chat_list_normal.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_chat_item_emoji.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_chat_item_emoji.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_users_item_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_users_item_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_inline_reply.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_inline_reply.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_retrievepwd_with_username.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_retrievepwd_with_username.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_friendslist_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_friendslist_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_create_or_reply_topic_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_create_or_reply_topic_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_collections_topic.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_collections_topic.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_ad_content_popup_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_ad_content_popup_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_draft.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_draft.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_layout_own.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_layout_own.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_item_image_sub_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_item_image_sub_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_input_emoji_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_input_emoji_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapterview_footer.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapterview_footer.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_topic_summary.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_topic_summary.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_notice_dialog.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_notice_dialog.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_input_gridview_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_input_gridview_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_source_image.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_source_image.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_footerview.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_footerview.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_item_video_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_item_video_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_add_friend_title.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_add_friend_title.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_layer_for_topic.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_layer_for_topic.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_bind_phone_get_verifycode.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_bind_phone_get_verifycode.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_promote_position_interstitial_ad_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_promote_position_interstitial_ad_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_complete_user_profile.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_complete_user_profile.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_topic_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_topic_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_msgbox.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_msgbox.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_chat_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_chat_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_inviteuser.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_inviteuser.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_sub_reply.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_sub_reply.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_item_avatar.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_item_avatar.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_groups_topic_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_groups_topic_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_game_promotion_brief_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_game_promotion_brief_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_popup_menu.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_popup_menu.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_inreview.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_inreview.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_topic_category_textview.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_topic_category_textview.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_friends_action_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_friends_action_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_create_or_reply_topic_select_image_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_create_or_reply_topic_select_image_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_redemption.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_redemption.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_search_hot.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_search_hot.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_search_footerview.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_search_footerview.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_dialog_wait_cancel_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_dialog_wait_cancel_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_retrievepwd_fail.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_retrievepwd_fail.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_chat_list_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_chat_list_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_frame_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_frame_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_inviteuser_nearby.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_inviteuser_nearby.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_friendship_request_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_friendship_request_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_promote_position_interstitial_ad_full_screen_header.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_promote_position_interstitial_ad_full_screen_header.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_add_friend_players_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_add_friend_players_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_video_signature_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_video_signature_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_report_classify_select_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_report_classify_select_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_item_video_sub_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_item_video_sub_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_content_header.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_content_header.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_topic_category.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_topic_category.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_topic.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_topic.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_album_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_album_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_search_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_search_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_queuedtask_list.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_queuedtask_list.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_topic_favorate.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_topic_favorate.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_ad_content_banner_large_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_ad_content_banner_large_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_msgbox_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_msgbox_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_login_by_local_info.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_login_by_local_info.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_topic_imageadapter.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_topic_imageadapter.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_redemption_result_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_redemption_result_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_chat_splashscreen_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_chat_splashscreen_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_stick_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_stick_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_titlebar_button.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_titlebar_button.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_menudialog.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_menudialog.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_collections_detail_header.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_collections_detail_header.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_ad_content_card_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_ad_content_card_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_tab_titlebar.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_tab_titlebar.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_more_image_preview.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_more_image_preview.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_login_landing.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_login_landing.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_adapter_item_friend_request.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_adapter_item_friend_request.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_search_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_search_layout.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kt_user_profile_sub_reply_header2.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kt_user_profile_sub_reply_header2.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_header.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_header.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_topic_detail.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_topic_detail.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\kryptanium_hot_item_topic_layout.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\layout\\kryptanium_hot_item_topic_layout.xml"
+    }
+]

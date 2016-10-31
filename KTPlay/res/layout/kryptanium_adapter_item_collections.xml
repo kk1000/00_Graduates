@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 专题 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/kryptanium_list_item_with_noclick"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/kt_content_padding">
+
+    <com.ktplay.widget.NoClickStateImageView
+        android:id="@+id/kryptanium_topic_item_image"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginRight="8dp"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:id="@+id/kryptanium_topic_item_image_new"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/kryptanium_collections_new" />
+
+
+    <com.ktplay.widget.KTEmojiText
+        android:id="@id/kt_item_title"
+        style="@style/kryptanium_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/kryptanium_topic_item_image"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <com.ktplay.widget.KTEmojiText
+        android:id="@id/kt_item_content"
+        style="@style/kryptanium_secondary_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/kt_item_title"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@id/kryptanium_topic_item_image"
+        android:ellipsize="end"
+        android:includeFontPadding="false"
+        android:maxLines="2" />
+
+    <TextView
+        android:id="@+id/kt_item_value"
+        style="@style/kryptanium_hint_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/kt_item_content"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@id/kryptanium_topic_item_image" />
+</RelativeLayout>

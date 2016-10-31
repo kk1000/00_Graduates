@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 从本地登录历史中选择账号登录 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_login_by_local_info"
+    style="@style/kryptanium_list_item"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <!-- 选择框 -->
+    <CheckBox
+        android:id="@+id/kryptanium_login_check"
+        style="@style/kryptanium_checkbox"
+        android:layout_marginLeft="17.5dp"
+        android:checked="true"
+        android:clickable="false"
+        android:defaultValue="true" />
+
+    <!-- 头像 -->
+
+    <include
+        layout="@layout/kt_item_avatar"
+        android:layout_width="@dimen/kt_avatar_width"
+        android:layout_height="@dimen/kt_avatar_height"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="12.5dp"
+        android:layout_marginTop="8dp" />
+
+
+    <!-- 用户昵称 -->
+
+    <TextView
+        android:id="@id/kt_item_title"
+        style="@style/kryptanium_primary_text_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12.5dp"
+        android:background="#00000000"
+        android:maxLines="1" />
+
+</LinearLayout>

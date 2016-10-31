@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 投票 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_vote_layout"
+    style="@style/kryptanium_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="74dp"
+    android:minHeight="74dp">
+
+    <!-- 选择框 -->
+    <!-- android:layout_marginLeft="12dp"这里 style="@style/kryptanium_list_item"中已经调了左边距12dp，所以这里只需要再调12dp -->
+
+    <CheckBox
+        android:id="@+id/kryptanium_vote_check"
+        style="@style/kryptanium_vote_checkbox_styles"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="12dp"
+        android:clickable="false"
+        android:defaultValue="true" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="@dimen/kt_card_hpadding"
+        android:layout_marginRight="@dimen/kt_card_hpadding"
+        android:layout_marginTop="@dimen/kt_card_hpadding">
+        <!-- 图片-->
+        <ImageView
+            android:id="@+id/kryptanium_vote_images"
+            android:layout_width="@dimen/kt_vote_image_width"
+            android:layout_height="@dimen/kt_vote_image_width"
+            android:layout_gravity="center"
+            android:scaleType="fitXY" />
+
+        <!--播放按钮-->
+        <ImageView
+            android:id="@+id/kryptanium_vote_video_play"
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:layout_gravity="center"
+            android:background="@drawable/kryptanium_video_play_button"
+            android:visibility="gone" />
+        <!--遮罩-->
+        <ImageView
+            android:id="@+id/kryptanium_vote_video_play_mask"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="#E54A4A4A"
+            android:visibility="gone" />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <!-- 描述 -->
+
+        <TextView
+            android:id="@+id/kryptanium_vote_title"
+            style="@style/kryptanium_menu_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/kt_card_hpadding"
+            android:maxLines="1" />
+        <!-- 显示百分比 -->
+
+        <TextView
+            android:id="@+id/kryptanium_vote_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="2dp"
+            android:ellipsize="end"
+            android:maxLines="3" />
+
+        <!-- 显示进度条 -->
+
+        <TextView
+            android:id="@+id/kryptanium_vote_bar"
+            style="@style/kryptanium_button_style_main"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/kt_vote_bar_height"
+            android:layout_marginBottom="@dimen/kt_card_hpadding"
+            android:maxWidth="342dp" />
+    </LinearLayout>
+
+</LinearLayout>

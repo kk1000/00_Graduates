@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kryptanium_menuitem_chatitems_failed_send_repeat"
+        android:icon="@drawable/kryptanium_icon_redo"
+        android:title="@string/kt_resend" />
+    <item
+        android:id="@+id/kryptanium_menuitem_chatitems_failed_delete"
+        android:icon="@drawable/kryptanium_icon_delete"
+        android:title="@string/kt_delete" />
+</menu>

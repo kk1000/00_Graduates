@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ktplay_plugin_sns_button_close_pressed.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ktplay_plugin_sns_button_close_pressed.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ktplay_plugin_sns_button_close.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ktplay_plugin_sns_button_close.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ktplay_plugin_sns_button_close_normal.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ktplay_plugin_sns_button_close_normal.png"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ktplay_plugin_sns_null.png",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ktplay_plugin_sns_null.png"
+    }
+]

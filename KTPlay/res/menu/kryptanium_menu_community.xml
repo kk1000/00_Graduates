@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/kt_menu_summary"
+        android:title="@string/kt_list_view" />
+    <item
+        android:id="@id/kt_menu_full_text"
+        android:title="@string/kt_card_view" />
+</menu>

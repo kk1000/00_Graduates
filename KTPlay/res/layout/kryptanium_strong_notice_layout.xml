@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 插屏通知界面 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_strong_msg_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#aa000000"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingBottom="8dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp">
+
+        <LinearLayout
+            android:id="@+id/kryptanium_strong_msg_top_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!-- 图片 -->
+            <ImageView
+                android:id="@id/kt_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:padding="16dp"
+                android:scaleType="fitXY"
+                android:visibility="visible"></ImageView>
+
+
+            <!--     <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="12dp"
+                        android:paddingRight="12dp"
+                     >
+
+                    <LinearLayout
+                android:id="@+id/kryptanium_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                 >
+
+
+
+
+            </LinearLayout> -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical">
+                <!-- 内容区 -->
+                <ScrollView
+                    android:id="@+id/kt_notification_content_scroller"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:fadingEdge="none"
+                    android:scrollbars="none">
+
+                    <LinearLayout
+                        android:id="@+id/kt_notification_content"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_horizontal"
+                        android:orientation="vertical">
+
+                        <!-- 通知标题 -->
+                        <TextView
+                            android:id="@+id/kryptanium_strong_title_text"
+                            style="@style/kryptanium_large_text_dark"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:gravity="center" />
+
+                        <!-- 通知内容 -->
+                        <TextView
+                            android:id="@+id/kryptanium_strong_content_text"
+                            style="@style/kryptanium_secondary_text_dark"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:textColor="#efffffff"
+                            android:textSize="13sp" />
+                    </LinearLayout>
+                </ScrollView>
+
+                <!-- 按钮 -->
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="12dp">
+
+                    <TextView
+                        android:id="@id/kt_action"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/kryptanium_button_bg"
+                        android:gravity="center"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/kt_strong_action_text"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="@string/kt_claim"
+
+                        android:textColor="@color/kryptanium_text_white"
+                        android:textSize="17sp" />
+                </FrameLayout>
+            </LinearLayout>
+
+            <!-- </RelativeLayout> -->
+        </LinearLayout>
+
+        <!-- 参与的人 -->
+        <LinearLayout
+            android:id="@+id/kryptanium_strong_msg_bottom_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/kryptanium_strong_msg_bottom_title_text"
+                style="@style/kryptanium_secondary_text_dark"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/kt_players_already_claimed"
+                android:textColor="#efffffff" />
+
+            <com.ktplay.widget.HorizontalListView
+                android:id="@+id/kryptanium_strong_msg_bottom_friends_listview"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:layout_marginTop="6dp"
+                android:cacheColorHint="#ffffffff"
+                android:listSelector="#00000000"
+                android:spacing="@dimen/kt_icon_hspacing" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- 关闭按钮 -->
+    <ImageView
+        android:id="@id/kt_close"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="right"
+        android:padding="4dp"
+        android:src="@drawable/kryptanium_clear_input_button" />
+</FrameLayout>

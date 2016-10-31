@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="kt_please_wait">Hang on…</string>
+    <string name="kt_loading">Loading…</string>
+    <string name="kt_load_failed_retry">Click to reload</string>
+    <string name="kt_pressagain_to_quit">Click on the back button to return to game</string>
+    <string name="kt_sdcard_unavailable">Secure Digital (SD) card not get recognized</string>
+    <string name="kt_sns_app_unavailable" formatted="false">You need to install the latest version of %@ App</string>
+    <string name="kt_login_with_channel_account" formatted="false">Login With %@</string>
+    <string name="kt_log_appkey">[KTPlaySDK Info]App Key:\t\t</string>
+    <string name="kt_log_appsecret">[KTPlaySDK Info]App Secret:\t\t</string>
+    <string name="kt_log_kryptanium_version">[KTPlaySDK Info]SDK Version:</string>
+    <string name="kt_log_kryptanium_type">[KTPlaySDK Info]Type of Version:</string>
+    <string name="kt_log_kryptanium_type_china">China</string>
+    <string name="kt_log_kryptanium_type_international">International</string>
+    <string name="kt_log_kryptanium_type_universal">Global</string>
+    <string name="kt_log_kryptanium_channelid">Channel ID</string>
+    <string name="kt_error_failurereason">Reason for error</string>
+    <string name="kt_error_recoverysuggestion">Solution</string>
+    <string name="kt_plugin_not_found">Plug-In not get recognized</string>
+    <string name="kt_locked_loginchannel_plugin_missed">You have specified% 1 $ s as the only Login method, but we can\'t find this Plug-In in your project.</string>
+    <string name="kt_locked_loginchannel_plugin_missed_suggestion" formatted="false">Add %@ Plug-In to your project, when you sure want to use %@ Login. If you don\'t need this function, please remove the meta-data named KTPLAY_LOCK-LOGINTYPE in the AndroidManifaest.xml</string>
+    <string name="kt_terms_agreement">By logging in or registering you\'re agreeing to KTplay\'s Terms and Privacy ,and confirm you are over 13 years of age.</string>
+    <string name="kt_terms_agreement_link">Terms and Privacy</string>
+    <string name="kt_photo_select">All Photos</string>
+    <string name="kt_max_of_photos" formatted="false">Select a maximum of  %@ photos</string>
+    <string name="kt_saved" formatted="false">Saved: %@</string>
+    <string name="kt_try_verify_number_signature">First time free! Verify your mobile number to continue using it.</string>
+    <string name="kt_try_verify_email_signature">First time free! Complete your email address to continue using it.</string>
+    <string name="kt_verify_number_signature">Verify your mobile number to continue using it.</string>
+    <string name="kt_verify_email_signature">Complete your email address to continue using it.</string>
+    <string name="kt_allow_storage" formatted="false">Activate Storage permission for %@ immediately.</string>
+    <string name="kt_activate_storage" formatted="false">In-Game Community store and access information like photo on your phone. To enable this, access to settings-applications-%@-permissions and activate Storage.</string>
+    <string name="kt_allow_record_audio" formatted="false">Activate Record Audio permission for %@ immediately.</string>
+    <string name="kt_activate_audio" formatted="false">In-Game Community need access to your microphone to record this voice message. To enable this, access to settings-applications-%@-permissions and activate Record Audio.</string>
+</resources>

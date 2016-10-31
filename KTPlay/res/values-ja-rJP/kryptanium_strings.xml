@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="kt_please_wait">少々お待ちだくさい</string>
+    <string name="kt_loading">ロード中</string>
+    <string name="kt_load_failed_retry">ロード失敗した、再試行をクリックする</string>
+    <string name="kt_pressagain_to_quit">「戻る」を押すと、ゲームに戻ります</string>
+    <string name="kt_sdcard_unavailable">SDカードが見つかっていません</string>
+    <string name="kt_sns_app_unavailable" formatted="false">アプリ %@ を最新バージョンで更新してください</string>
+    <string name="kt_login_with_channel_account" formatted="false">アカウント%@を使って登録します</string>
+    <string name="kt_log_appkey">[KTPlaySDK情報]AppKey:\t\t</string>
+    <string name="kt_log_appsecret">[KTPlaySDK情報]AppSecret:\t\t</string>
+    <string name="kt_log_kryptanium_version">[KTPlaySDK情報]SDKバージョン:</string>
+    <string name="kt_log_kryptanium_type">[KTPlaySDK情報]バージョンのタイプ:</string>
+    <string name="kt_log_kryptanium_type_china">中国</string>
+    <string name="kt_log_kryptanium_type_international">国際</string>
+    <string name="kt_log_kryptanium_type_universal">グローバル</string>
+    <string name="kt_log_kryptanium_channelid">チャンネルID</string>
+    <string name="kt_error_failurereason">エラー原因</string>
+    <string name="kt_error_recoverysuggestion">解決方法</string>
+    <string name="kt_plugin_not_found">プラグインを認識できません</string>
+    <string name="kt_locked_loginchannel_plugin_missed" formatted="false">唯一のログイン方法として、%@を設定する場合、プロジェクトに関連するプラグインを導入することは必要であります</string>
+    <string name="kt_locked_loginchannel_plugin_missed_suggestion" formatted="false">ログイン方法として、%@を設定する場合、プロジェクトに関連するプラグインを導入することは必要であります、その以外の場合、AndroidManifest.xmlファイルの中に、名前はKTPLAY_LOCK_LOGINTYPEの元データを削除してくさい</string>
+    <string name="kt_terms_agreement">アカウント登録またはログインを押すと、 KTplayの利用規約とプライバシーに同意する事になります、かつあなたの年齢は13才を超えています。</string>
+    <string name="kt_terms_agreement_link">利用規約とプライバシー</string>
+    <string name="kt_photo_select">すべて写真</string>
+    <string name="kt_max_of_photos" formatted="false">最大は%@件写真を選択する</string>
+    <string name="kt_saved" formatted="false"> %@に保存しました</string>
+    <string name="kt_try_verify_number_signature">1回だけ試用できますが、携帯番号を設定すると、使用続きできすます</string>
+    <string name="kt_try_verify_email_signature">１回だけ試用できますが、メールアドレスを設定すると、使用続きできすます</string>
+    <string name="kt_verify_number_signature">携帯番号を設定すると、使用続きできすま</string>
+    <string name="kt_verify_email_signature">メールアドレスを設定すると、使用続きできすます</string>
+    <string name="kt_allow_storage" formatted="false">今、%@がストレージへのアクセスを許可しましょう</string>
+    <string name="kt_activate_storage">ゲームコミュニティにストレージへのアクセス許可を与えると、コンテンツの通常表示と配信ができます。ストレージへのアクセス許可は、端末メニューの「設定」-&gt;「アプリ」-&gt;＠%-&gt;権限より行うことができます。</string>
+    <string name="kt_allow_record_audio" formatted="false">今、%@がマイクへのアクセスを許可しましょう</string>
+    <string name="kt_activate_audio">ゲームコミュニティがマイクへのアクセス許可を取得してからでないと録音できません。</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Theme Color -->
+    <color name="kt_theme_color">#ff29b6f6</color>
+
+    <!-- Disabled Color (button, etc)  -->
+    <color name="kt_theme_color_disabled">#7f29b6f6</color>
+
+    <!-- Main Background Color -->
+    <color name="kt_theme_background">#fff0f0f0</color>
+
+    <!-- Navigation Bar Background -->
+    <color name="kt_theme_navigationbar_background">@color/kt_theme_color</color>
+
+    <!-- Navigation item color for selected state -->
+    <color name="kt_theme_navigationitem_selected">#ff24a3dc</color>
+
+    <color name="kt_theme_titlebar_background">#ffffffff</color>
+
+    <!-- List Item Background Color -->
+    <color name="kt_theme_listitem_background">#ffffffff</color>
+
+    <!-- List Item Divider Color -->
+    <color name="kt_theme_listitem_dividercolor">#fff1f1f1</color>
+
+    <!-- Popup window background color -->
+    <color name="kt_theme_popup_background">#ffffffff</color>
+
+    <!-- Popup window border color -->
+    <color name="kt_theme_popup_border">#ffeeeeee</color>
+
+    <!-- Section Background Color -->
+    <color name="kt_theme_section_background">#ffffffff</color>
+
+    <!-- Head Section Background Color -->
+    <color name="kt_theme_headsection_background">#ff254959</color>
+
+    <!-- Primary Text Color -->
+    <color name="kt_theme_title_textcolor">#ff333333</color>
+
+    <!-- Title text color for dark background -->
+    <color name="kt_theme_title_textcolor_dark">#ffffffff</color>
+
+    <!-- Primary Text Color -->
+    <color name="kt_theme_primary_textcolor">#ff555555</color>
+
+    <!-- Primary text color for dark background -->
+    <color name="kt_theme_primary_textcolor_dark">#ffffffff</color>
+
+    <!-- Secondary Text Color -->
+    <color name="kt_theme_secondary_textcolor">#ff707070</color>
+
+    <!-- Secondary text color for dark background -->
+    <color name="kt_theme_secondary_textcolor_dark">#b3ffffff</color>
+
+    <!-- Hint Text Color -->
+    <color name="kt_theme_hint_textcolor">#ff999999</color>
+
+    <!-- Sub-Title Background Color -->
+    <color name="kt_theme_subtitle_background">#ffe4e4e4</color>
+
+    <!-- Disabled Text Color -->
+    <color name="kt_theme_disabled_textcolor">#7f000000</color>
+
+    <!-- Image loading placeholder background color -->
+    <color name="kt_theme_imageloading_placeholder_background">#ffeeeeee</color>
+
+    <!--Background color for highlighted item-->
+    <color name="kt_theme_highlighted_item_background">#fffffdeb</color>
+
+</resources>

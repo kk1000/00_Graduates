@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kt_operation_top"
+    android:layout_width="match_parent"
+    android:layout_height="70dp">
+
+    <RelativeLayout
+        android:id="@+id/kt_video_top_selecter_layout"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="top"
+        android:background="@drawable/kt_video_top_gradient_background"
+        android:gravity="top">
+
+        <ImageView
+            android:id="@+id/kt_video_layer_selecter_back"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/kt_video_title_background"
+            android:src="@drawable/kryptanium_titlebar_button_back_icon_white" />
+
+        <ImageView
+            android:id="@+id/kt_video_layer_selecter_ok"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/kt_video_title_background"
+            android:src="@drawable/kryptanium_titlebar_button_icon_blue" />
+    </RelativeLayout>
+
+</FrameLayout>

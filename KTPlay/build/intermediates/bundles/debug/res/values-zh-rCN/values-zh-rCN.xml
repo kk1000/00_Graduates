@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phone_country_name">
+        <item>阿尔巴尼亚</item>
+        <item>阿尔及利亚</item>
+        <item>阿富汗</item>
+        <item>阿根廷</item>
+        <item>阿拉伯联合酋长国</item>
+        <item>阿鲁巴</item>
+        <item>阿曼</item>
+        <item>阿塞拜疆</item>
+        <item>埃及</item>
+        <item>埃塞俄比亚</item>
+        <item>爱尔兰</item>
+        <item>爱沙尼亚</item>
+        <item>安道尔</item>
+        <item>安哥拉</item>
+        <item>安圭拉</item>
+        <item>安提瓜和巴布达</item>
+        <item>奥地利</item>
+        <item>澳大利亚</item>
+        <item>巴巴多斯</item>
+        <item>巴布亚新几内亚</item>
+        <item>巴哈马</item>
+        <item>巴基斯坦</item>
+        <item>巴拉圭</item>
+        <item>巴勒斯坦领土</item>
+        <item>巴林</item>
+        <item>巴拿马</item>
+        <item>巴西</item>
+        <item>白俄罗斯</item>
+        <item>百慕大</item>
+        <item>保加利亚</item>
+        <item>贝宁</item>
+        <item>比利时</item>
+        <item>冰岛</item>
+        <item>波多黎各</item>
+        <item>波兰</item>
+        <item>波斯尼亚和黑塞哥维那</item>
+        <item>玻利维亚</item>
+        <item>伯利兹</item>
+        <item>博茨瓦纳</item>
+        <item>不丹</item>
+        <item>布基纳法索</item>
+        <item>布隆迪</item>
+        <item>朝鲜</item>
+        <item>赤道几内亚</item>
+        <item>丹麦</item>
+        <item>德国</item>
+        <item>东帝汶</item>
+        <item>多哥</item>
+        <item>多米尼克</item>
+        <item>多米尼加共和国</item>
+        <item>俄罗斯</item>
+        <item>厄瓜多尔</item>
+        <item>厄立特里亚</item>
+        <item>法国</item>
+        <item>法罗群岛</item>
+        <item>法属波利尼西亚</item>
+        <item>法属圭亚那</item>
+        <item>菲律宾</item>
+        <item>斐济</item>
+        <item>芬兰</item>
+        <item>佛得角</item>
+        <item>冈比亚</item>
+        <item>刚果共和国</item>
+        <item>刚果民主共和国</item>
+        <item>哥伦比亚</item>
+        <item>哥斯达黎加</item>
+        <item>格林纳达</item>
+        <item>格陵兰</item>
+        <item>格鲁吉亚</item>
+        <item>古巴</item>
+        <item>瓜德罗普岛</item>
+        <item>关岛</item>
+        <item>圭亚那</item>
+        <item>哈萨克斯坦</item>
+        <item>海地</item>
+        <item>韩国</item>
+        <item>荷兰</item>
+        <item>荷属安的列斯群岛</item>
+        <item>黑山</item>
+        <item>洪都拉斯</item>
+        <item>吉布提</item>
+        <item>吉尔吉斯斯坦</item>
+        <item>几内亚</item>
+        <item>几内亚比绍</item>
+        <item>加拿大</item>
+        <item>加纳</item>
+        <item>加蓬</item>
+        <item>柬埔寨</item>
+        <item>捷克共和国</item>
+        <item>津巴布韦</item>
+        <item>喀麦隆</item>
+        <item>卡塔尔</item>
+        <item>开曼群岛</item>
+        <item>科摩罗</item>
+        <item>科特迪瓦</item>
+        <item>科威特</item>
+        <item>克罗地亚</item>
+        <item>肯尼亚</item>
+        <item>库克群岛</item>
+        <item>拉脱维亚</item>
+        <item>莱索托</item>
+        <item>老挝</item>
+        <item>黎巴嫩</item>
+        <item>立陶宛</item>
+        <item>利比里亚</item>
+        <item>利比亚</item>
+        <item>列支敦士登</item>
+        <item>留尼旺岛</item>
+        <item>卢森堡</item>
+        <item>卢旺达</item>
+        <item>罗马尼亚</item>
+        <item>马达加斯加</item>
+        <item>马尔代夫</item>
+        <item>马耳他</item>
+        <item>马拉维</item>
+        <item>马来西亚</item>
+        <item>马里</item>
+        <item>马其顿</item>
+        <item>马提尼克</item>
+        <item>毛里求斯</item>
+        <item>毛里塔尼亚</item>
+        <item>美国</item>
+        <item>蒙古</item>
+        <item>蒙塞拉特群岛</item>
+        <item>孟加拉国</item>
+        <item>秘鲁</item>
+        <item>摩尔多瓦</item>
+        <item>摩洛哥</item>
+        <item>摩纳哥</item>
+        <item>莫桑比克</item>
+        <item>墨西哥</item>
+        <item>纳米比亚</item>
+        <item>南非</item>
+        <item>南苏丹</item>
+        <item>尼泊尔</item>
+        <item>尼加拉瓜</item>
+        <item>尼日尔</item>
+        <item>尼日利亚</item>
+        <item>挪威</item>
+        <item>葡萄牙</item>
+        <item>日本</item>
+        <item>瑞典</item>
+        <item>瑞士</item>
+        <item>萨尔瓦多</item>
+        <item>萨摩亚</item>
+        <item>塞尔维亚</item>
+        <item>塞拉利昂</item>
+        <item>塞内加尔</item>
+        <item>塞浦路斯</item>
+        <item>塞舌尔</item>
+        <item>沙特阿拉伯</item>
+        <item>圣多美和普林西比</item>
+        <item>圣基茨和尼维斯</item>
+        <item>圣卢西亚</item>
+        <item>圣马力诺</item>
+        <item>圣皮埃尔和密克隆群岛</item>
+        <item>圣文森特和格林纳丁斯</item>
+        <item>斯里兰卡</item>
+        <item>斯洛伐克</item>
+        <item>斯洛文尼亚</item>
+        <item>斯威士兰</item>
+        <item>苏丹</item>
+        <item>苏里南</item>
+        <item>索马里</item>
+        <item>塔吉克斯坦</item>
+        <item>泰国</item>
+        <item>台湾</item>
+        <item>坦桑尼亚</item>
+        <item>汤加</item>
+        <item>特克斯和凯科斯群岛</item>
+        <item>特里尼达和多巴哥</item>
+        <item>突尼斯</item>
+        <item>土耳其</item>
+        <item>土库曼斯坦</item>
+        <item>瓦努阿图</item>
+        <item>危地马拉</item>
+        <item>委内瑞拉</item>
+        <item>文莱</item>
+        <item>乌干达</item>
+        <item>乌克兰</item>
+        <item>乌拉圭</item>
+        <item>乌兹别克斯坦</item>
+        <item>西班牙</item>
+        <item>希腊</item>
+        <item>新加坡</item>
+        <item>新喀里多尼亚</item>
+        <item>新西兰</item>
+        <item>匈牙利</item>
+        <item>叙利亚</item>
+        <item>牙买加</item>
+        <item>亚美尼亚</item>
+        <item>也门</item>
+        <item>伊拉克</item>
+        <item>伊朗</item>
+        <item>以色列</item>
+        <item>意大利</item>
+        <item>印度</item>
+        <item>印度尼西亚</item>
+        <item>英国</item>
+        <item>英属维尔京群岛</item>
+        <item>约旦</item>
+        <item>越南</item>
+        <item>赞比亚</item>
+        <item>泽西岛</item>
+        <item>乍得</item>
+        <item>直布罗陀</item>
+        <item>智利</item>
+        <item>中非共和国</item>
+        <item>中国</item>
+        <item>中国澳门特别行政区</item>
+        <item>中国香港特别行政区</item>
+    </string-array>
+    <string name="kt_HD">高清</string>
+    <string name="kt_SD">标清</string>
+    <string name="kt_accept">接受</string>
+    <string name="kt_accept_friendrequest_success">接受邀请成功</string>
+    <string name="kt_account_adm">管理员</string>
+    <string name="kt_account_mod">版主</string>
+    <string formatted="false" name="kt_activate_audio">允许游戏社区访问你的麦克风，才能录制语音消息。你可以通过设置-应用-%@权限打开麦克风权限。</string>
+    <string formatted="false" name="kt_activate_storage">游戏内社区需要使用你的设备存储来正常展示和发布游戏相关的内容。你可以通过设置-应用-%@-权限打开设备存储权限。</string>
+    <string name="kt_active_players">最近活跃玩家</string>
+    <string name="kt_ad">广告</string>
+    <string name="kt_ad_flag">广告</string>
+    <string name="kt_add">添加</string>
+    <string name="kt_add_as_friend">添加好友</string>
+    <string name="kt_add_friends">添加好友</string>
+    <string name="kt_admin">管理员</string>
+    <string name="kt_all">全部</string>
+    <string name="kt_all_players">全部玩家</string>
+    <string name="kt_all_topics">全部话题</string>
+    <string formatted="false" name="kt_allow_record_audio">立即开启%@访问麦克风的权限。</string>
+    <string formatted="false" name="kt_allow_storage">立即开启%@访问设备存储的权限。</string>
+    <string name="kt_app_settings">应用设置</string>
+    <string name="kt_app_version_support">抱歉，当前应用版本无法播放视频。</string>
+    <string name="kt_back">返回</string>
+    <string name="kt_bind_email">绑定邮箱</string>
+    <string name="kt_bind_phonenumber">绑定手机号</string>
+    <string name="kt_binding_email_to">绑定邮箱可用来找回密码、领取奖励、使用更多个性功能，邮箱绑定后不能更换！</string>
+    <string name="kt_binding_number_password_to">绑定手机号可用来找回密码、领取奖励、使用更多个性功能并为这个手机号设置一个密码。</string>
+    <string name="kt_binding_number_to">绑定手机号可用来找回密码、领取奖励、使用更多个性功能。</string>
+    <string name="kt_birthday">生日</string>
+    <string name="kt_block_chat">屏蔽聊天</string>
+    <string name="kt_blocked_account">黑名单用户</string>
+    <string name="kt_blocked_list">屏蔽列表</string>
+    <string name="kt_blocked_list_placeholder">你还没有屏蔽任何玩家</string>
+    <string name="kt_campaign_remain">剩余:</string>
+    <string name="kt_campaign_rewards">奖励:</string>
+    <string name="kt_campaign_share_Collections">[活动] 分享此专题立即获取奖励！</string>
+    <string name="kt_campaign_share_topic">[活动] 分享此话题立即获取奖励！</string>
+    <string name="kt_can_not_video">目前你不能发布附带视频的内容。</string>
+    <string name="kt_cancel">取消</string>
+    <string name="kt_cannot_like_yourself">不能称赞自己发布的内容</string>
+    <string name="kt_cannot_report_yourself">你不能举报自己</string>
+    <string name="kt_card_view">全文视图</string>
+    <string name="kt_change_gender">修改性别</string>
+    <string name="kt_change_next_group">换一组</string>
+    <string name="kt_change_password">修改</string>
+    <string name="kt_change_signature">点击修改个性签名</string>
+    <string name="kt_chat">聊天</string>
+    <string name="kt_chat_now">立即开始游戏内聊天！</string>
+    <string name="kt_chat_session_placeholder_description">选择自己的游戏好友开始聊天</string>
+    <string name="kt_chat_session_placeholder_title">开始与游戏好友聊天！</string>
+    <string name="kt_claim">领取</string>
+    <string name="kt_claimed">已领取</string>
+    <string name="kt_clear">清空</string>
+    <string name="kt_clear_search_history">清空搜索历史</string>
+    <string name="kt_click_email_signature">绑定邮箱</string>
+    <string name="kt_click_number_signature">绑定手机号</string>
+    <string name="kt_collection">专题</string>
+    <string name="kt_community">社区</string>
+    <string name="kt_complete_email">设置你的邮箱</string>
+    <string name="kt_complete_profile">完善你的个人信息！使你更容易被其他玩家认识和关注！</string>
+    <string name="kt_complete_security_setting">完善安全设置用于找回KTplay密码</string>
+    <string name="kt_complete_user_profile">完善用户信息</string>
+    <string name="kt_confirm">确定</string>
+    <string name="kt_confirm_clear_search">是否清空搜索历史？</string>
+    <string name="kt_confirm_to_complete_security_setting">创建</string>
+    <string name="kt_confirm_to_logout">不，谢谢</string>
+    <string name="kt_confirm_yes">是</string>
+    <string name="kt_connection_failed">网络不稳定</string>
+    <string name="kt_connection_timeout">网络不稳定</string>
+    <string name="kt_contacts">通讯录</string>
+    <string name="kt_contacts_friends">联系人</string>
+    <string name="kt_contacts_players_prompt">查看通讯录立即找到正在玩当前游戏的联系人</string>
+    <string name="kt_content_already_removed">内容已不存在</string>
+    <string name="kt_copy">复制</string>
+    <string name="kt_create_nickname">设置昵称</string>
+    <string name="kt_create_reply">回复</string>
+    <string name="kt_create_signature">点击添加个性签名</string>
+    <string name="kt_create_topic">话题</string>
+    <string name="kt_create_topic_success">发布成功</string>
+    <string name="kt_create_username">设置用户名</string>
+    <string name="kt_create_username_tip">用户名只能自定义修改一次，一旦保存无法再次变更，用户名可用来登录Ktplay。</string>
+    <string name="kt_delete">删除</string>
+    <string name="kt_delete_friend">解除好友关系</string>
+    <string name="kt_deny_friendrequest_success">已拒绝邀请</string>
+    <string name="kt_development_mode">开发模式</string>
+    <string name="kt_distance_kilometer">千米</string>
+    <string name="kt_distance_meter">米</string>
+    <string formatted="false" name="kt_distance_pattern">%@%@</string>
+    <string name="kt_done">完成</string>
+    <string name="kt_drafts">草稿箱</string>
+    <string name="kt_edit">编辑</string>
+    <string name="kt_email">电子邮件地址</string>
+    <string name="kt_email_already_registered">这个邮箱已经在KTplay上被占用，请你重新输入一个新的邮箱。</string>
+    <string name="kt_email_or_username">用户名</string>
+    <string name="kt_email_unverified">未验证</string>
+    <string name="kt_enable_microphone_permission">请在设备的"设置"选项中允许该应用访问麦克风</string>
+    <string name="kt_enter">进入</string>
+    <string name="kt_enter_email">输入你的电子邮件地址并设置一个密码。</string>
+    <string name="kt_enter_email_reward">绑定邮箱后可以领取你的奖励，邮箱一旦绑定不能更换！</string>
+    <string name="kt_enter_number">输入你的手机号，我们将发送验证码到你的手机.</string>
+    <string name="kt_error">错误</string>
+    <string name="kt_error_150001">请求失败 (150001)</string>
+    <string name="kt_error_150002">请求失败 (150002)</string>
+    <string name="kt_error_150003">请求失败 (150003)</string>
+    <string name="kt_error_150004">请求失败 (150004)</string>
+    <string name="kt_error_150005">请求失败 (150005)</string>
+    <string name="kt_error_150101">请求失败 (150101)</string>
+    <string name="kt_error_150102">请求失败 (150102)</string>
+    <string name="kt_error_150103">请求的内容不存在</string>
+    <string name="kt_error_150104">请重新登录</string>
+    <string name="kt_error_150105">黑名单用户</string>
+    <string name="kt_error_150106">请勿发布相同的内容</string>
+    <string name="kt_error_150107">您发布内容过于频繁，请稍后再试</string>
+    <string name="kt_error_150108">哇噢！内容包含被限制词语</string>
+    <string name="kt_error_150201">账户不存在</string>
+    <string name="kt_error_150202">密码错误</string>
+    <string name="kt_error_150203">邮箱格式错误</string>
+    <string name="kt_error_150204">密码是6-18位的英文或数字</string>
+    <string name="kt_error_150205">账户已绑定, 不能重复绑定</string>
+    <string name="kt_error_150206">SNS类型错误</string>
+    <string name="kt_error_150207">缺失用户名</string>
+    <string name="kt_error_150208">用户名已存在，请使用其他用户名</string>
+    <string name="kt_error_150209">用户名长度应在2-30</string>
+    <string name="kt_error_150210">原始密码不正确</string>
+    <string name="kt_error_150211">已有账户</string>
+    <string name="kt_error_150213">校验码错误</string>
+    <string name="kt_error_150214">新旧密码不能一样</string>
+    <string name="kt_error_150215">用户名包含敏感词</string>
+    <string name="kt_error_150216">邮件发送失败</string>
+    <string name="kt_error_150217">邮箱格式错误</string>
+    <string name="kt_error_150221">用户名不能包含空格</string>
+    <string name="kt_error_150222">用户名必须是2-30个英文或数字</string>
+    <string name="kt_error_150223">抱歉，不再支持修改昵称</string>
+    <string name="kt_error_150303">话题内容不符合字数规范</string>
+    <string name="kt_error_150304">此话题有评论, 不能删除</string>
+    <string name="kt_error_150305">对不起，您不能添加更多截图了</string>
+    <string name="kt_error_150306">上传话题图片类型错误</string>
+    <string name="kt_error_150307">你不能称赞自己的话题</string>
+    <string name="kt_error_150308">你不能称删除别人的话题</string>
+    <string name="kt_error_150309">你已经称赞过这个话题</string>
+    <string name="kt_error_150322">话题回复不符合字数规范</string>
+    <string name="kt_error_150324">上传回复图片超过数量限制</string>
+    <string name="kt_error_150325">上传回复图片类型错误</string>
+    <string name="kt_error_150326">你不能称赞自己发布的话题回复</string>
+    <string name="kt_error_150327">你不能称删除别人发布的话题回复</string>
+    <string name="kt_error_150328">你已经称赞过这个回复</string>
+    <string name="kt_error_150402">发布图片描述不符合字数规范</string>
+    <string name="kt_error_150403">上传图片类型错误</string>
+    <string name="kt_error_150404">你不能称赞自己发布的图片</string>
+    <string name="kt_error_150405">你已经称赞过这幅图片</string>
+    <string name="kt_error_150422">图片回复不符合字数规范</string>
+    <string name="kt_error_150423">你不能删除别人的图片回复</string>
+    <string name="kt_error_150501">不能重复举报话题</string>
+    <string name="kt_error_150502">不能重复举报图片</string>
+    <string name="kt_error_150701">不能邀请自己</string>
+    <string name="kt_error_150702">你们已经是好友</string>
+    <string name="kt_error_150703">对不起,你已经达到好友数量上限,申请添加好友失败</string>
+    <string name="kt_error_150704">对不起,对方已经达到好友数量上限,申请添加好友失败</string>
+    <string name="kt_error_150705">你已经邀请过他了</string>
+    <string name="kt_error_150706">你们还不是好友</string>
+    <string name="kt_error_150801">你已经领取过该奖励</string>
+    <string name="kt_error_150802">奖励未找到</string>
+    <string name="kt_error_failurereason">错误原因</string>
+    <string name="kt_error_recoverysuggestion">解决方法</string>
+    <string name="kt_expansion_centent">展开全部</string>
+    <string name="kt_failed_to_record">录音失败</string>
+    <string name="kt_favorite">收藏</string>
+    <string name="kt_female">女</string>
+    <string name="kt_field_username">用户名:</string>
+    <string name="kt_forget_password">忘记密码?</string>
+    <string name="kt_friend_requests">好友请求</string>
+    <string name="kt_friend_requests_sent">请求已发送</string>
+    <string name="kt_friend_requst_placeholder">我想和你成为好友</string>
+    <string name="kt_friend_updates">好友动态</string>
+    <string name="kt_friendrequest_waitfor_acception">已邀请</string>
+    <string name="kt_friends">好友</string>
+    <string name="kt_friends_from_other_games">其它游戏好友</string>
+    <string formatted="false" name="kt_friends_playing_game">在玩 %@</string>
+    <string name="kt_friends_symbol">好友</string>
+    <string formatted="false" name="kt_friendship_created_session_for_receiver">你已经和%@成为KTplay好友，立即开始在游戏中对话！</string>
+    <string name="kt_friendship_created_session_for_sender">我们已经成为KTplay好友，立即开始在游戏中对话！</string>
+    <string name="kt_gender">性别</string>
+    <string name="kt_get_location_failed">无法获取你的位置信息。</string>
+    <string name="kt_get_verification_code">获取验证码</string>
+    <string name="kt_go">去看看</string>
+    <string name="kt_hold_to_record">按下录制语音</string>
+    <string name="kt_hot_searches">热门搜索</string>
+    <string name="kt_i_know">知道了</string>
+    <string name="kt_in_development">这个应用处于开发模式，你正在使用一个测试应用的App Key和Secret。
+请注意在提交到应用商店前，通过开发者网站操作“完成集成”来获取发布模式的App Key和App Secret，并替换到你的工程当中。</string>
+    <string name="kt_in_review">正在审核</string>
+    <string name="kt_in_reviewing">正在审核中…</string>
+    <string name="kt_inbox">收件箱</string>
+    <string name="kt_incorrect_phonenumber">请输入正确的手机号。</string>
+    <string name="kt_inorrect_verification_code">不正确的验证码</string>
+    <string name="kt_input_email">输入你的邮箱</string>
+    <string name="kt_input_newpassword">输入新密码</string>
+    <string name="kt_input_nickname">请输入昵称</string>
+    <string name="kt_input_oldpassword">输入旧密码</string>
+    <string name="kt_input_redeem_code">输入兑换码</string>
+    <string name="kt_input_username">输入你的用户名，仅支持字母、数字</string>
+    <string name="kt_invalid_email_format">请填入有效的电子邮箱</string>
+    <string name="kt_invite">邀请</string>
+    <string name="kt_invite_frinds_from_sns">邀请SNS好友</string>
+    <string name="kt_invite_more_players">邀请更多朋友加入</string>
+    <string formatted="false" name="kt_invite_sns_friends_placeholder">快来和我一起玩%@，我的昵称是：%@</string>
+    <string name="kt_invite_to_be_friend">邀请成为好友</string>
+    <string name="kt_invited">已邀请</string>
+    <string name="kt_ktplay_slogan">找攻略 提问题 加好友 领奖励</string>
+    <string formatted="false" name="kt_lastest_reply">最新回复： %@</string>
+    <string name="kt_like">称赞</string>
+    <string name="kt_like_success">称赞成功</string>
+    <string name="kt_likes">称赞</string>
+    <string formatted="false" name="kt_likes_count">称赞 %@</string>
+    <string formatted="false" name="kt_limited_account_promption">账户受限，将于%@解除限制</string>
+    <string name="kt_link_login_with_phonenumber">手机号登录</string>
+    <string name="kt_link_register_with_phonenumber">手机号注册，更安全</string>
+    <string name="kt_link_register_with_username">用户名注册</string>
+    <string name="kt_list_view">摘要视图</string>
+    <string name="kt_load_failed_retry">加载失败,点击重试</string>
+    <string name="kt_loading">加载中…</string>
+    <string name="kt_loadmore">获取更多</string>
+    <string name="kt_loadmore_pulling">上拉更新</string>
+    <string name="kt_locked">已锁定</string>
+    <string formatted="false" name="kt_locked_loginchannel_plugin_missed">你已经指定%@作为唯一的登录方式，但未引入相关插件工程。</string>
+    <string formatted="false" name="kt_locked_loginchannel_plugin_missed_suggestion">如果确实需要以%@登录，请引入%@相关的插件工程；&amp;#xA;如果不需要以%@登录登录，请在你的AndroidManifest.xml文件中移除名为KTPLAY_LOCK_LOGINTYPE的meta-data</string>
+    <string name="kt_log_appkey">[KTPlaySDK信息]App Key:\t\t</string>
+    <string name="kt_log_appsecret">[KTPlaySDK信息]App Secret:\t\t</string>
+    <string name="kt_log_kryptanium_channelid">配置的渠道号:</string>
+    <string name="kt_log_kryptanium_type">[KTPlaySDK信息]版本类型:</string>
+    <string name="kt_log_kryptanium_type_china">国内版</string>
+    <string name="kt_log_kryptanium_type_international">海外版</string>
+    <string name="kt_log_kryptanium_type_universal">全球版</string>
+    <string name="kt_log_kryptanium_version">[KTPlaySDK信息]SDK版本:</string>
+    <string name="kt_login">登录</string>
+    <string name="kt_login_and_claim">登录并领取</string>
+    <string name="kt_login_expired">账户已登出，请重新登录</string>
+    <string name="kt_login_failed">登录失败</string>
+    <string name="kt_login_first">抱歉，你需要先登录。</string>
+    <string name="kt_login_or_register">注册或登录</string>
+    <string formatted="false" name="kt_login_success">%@，欢迎！</string>
+    <string name="kt_login_to_get_friends_updates">随时随地，登录查看好友动态！</string>
+    <string name="kt_login_to_ktplay">KTplay账户登录</string>
+    <string name="kt_login_to_play_with_friends">找到你的游戏好友，随时一起玩！</string>
+    <string formatted="false" name="kt_login_welcome">%@，欢迎！</string>
+    <string formatted="false" name="kt_login_with_channel_account">使用%@账户登录</string>
+    <string name="kt_login_with_exists_account">已有账户？立即登录</string>
+    <string name="kt_login_with_other_accounts">使用其他账户</string>
+    <string name="kt_login_with_phonenumber">手机号登录</string>
+    <string name="kt_login_with_selected_account">使用该账户</string>
+    <string name="kt_login_with_sns">SNS登录</string>
+    <string name="kt_login_with_username">用户名登录</string>
+    <string name="kt_logout">退出登录</string>
+    <string name="kt_male">男</string>
+    <string name="kt_manage_alert_highlight_text">是否确定标记当前内容为精华？</string>
+    <string name="kt_manage_alert_highlight_title">内容加精</string>
+    <string name="kt_manage_alert_insert_mainpage_text">是否确定要将当前内容插入首页推荐？</string>
+    <string name="kt_manage_alert_insert_mainpage_title">推荐内容</string>
+    <string name="kt_manage_alert_lock_text">是否确定锁定当前内容？</string>
+    <string name="kt_manage_alert_lock_title">锁定内容</string>
+    <string name="kt_manage_alert_move_text">是否确定要移动当前内容？</string>
+    <string name="kt_manage_alert_move_title">移动内容</string>
+    <string name="kt_manage_alert_quarantine_text">是否确定隔离当前内容？</string>
+    <string name="kt_manage_alert_quarantine_title">隔离内容</string>
+    <string name="kt_manage_alert_top_text">是否确定置顶当前内容？</string>
+    <string name="kt_manage_alert_top_title">置顶内容</string>
+    <string name="kt_manage_alert_unhighlight_text">是否确定取消当前内容的精华状态？</string>
+    <string name="kt_manage_alert_unhighlight_title">取消加精</string>
+    <string name="kt_manage_alert_unlock_text">是否确定取消当前内容的锁定状态？</string>
+    <string name="kt_manage_alert_unlock_title">取消锁定</string>
+    <string name="kt_manage_alert_untop_text">是否确定取消当前内容的置顶状态？</string>
+    <string name="kt_manage_alert_untop_title">取消置顶</string>
+    <string name="kt_manage_button_highlight">精华</string>
+    <string name="kt_manage_button_lock">锁定</string>
+    <string name="kt_manage_button_quarantine">隔离</string>
+    <string name="kt_manage_button_top">置顶</string>
+    <string name="kt_manage_button_unhighlight">取消精华</string>
+    <string name="kt_manage_button_unlock">取消锁定</string>
+    <string name="kt_manage_button_untop">取消置顶</string>
+    <string name="kt_manage_info">注意：您无法对游戏官方账户创建的内容进行管理操作。</string>
+    <string name="kt_manage_info_highlight">标记有价值的内容，并被收纳至精华内容列表。</string>
+    <string name="kt_manage_info_lock">话题一旦被锁定，将无法被其他玩家进行回复，并逐渐下降到“最新”列表的底部。</string>
+    <string name="kt_manage_info_main_page_insert">将话题插入到指定的推荐位中。</string>
+    <string name="kt_manage_info_move_topic">移动话题到指定的分类下方便其他的玩家查找。</string>
+    <string name="kt_manage_info_quarantine">内容一旦被隔离将立即从列表中隐藏。</string>
+    <string name="kt_manage_info_top">置顶的内容将会显示在话题列表页顶部的置顶话题栏中并提示全部玩家阅读。</string>
+    <string name="kt_manage_option_game_video">热播视频</string>
+    <string name="kt_manage_option_hot_topics">热门话题</string>
+    <string name="kt_manage_option_recommended_photos">精彩图片</string>
+    <string name="kt_manage_title_main_page_insert">推荐到首页</string>
+    <string name="kt_manage_title_manage">管理</string>
+    <string name="kt_manage_title_move_topic">移动话题</string>
+    <string formatted="false" name="kt_max_of_photos">最多只能选择%@张图片</string>
+    <string name="kt_me">我</string>
+    <string name="kt_mobile_already_registered">这个手机号已经在KTplay上被占用，请你重新输入一个新的手机号！</string>
+    <string name="kt_more">更多</string>
+    <string name="kt_more_collections">全部专题</string>
+    <string name="kt_more_options">更多操作</string>
+    <string formatted="false" name="kt_more_replies">还有%@条回复…</string>
+    <string name="kt_moregames">更多游戏</string>
+    <string name="kt_most_active_players">最活跃的玩家</string>
+    <string name="kt_most_liked_players">最受欢迎</string>
+    <string name="kt_my_friends">好友</string>
+    <string name="kt_myprofile_no_likes_received">哎呀！还没有人称赞过你…</string>
+    <string name="kt_myprofile_no_topics_created">你没有发布任何内容</string>
+    <string name="kt_nearby">附近</string>
+    <string name="kt_nearby_players_propmt">查看附近的人功能将获取你的位置信息，搜索附近玩家。</string>
+    <string name="kt_netwaok_unstable">网络状况不佳</string>
+    <string name="kt_network_unavailable">网络不稳定</string>
+    <string name="kt_new_chat">新建对话</string>
+    <string name="kt_new_friend_invataion">请求添加你为好友</string>
+    <string name="kt_nickname">昵称</string>
+    <string name="kt_no_chat_friends">没有好友可以开始聊天</string>
+    <string name="kt_no_draft_yet">还没有任何草稿</string>
+    <string name="kt_no_like_yet">还没有任何称赞</string>
+    <string name="kt_no_messages">暂无消息</string>
+    <string name="kt_no_more_collections">没有更多专题了</string>
+    <string name="kt_no_more_drafts">没有更多草稿了</string>
+    <string name="kt_no_more_like">没有更多称赞了</string>
+    <string name="kt_no_more_reply">没有更多回复了</string>
+    <string formatted="false" name="kt_no_more_sns_friends_playing">没有新加入的%@好友</string>
+    <string name="kt_no_more_topic">没有更多话题了</string>
+    <string name="kt_no_more_update_yet">没有更多动态了</string>
+    <string name="kt_no_reply_yet">还没有任何回复</string>
+    <string name="kt_no_results">无结果</string>
+    <string name="kt_no_signature">无签名</string>
+    <string name="kt_no_topic_yet">还没有任何话题</string>
+    <string name="kt_no_update_yet">还没有任何动态</string>
+    <string name="kt_no_video">无视频</string>
+    <string name="kt_no_wifi">发送队列中有未发送的内容，是否继续发送？</string>
+    <string name="kt_not_binding">未绑定</string>
+    <string name="kt_not_in_group">你已不在该讨论组内</string>
+    <string name="kt_not_now">暂时不用</string>
+    <string name="kt_not_setting">未设置</string>
+    <string name="kt_notice_email_signature">绑定邮箱才能使用视频个性签名</string>
+    <string name="kt_notice_number_signature">绑定手机号才能使用视频个性签名</string>
+    <string name="kt_on_top">置顶</string>
+    <string name="kt_original_reply">原回复:</string>
+    <string name="kt_original_topic">原话题:</string>
+    <string name="kt_other_player">TA</string>
+    <string name="kt_other_popular_games">大家都喜欢玩</string>
+    <string name="kt_password">密码</string>
+    <string name="kt_password_placeholder">密码 6-18英文或数字</string>
+    <string formatted="false" name="kt_pattern_blocked_user">(已屏蔽) %@</string>
+    <string formatted="false" name="kt_pattern_seconds">%@"</string>
+    <string formatted="false" name="kt_pattern_updates_reply">回复: %@</string>
+    <string name="kt_phone_number">手机号</string>
+    <string name="kt_photo_select">全部照片</string>
+    <string name="kt_player_playing_games">在玩的游戏</string>
+    <string name="kt_players_already_claimed">这些玩家已经参与啦</string>
+    <string name="kt_players_around_you">离你最近的玩家</string>
+    <string name="kt_players_nearby">附近的人</string>
+    <string name="kt_players_topics">话题</string>
+    <string name="kt_please_wait">请稍候…</string>
+    <string name="kt_plugin_not_found">插件未找到</string>
+    <string name="kt_pressagain_to_quit">再次点击返回键切换到游戏</string>
+    <string name="kt_privacy">隐私</string>
+    <string name="kt_profile_complete_setting">提示：绑定邮箱或手机可找回账户</string>
+    <string name="kt_profile_reply">回复</string>
+    <string name="kt_promoted">推荐</string>
+    <string name="kt_promoted_download">下载</string>
+    <string name="kt_publish_content_placeholder">说点什么…</string>
+    <string name="kt_quick_login">快速登录</string>
+    <string name="kt_quicklaunch_netlogged">尚未登录游戏，请先登录。</string>
+    <string name="kt_quicklaunch_register">想要体验更多社区功能，请先注册游戏!</string>
+    <string name="kt_quicklaunch_relogin">未能成功登录账户，请点击重新连接!</string>
+    <string name="kt_read_more">详情</string>
+    <string formatted="false" name="kt_received_likes">获得称赞 %@</string>
+    <string name="kt_recommended">精彩图片</string>
+    <string name="kt_recommended_friends">推荐好友</string>
+    <string name="kt_recommended_topics">精华</string>
+    <string name="kt_record_error_short">录音过短</string>
+    <string name="kt_redeem">兑换</string>
+    <string name="kt_redeem_code">兑换码</string>
+    <string name="kt_register">注册</string>
+    <string name="kt_register_with_phonenumber">手机号注册</string>
+    <string name="kt_registerview_email">用户名</string>
+    <string name="kt_release_to_cancel">松开取消发送</string>
+    <string name="kt_release_to_send">松开发送语音</string>
+    <string name="kt_relogin">重新登录</string>
+    <string formatted="false" name="kt_remain_format_day">%@天</string>
+    <string formatted="false" name="kt_remain_format_day_hour">%@天%@小时</string>
+    <string formatted="false" name="kt_remain_format_hour">%@小时</string>
+    <string formatted="false" name="kt_remain_format_min">%@分钟</string>
+    <string formatted="false" name="kt_replay_pattern">回复:%@</string>
+    <string formatted="false" name="kt_replies_count">回复 %@</string>
+    <string formatted="false" name="kt_reply_and_likes">回复 %@ | 称赞 %@</string>
+    <string name="kt_reply_details">回复详情</string>
+    <string name="kt_reply_me">回复了你</string>
+    <string name="kt_reply_notify">通知</string>
+    <string name="kt_reply_success">回复成功</string>
+    <string formatted="false" name="kt_reply_to">回复了%@</string>
+    <string name="kt_report">举报</string>
+    <string name="kt_report_content">举报内容</string>
+    <string name="kt_report_submitted_description">你的举报已经提交成功，我们会尽快进行处理。有任何处理结果将会以通知的形式发送到你的账户下。感谢你的支持！</string>
+    <string name="kt_report_success">举报成功</string>
+    <string name="kt_request_failed">抱歉，加载失败...</string>
+    <string name="kt_request_img_failed">图片加载失败</string>
+    <string name="kt_resend">重发</string>
+    <string name="kt_resend_email">发送验证邮件</string>
+    <string name="kt_reset">重置</string>
+    <string name="kt_reset_enter_username_with_email">输入用户名/邮箱</string>
+    <string name="kt_reset_enterusername">使用用户名或邮箱重置密码.</string>
+    <string name="kt_reset_password">重置密码</string>
+    <string formatted="false" name="kt_reset_password_email_failure">抱歉，账户%@没有绑定任何邮箱，我们无法帮助你重置密码！</string>
+    <string formatted="false" name="kt_reset_password_failure">抱歉，账户%@没有绑定任何手机号或邮箱，我们无法帮助你重置密码！</string>
+    <string name="kt_reset_password_with_email">使用邮箱重置密码</string>
+    <string name="kt_reset_password_with_phonenumber">使用手机号重置密码</string>
+    <string name="kt_resetpassword_email_sent">请求已发送请检查电子邮件</string>
+    <string name="kt_retrieve_password">找回KTplay账户</string>
+    <string name="kt_reward">领取奖励</string>
+    <string name="kt_reward_claimed">奖励已领取！</string>
+    <string name="kt_reward_expired">抱歉，奖励已失效。感谢您的参与！</string>
+    <string name="kt_rule_email_or_nickname">输入Email或用户名，用户名使用大小写字母和数字命名</string>
+    <string name="kt_rule_nickname_length">昵称长度为1-128个字符</string>
+    <string name="kt_rule_password">密码只能为6-18位数字和字母</string>
+    <string name="kt_rule_password_character">密码只能使用大小字母和数字</string>
+    <string name="kt_rule_username_character">用户名使用大小写字母和数字命名</string>
+    <string name="kt_rule_username_length">用户名长度为2-30个字符</string>
+    <string name="kt_save_draft">已存储至个人页-草稿箱。</string>
+    <string formatted="false" name="kt_saved">已保存至:  %@</string>
+    <string name="kt_sdcard_unavailable">未找到SD卡</string>
+    <string name="kt_search">搜索</string>
+    <string name="kt_search_friend_noresults">无结果</string>
+    <string formatted="false" name="kt_seconds_countdown">%@ 秒</string>
+    <string name="kt_security_verification">安全验证</string>
+    <string formatted="false" name="kt_security_verification_failure_times">验证失败 %@/%@</string>
+    <string name="kt_security_verification_pass">通过验证</string>
+    <string name="kt_security_verification_prompt">下列游戏中有一款是你曾经玩过的KTplay平台游戏，为了确认你的身份，请将其选出。</string>
+    <string name="kt_see_more_replies">查看更多回复</string>
+    <string name="kt_select_country">选择国家地区</string>
+    <string name="kt_select_friend">选择好友</string>
+    <string name="kt_select_report_reason">选择举报的原因</string>
+    <string name="kt_select_topic_category">选择分类</string>
+    <string name="kt_select_video">选择视频</string>
+    <string name="kt_send">发送</string>
+    <string name="kt_send_email">发送成功</string>
+    <string formatted="false" name="kt_send_email_limit">你最近发送过验证邮件，请%@分钟后再试</string>
+    <string name="kt_send_invitation">添加好友</string>
+    <string name="kt_sending">正在发送</string>
+    <string formatted="false" name="kt_server_error">服务器错误 (%@)</string>
+    <string name="kt_set_login_password">请为这个邮箱设置一个密码用于该邮箱登陆。</string>
+    <string name="kt_set_number_password">通过短信验证可以在视频内容中使用动态个性签名，并为该手机号设置一个密码。</string>
+    <string name="kt_set_password">修改密码</string>
+    <string name="kt_setting">设置</string>
+    <string name="kt_setting_avatar">个人头像</string>
+    <string name="kt_setting_baseinfo">个人资料</string>
+    <string name="kt_setting_receive_new_message">通知</string>
+    <string name="kt_setting_receive_new_message_description">设置在游戏中是否展示通知</string>
+    <string name="kt_setting_receive_sounds">音效</string>
+    <string name="kt_setting_receive_sounds_description">控制声音效果开关</string>
+    <string name="kt_setting_security">账户与安全</string>
+    <string name="kt_share_failed">分享失败</string>
+    <string name="kt_share_success">分享成功</string>
+    <string name="kt_share_to_sns">分享</string>
+    <string name="kt_sign_up_ktplay">注册</string>
+    <string name="kt_sign_up_now">立即加入</string>
+    <string name="kt_signature">使用个性签名</string>
+    <string name="kt_skip">跳过</string>
+    <string name="kt_skip_security_verification">放弃验证</string>
+    <string formatted="false" name="kt_sms_invitation_placeholder">下载%@和我一起玩。下载地址：%@ 我的昵称是：%@</string>
+    <string name="kt_sns">社交网络</string>
+    <string formatted="false" name="kt_sns_app_unavailable">你没有安装%@客户端或版本过旧</string>
+    <string name="kt_sns_authorize_failed">授权失败</string>
+    <string name="kt_sns_friends_limitation">因社交网络平台限制只能获取部分好友。</string>
+    <string formatted="false" name="kt_sns_friends_playing">正在玩%@的好友</string>
+    <string formatted="false" name="kt_sns_share_placeholder">我在%@中分享了一条讨论，%@。</string>
+    <string name="kt_suggested_for_you">为您推荐</string>
+    <string name="kt_system_support">抱歉，当前设备系统无法播放视频。</string>
+    <string name="kt_t_email_signature">完善邮箱</string>
+    <string name="kt_t_number_signature">认证手机号</string>
+    <string name="kt_take_screenshot">截取游戏画面</string>
+    <string name="kt_terms_agreement">登录或注册表示你接受并同意KTplay的用户协议与条款，同时确认你已经超过13岁。</string>
+    <string name="kt_terms_agreement_link">用户协议与条款</string>
+    <string name="kt_terms_and_privacy">用户协议与条款</string>
+    <string name="kt_time_day">日</string>
+    <string formatted="false" name="kt_time_format_hour">%@小时前</string>
+    <string name="kt_time_format_justnow">刚刚</string>
+    <string name="kt_time_format_last_year">yyyy-MM-dd</string>
+    <string formatted="false" name="kt_time_format_minutes_ago">%@分钟前</string>
+    <string name="kt_time_format_month_day_hour_minute">MM-dd HH:mm</string>
+    <string name="kt_time_format_year_month">yyyy-MM</string>
+    <string name="kt_time_format_year_month_day">yyyy年MM月dd日</string>
+    <string name="kt_time_format_yesterday">昨天</string>
+    <string name="kt_time_month">月</string>
+    <string name="kt_time_year">年</string>
+    <string name="kt_tip_addfriends_now">快来添加好友吧！</string>
+    <string name="kt_tip_addfrinds_from_different_types">立即找到游戏中的小伙伴</string>
+    <string name="kt_tip_bind_email">为你的账户设置一个邮箱，邮箱将可以用来登录和重置你的密码</string>
+    <string name="kt_tip_change_nickname">这个名字将被显示给其他用户，并且帮助你所认识的朋友找到你。</string>
+    <string name="kt_tip_chat_service_issue">聊天服务繁忙，请稍后重试…</string>
+    <string name="kt_tip_chattype_audio">语音</string>
+    <string name="kt_tip_chattype_image">图片</string>
+    <string name="kt_tip_message_blocked">消息被对方玩家拒绝接收</string>
+    <string name="kt_tip_reply_locked">话题已锁定</string>
+    <string formatted="false" name="kt_tip_resetpassword_with_email">我们已经给邮箱%@发送一封邮件，帮助你重置登录密码</string>
+    <string name="kt_tip_select_chat_friend">客户端版本不支持聊天功能的好友不会被显示</string>
+    <string name="kt_title_optional">请输入标题</string>
+    <string name="kt_to_enter_email">绑定邮箱后可以使用视频动态签名，邮箱绑定后不能更换！</string>
+    <string name="kt_to_verify_number">通过短信验证可以在视频内容中使用动态个性签名。</string>
+    <string name="kt_top_collections">推荐专题</string>
+    <string formatted="false" name="kt_topic_count">话题 %@</string>
+    <string name="kt_topic_create">创建</string>
+    <string name="kt_topic_details">原话题</string>
+    <string name="kt_topic_reply">回复</string>
+    <string formatted="false" name="kt_topic_share">最新玩家分享 来自%@</string>
+    <string formatted="false" name="kt_topic_task_limit">最多同时上传%@条话题，已存储至个人页-草稿箱。</string>
+    <string name="kt_topics">话题</string>
+    <string name="kt_try_again">再试一次</string>
+    <string name="kt_try_verify_email_signature">可试用一次,绑定邮箱就能永久使用!</string>
+    <string name="kt_try_verify_number_signature">可试用一次,绑定手机号就能永久使用!</string>
+    <string name="kt_unable_to_record">无法录音</string>
+    <string name="kt_unblock">解除屏蔽</string>
+    <string name="kt_unsupported_chat_message_type">当前KTplay版本暂不支持查看此消息</string>
+    <string name="kt_update_failed">操作失败</string>
+    <string name="kt_update_success">操作成功</string>
+    <string name="kt_updates_created_topic">发布了话题</string>
+    <string name="kt_updates_liked_content">称赞了话题</string>
+    <string name="kt_updates_liked_reply">称赞了回复</string>
+    <string name="kt_updates_replied_topic">发布了回复</string>
+    <string formatted="false" name="kt_upload_failed_part">你有%@个内容发布失败，已存储至个人页-草稿箱。</string>
+    <string name="kt_upload_from_album">从相册上传</string>
+    <string name="kt_user_profile">玩家详情</string>
+    <string name="kt_user_received_likes">称赞</string>
+    <string name="kt_username">用户名</string>
+    <string name="kt_userprofile_no_likes_received">哎呀！还没有人称赞过这个玩家…</string>
+    <string name="kt_userprofile_no_topics_created">这个玩家没有发布任何内容</string>
+    <string name="kt_users_friends">好友</string>
+    <string name="kt_v_email_signature">完善邮箱</string>
+    <string name="kt_v_number_signature">认证手机号</string>
+    <string name="kt_verification_code">验证码</string>
+    <string name="kt_verification_code_sent">验证码已发，请查看短信</string>
+    <string name="kt_verification_email">验证邮件已发送，请在24小时内验证你的邮箱，否则将会影响你继续使用KTplay的部分服务。</string>
+    <string name="kt_verification_email_send">我们将发送一封验证邮件。请在24小时内验证你的邮箱，否则将会影响你继续使用KTplay的部分服务。</string>
+    <string name="kt_verify_confirm_no">不要签名</string>
+    <string name="kt_verify_confirm_yes">立即绑定</string>
+    <string name="kt_verify_email_signature">完善邮箱即可享有个性视频签名。</string>
+    <string name="kt_verify_mobile">通过短信验证领取你的奖励</string>
+    <string name="kt_verify_mobile_password">通过短信验证领取你的奖励并为该手机号设置一个密码。</string>
+    <string name="kt_verify_number_signature">需要绑定手机号才能使用!</string>
+    <string name="kt_video">视频</string>
+    <string name="kt_video_and_images">无法同时发布图片和视频。</string>
+    <string formatted="false" name="kt_video_exceed">抱歉，视频不能超过%@MB或%@分钟。</string>
+    <string formatted="false" name="kt_video_less">抱歉，视频不能短于%@秒。</string>
+    <string name="kt_video_prefix">视频</string>
+    <string name="kt_video_processed">视频处理中…</string>
+    <string name="kt_video_signature_title">个性签名</string>
+    <string formatted="false" name="kt_video_size">当前视频大小%@MB，上传后需通过审核才能公开。</string>
+    <string name="kt_videos">热播视频</string>
+    <string name="kt_views">浏览</string>
+    <string name="kt_vote">投票</string>
+    <string name="kt_vote_expired">投票已结束！</string>
+    <string formatted="false" name="kt_vote_is_ongoing">投票进行中！%@人参与</string>
+    <string name="kt_vote_now">立即投票！</string>
+    <string name="kt_vote_thank">感谢您参与投票！</string>
+    <string name="kt_voted">已投票</string>
+    <string formatted="false" name="kt_warning_block_chatuser">你确定要在聊天中屏蔽%@吗？</string>
+    <string name="kt_warning_clear_all_messages">要清空全部消息？</string>
+    <string name="kt_warning_complete_email">是否要通过完善邮箱来提升自己的账户安全？</string>
+    <string name="kt_warning_complete_login_method">你想创建一个KTplay账户用来跨游戏与其他玩家互动的嘛？</string>
+    <string name="kt_warning_complete_phonenumber">是否要通过绑定手机号来提升自己的账户安全？</string>
+    <string name="kt_warning_delete_content">删除内容？</string>
+    <string formatted="false" name="kt_warning_delete_friend">你确定要和%@解除好友关系吗?</string>
+    <string name="kt_warning_has_integration_issue">你有待解决的接入问题</string>
+    <string name="kt_warning_report_reply">举报内容？</string>
+    <string name="kt_warning_retrieve_password_after_login_failure">登录失败</string>
+    <string name="kt_warning_same_oldpassword_and_newpassword">新旧密码不能一样</string>
+    <string name="kt_warning_security_verification_times">连续2次验证失败后需要等待24小时才能进行下一次安全验证。</string>
+    <string formatted="false" name="kt_warning_unblock_chatuser">你确定要在聊天中解除对%@的屏蔽吗？</string>
+    <string name="kt_warning_using_testapp">你正在使用一个测试应用</string>
+    <string name="kt_whats_hot">最新热点</string>
+    <string name="kt_you_might_like">猜你喜欢</string>
+</resources>

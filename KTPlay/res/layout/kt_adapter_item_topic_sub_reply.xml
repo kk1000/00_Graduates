@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 列表项 - 话题二级回复 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/kryptanium_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/kt_reply_padding">
+
+    <!-- 用户头像 -->
+
+    <include
+        android:id="@id/kt_item_avatar"
+        layout="@layout/kt_item_avatar"
+        android:layout_width="@dimen/kryptanium_user_head_image_width_height"
+        android:layout_height="@dimen/kryptanium_user_head_image_width_height"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="12dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- 回复内容 -->
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@id/kt_item_content"
+            style="@style/kryptanium_primary_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <!-- 时间 -->
+
+        <TextView
+            android:id="@+id/kt_item_time"
+            style="@style/kryptanium_hint_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

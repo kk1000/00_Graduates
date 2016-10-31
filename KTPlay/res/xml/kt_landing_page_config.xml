@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgets>
+    <item
+        key="featuredTopic"
+        visible="1"></item>
+    <item
+        key="featuredVideo"
+        visible="1"></item>
+    <item
+        key="featuredCollections"
+        visible="1"></item>
+    <item
+        key="featuredImage"
+        visible="1"></item>
+    <item
+        key="promotedGames"
+        visible="1"></item>
+    <item
+        key="activeUsers"
+        visible="1"></item>
+</widgets>

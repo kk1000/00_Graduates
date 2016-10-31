@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/kryptanium_chat_no_blocked_users_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="@dimen/kryptanium_default_gap_half"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:text="@string/kt_blocked_list_placeholder"
+            android:textColor="#999999"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/kryptanium_chat_blocked_users_listview"
+        style="@style/kryptanium_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/kryptanium_chat_blocked_users_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/kryptanium_titlebar_line_height"
+        android:background="@color/kryptanium_barline_color"
+        android:paddingLeft="@dimen/kryptanium_layout_paddingLeft"
+        android:scaleType="fitXY" />
+
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp">
+
+    <com.ktplay.widget.KTCircleImageView
+        android:id="@id/kryptanium_users_head_id"
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:id="@id/kt_like"
+        style="@style/kryptanium_primary_text"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/kryptanium_button_transparent_roundrect"
+        android:gravity="center"
+        android:maxLines="1"
+        android:paddingLeft="16dp"
+        android:textSize="9sp" />
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/kt_content_padding"
+        android:padding="4dp"
+        android:src="@drawable/kt_icon_video_like_selected" />
+</RelativeLayout>

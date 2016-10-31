@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_topic_listview_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/kt_card_vmargin"
+    android:paddingLeft="@dimen/kt_card_hmargin"
+    android:paddingRight="@dimen/kt_card_hmargin"
+    android:paddingTop="@dimen/kt_card_vmargin">
+
+    <LinearLayout
+        android:id="@+id/kryptanium_promotion_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/kryptanium_card_bg"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/kt_card_vpadding"
+        android:paddingTop="@dimen/kt_card_vpadding">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/kt_card_hpadding"
+            android:paddingRight="@dimen/kt_card_hpadding">
+
+            <RelativeLayout
+                android:id="@+id/kryptanium_promotion_item_info_rl"
+                android:layout_width="match_parent"
+                android:layout_height="35dp">
+
+                <!-- 游戏图标 -->
+                <ImageView
+                    android:id="@+id/kt_game_avatar"
+                    android:layout_width="40dp"
+                    android:layout_height="35dp"
+                    android:layout_marginRight="8dp" />
+                <!-- 游戏名称 -->
+                <TextView
+                    android:id="@+id/kt_item_title"
+                    style="@style/kryptanium_primary_text_light_bold"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/kt_game_avatar"
+                    android:ellipsize="end"
+                    android:includeFontPadding="false"
+                    android:maxLines="1"
+                    android:maxWidth="@dimen/kryptanium_img_detail_limit" />
+
+                <!-- 推广Tag -->
+                <TextView
+                    style="@style/kryptanium_tag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="6dp"
+                    android:layout_toRightOf="@+id/kt_item_title"
+                    android:gravity="center"
+                    android:text="@string/kt_promoted"
+                    android:visibility="visible" />
+
+            </RelativeLayout>
+
+
+            <!-- 推广内容 -->
+            <TextView
+                android:id="@+id/kt_item_content"
+                style="@style/kryptanium_primary_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:ellipsize="end"
+                android:includeFontPadding="false"
+                android:maxLines="2" />
+
+        </LinearLayout>
+
+        <View
+            style="@style/kryptanium_seperate_line"
+            android:layout_marginTop="@dimen/kt_card_item_vmargin" />
+
+
+        <LinearLayout
+            android:id="@+id/kryptanium_promotion_donwload_layout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/kryptanium_listview_item_bg"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/kt_card_hpadding"
+            android:paddingRight="@dimen/kt_card_hpadding"
+            android:paddingTop="8dp">
+
+            <com.ktplay.widget.NoClickStateImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="5dp"
+                android:contentDescription="@null"
+                android:scaleType="fitXY"
+                android:src="@drawable/kryptanium_promotion_donwload" />
+
+            <TextView
+                style="@style/kryptanium_action_text_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:includeFontPadding="false"
+                android:text="@string/kt_promoted_download"
+                android:textSize="13sp" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

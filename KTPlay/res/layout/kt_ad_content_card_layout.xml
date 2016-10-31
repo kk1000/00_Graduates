@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/kryptanium_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/kt_ad_title"
+        style="@style/kt_ad_title_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/kt_ad_advertiser"
+        style="@style/kt_ad_content_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/kt_ad_title"
+        android:layout_marginTop="5dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="@color/kt_ad_theme_color" />
+
+    <TextView
+        android:id="@+id/kt_ad_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/kt_ad_advertiser"
+        android:layout_marginLeft="@dimen/kt_content_padding"
+        android:maxLines="1"
+        android:textColor="@color/kt_ad_theme_color"
+        android:textSize="14sp" />
+
+    <!-- 广告内容 -->
+    <TextView
+        android:id="@+id/kt_ad_content"
+        style="@style/kt_ad_content_style"
+        android:layout_width="match_parent"
+        android:layout_below="@id/kt_ad_advertiser"
+        android:layout_toLeftOf="@id/kt_ad_button"
+        android:maxLines="2" />
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="5dp"-->
+    <!--android:layout_marginLeft="12dp">-->
+
+    <!--&lt;!&ndash; 广告内容 &ndash;&gt;-->
+    <!--<TextView-->
+    <!--android:id="@+id/kt_ad_content"-->
+    <!--style="@style/kt_ad_content_style"-->
+    <!--android:maxLines="1"-->
+    <!--android:layout_toLeftOf="@+id/kt_ad_button"-->
+    <!--android:paddingRight="10dp"-->
+    <!--/>-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/kt_ad_button"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:textSize="14sp"-->
+    <!--android:maxLines="1"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:layout_marginRight="20dp"-->
+    <!--android:textColor="@color/kt_ad_theme_color"/>-->
+    <!--</RelativeLayout>-->
+
+
+    <ImageView
+        android:id="@+id/kt_app_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/kt_ad_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="8dp"
+        android:adjustViewBounds="true" />
+
+    <!-- 广告标志 -->
+    <TextView
+        style="@style/kt_ad_flag_style"
+        android:layout_below="@id/kt_app_image"
+        android:layout_marginTop="8dp" />
+</RelativeLayout>

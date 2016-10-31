@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 草稿 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/kt_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/kryptanium_listview_item_bg"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/kt_card_vmargin"
+    android:paddingLeft="@dimen/kt_card_hmargin"
+    android:paddingRight="@dimen/kt_card_hmargin"
+    android:paddingTop="@dimen/kt_card_vmargin">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="12dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="@dimen/kt_card_vpadding">
+
+        <!--用户头像 -->
+        <include
+            android:id="@id/kt_item_avatar"
+            layout="@layout/kt_item_avatar"
+            android:layout_width="@dimen/kt_avatar_width_small"
+            android:layout_height="@dimen/kt_avatar_height_small"
+            android:layout_marginRight="10dp" />
+
+        <!--用户昵称 -->
+        <TextView
+            android:id="@id/kt_item_title"
+            style="@style/kryptanium_secondary_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="90dp"
+            android:layout_marginTop="1dp"
+            android:layout_toRightOf="@id/kt_item_avatar"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:maxLines="1" />
+
+        <!--创建时间-->
+        <TextView
+            android:id="@id/kt_item_time"
+            style="@style/kryptanium_hint_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:paddingRight="1dp" />
+
+        <!--操作类型-->
+        <TextView
+            android:id="@id/kt_action"
+            style="@style/kryptanium_secondary_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/kt_item_title"
+            android:layout_below="@id/kt_item_title"
+            android:layout_marginTop="3dp"
+            android:maxLines="1"
+            android:textColor="@color/kt_theme_color" />
+        <!--标题-->
+        <com.ktplay.widget.KTEmojiText
+            android:id="@+id/kt_item_heading"
+            style="@style/kryptanium_large_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/kt_item_title"
+            android:layout_below="@id/kt_action"
+            android:layout_marginTop="7dp"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:maxLines="2"
+            android:visibility="gone" />
+        <!-- 话题内容 -->
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@id/kt_item_content"
+            style="@style/kryptanium_primary_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/kt_item_title"
+            android:layout_below="@id/kt_item_heading"
+            android:layout_marginTop="7dp"
+            android:ellipsize="end"
+            android:includeFontPadding="false" />
+
+
+        <!-- 话题图片 -->
+        <FrameLayout
+            android:id="@id/kt_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/kt_item_content"
+            android:layout_below="@id/kt_item_content">
+
+            <com.ktplay.widget.NoClickStateImageView
+                android:id="@id/kt_item_image"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/kt_topic_detail_image_height"
+                android:layout_marginTop="12dp"
+                android:scaleType="fitXY"
+                android:visibility="gone"
+
+                />
+
+            <com.ktplay.widget.KTNoScrollGridView
+                android:id="@id/kt_item_images"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:columnWidth="100dp"
+                android:gravity="center"
+                android:horizontalSpacing="2dp"
+                android:stretchMode="none"
+                android:verticalSpacing="2dp"
+                android:visibility="gone" />
+        </FrameLayout>
+
+        <!--视频-->
+        <include
+            android:id="@id/kt_video"
+            layout="@layout/kt_video_source_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/kt_image"
+            android:layout_below="@id/kt_image"
+            android:layout_marginTop="12dp"
+            android:visibility="gone" />
+
+
+        <!--引用的原话题 -->
+        <com.ktplay.widget.KTEmojiText
+            android:id="@id/kt_reference"
+            style="@style/kryptanium_secondary_text_light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/kt_image"
+            android:layout_below="@id/kt_image"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/kryptanium_topic_reply_item_bg"
+            android:ellipsize="end"
+            android:padding="12dp"
+            android:singleLine="false"
+            android:visibility="gone" />
+
+        <!-- 话题待审核标识 -->
+        <include
+            android:id="@id/kt_placeholder"
+            layout="@layout/kt_video_placeholder"
+            android:layout_width="@dimen/kt_video_placeholder_width"
+            android:layout_height="@dimen/kt_video_placeholder_height"
+            android:layout_alignLeft="@id/kt_item_content"
+            android:layout_below="@id/kt_item_content"
+            android:layout_marginTop="12dp" />
+
+    </RelativeLayout>
+</FrameLayout>

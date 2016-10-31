@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 点击状态下的效果 -->
+    <item android:state_selected="true">
+        <shape>
+            <!-- 设置背景填充色为黑色 -->
+            <solid android:color="@color/kt_theme_color" />
+            <!-- 设置边框宽度为1dp，边框颜色为白色 -->
+            <!-- 设置按钮圆角半径为5dp -->
+            <!-- 设置按钮中间文字距上下左右都为10dp的间距 -->
+        </shape>
+    </item>
+    <!-- 正常状态下(非点击)的效果 -->
+    <item android:state_pressed="false">
+        <shape>
+            <!-- 设置背景填充色为白色 -->
+            <solid android:color="@color/kt_theme_listitem_dividercolor" />
+        </shape>
+    </item>
+
+</selector>

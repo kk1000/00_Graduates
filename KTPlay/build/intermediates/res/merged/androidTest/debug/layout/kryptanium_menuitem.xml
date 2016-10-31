@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/kryptanium_menuitem_bg"
+    android:minHeight="@dimen/kryptanium_menu_item_height"
+    android:minWidth="@dimen/kryptanium_menu_width"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+    <!-- Check -->
+    <ImageView
+        android:id="@+id/kryptanium_menuitem_check"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="8dp"
+        android:visibility="gone" />
+
+    <!-- Icon -->
+    <ImageView
+        android:id="@+id/kryptanium_menuitem_icon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="8dp"
+        android:scaleType="centerCrop"
+        android:visibility="gone" />
+
+    <!-- Title -->
+
+    <TextView
+        android:id="@+id/kryptanium_menuitem_title"
+        style="@style/kryptanium_menu_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:maxLines="1" />
+
+</LinearLayout>

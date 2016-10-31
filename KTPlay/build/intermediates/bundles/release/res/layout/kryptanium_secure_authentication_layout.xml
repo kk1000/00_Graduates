@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="17.5dp"
+    android:paddingRight="17.5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="17.5dp"
+        android:layout_marginRight="17.5dp"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/kryptanium_primary_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="17.5dp"
+            android:gravity="center"
+            android:text="@string/kt_security_verification_prompt" />
+
+        <GridView
+            android:id="@+id/kryptanium_secure_authentication_gridview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="17.5dp"
+            android:columnWidth="40dp"
+            android:gravity="center_horizontal"
+            android:horizontalSpacing="10dp"
+            android:numColumns="4"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="10dp" />
+
+        <TextView
+            android:id="@+id/kryptanium_secure_authentication_ok"
+            style="@style/kryptanium_button_style_main"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="17.5dp"
+            android:enabled="false"
+            android:gravity="center"
+            android:text="@string/kt_confirm" />
+    </LinearLayout>
+</LinearLayout>

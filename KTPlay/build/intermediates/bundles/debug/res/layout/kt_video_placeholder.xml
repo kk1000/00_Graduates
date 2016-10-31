@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/kt_placeholder"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/kt_video_placeholder_height"
+    android:layout_alignLeft="@id/kt_item_content"
+    android:layout_below="@id/kt_item_content"
+    android:layout_marginTop="12dp"
+    android:background="@drawable/kryptanium_topic_reply_item_bg"
+    android:visibility="gone">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="37dp"
+            android:layout_height="25dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/kt_icon_video_normal" />
+
+        <TextView
+            android:id="@+id/kt_video_placeholder_text"
+            style="@style/kryptanium_hint_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/kt_in_reviewing" />
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,60 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="kryptanium_ad_primary_text">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <!-- 主要文字-亮背景 -->
+    <style name="kryptanium_ad_primary_text_light" parent="kryptanium_ad_primary_text">
+        <item name="android:textColor">#de000000</item>
+    </style>
+
+    <style name="kt_ad_flag_style" parent="kryptanium_hint_text">
+        <item name="android:textSize">14sp</item>
+        <item name="android:text">@string/kt_ad_flag</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="kt_ad_flag_fullscreen_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:text">@string/kt_ad_flag</item>
+        <item name="android:background">#000000</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="kt_ad_title_style" parent="kryptanium_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="kt_ad_content_style" parent="kryptanium_primary_text">
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="kt_ad_action_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/kt_ad_theme_color</item>
+        <item name="android:background">@drawable/kt_ad_action_border</item>
+    </style>
+
+    <style name="kt_ratingbar_style">
+        <item name="android:indeterminateDrawable">@drawable/kt_star_big_on</item>
+        <item name="android:isIndicator">true</item>
+        <item name="android:numStars">5</item>
+        <item name="android:progressDrawable">@drawable/kt_star_big_on</item>
+        <item name="android:stepSize">0.5</item>
+    </style>
+
+    <color name="kt_ad_theme_color">@color/kt_theme_color</color>
+
+    <string name="kt_ad_flag">Ad</string>
+</resources>

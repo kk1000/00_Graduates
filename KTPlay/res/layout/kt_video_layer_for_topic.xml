@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kt_operation_top"
+    android:layout_width="match_parent"
+    android:layout_height="70dp">
+
+    <RelativeLayout
+        android:id="@+id/kt_video_top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="top"
+        android:background="@drawable/kt_video_top_gradient_background"
+        android:gravity="top"
+        android:paddingTop="10dp">
+
+        <LinearLayout
+            android:id="@+id/kt_back_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/kt_video_title_background"
+            android:gravity="center_vertical"
+            android:minHeight="10dp"
+            android:minWidth="10dp"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="2dp">
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:minHeight="30dp"
+                android:minWidth="30dp"
+                android:padding="5dp"
+                android:src="@drawable/kryptanium_titlebar_button_back_icon_white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/kt_video_reply_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/kt_back_layout"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/kt_video_title_background"
+            android:gravity="center_vertical"
+            android:minHeight="10dp"
+            android:minWidth="10dp"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="2dp">
+
+            <ImageView
+                android:id="@id/kt_compoundicon_icon"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:minHeight="30dp"
+                android:minWidth="30dp"
+                android:padding="5dp" />
+
+            <TextView
+                android:id="@id/kt_compoundicon_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/kt_video_like_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/kt_back_layout"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/kt_video_reply_layout"
+            android:background="@drawable/kt_video_title_background"
+            android:gravity="center_vertical"
+            android:minHeight="10dp"
+            android:minWidth="10dp"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="2dp">
+
+            <ImageView
+                android:id="@id/kt_compoundicon_icon"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:minHeight="30dp"
+                android:minWidth="30dp"
+                android:padding="5dp" />
+
+            <TextView
+                android:id="@id/kt_compoundicon_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/kt_video_favorite_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/kt_back_layout"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@+id/kt_video_like_layout"
+            android:background="@drawable/kt_video_title_background"
+            android:gravity="center_vertical"
+            android:minHeight="10dp"
+            android:minWidth="10dp"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="2dp">
+
+            <ImageView
+                android:id="@id/kt_compoundicon_icon"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:minHeight="30dp"
+                android:minWidth="30dp"
+                android:padding="5dp" />
+
+            <TextView
+                android:id="@id/kt_compoundicon_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

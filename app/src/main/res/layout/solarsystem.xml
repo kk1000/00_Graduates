@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xpple.graduates.view.SolarSystem xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/solar"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:position="center">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_yd"
+        android:tag="yd" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_bl"
+        android:tag="bl" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_gj"
+        android:tag="gj" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_tx"
+        android:tag="tx" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_cj"
+        android:tag="cj" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_ts"
+        android:tag="ts" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_cm"
+        android:tag="cm" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_jb"
+        android:tag="jb" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_sw"
+        android:tag="sw" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_ty"
+        android:tag="ty" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_zj"
+        android:tag="zj" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ImageViewDescription"
+        android:src="@drawable/main_selector_hj"
+        android:tag="hj" />
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/centerMenu"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_centerInParent="true"
+            android:background="@anim/frame"
+            android:contentDescription="@string/ImageViewDescription" />
+    </RelativeLayout>
+
+</com.xpple.graduates.view.SolarSystem>

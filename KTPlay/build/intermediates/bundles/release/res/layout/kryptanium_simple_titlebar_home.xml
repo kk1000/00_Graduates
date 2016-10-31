@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:gravity="center"--><!--android:orientation="vertical"--><!--android:background="@drawable/kryptanium_menuitem_bg"--><!--android:clickable="true"--><!--&gt;-->
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/kryptanium_titlebar_icon"
+    android:contentDescription="@null"
+    android:src="@drawable/kryptanium_titlebar_button_back_icon" />    <!--</LinearLayout>-->

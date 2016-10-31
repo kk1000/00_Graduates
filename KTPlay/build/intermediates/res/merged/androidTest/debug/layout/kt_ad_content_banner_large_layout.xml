@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/kryptanium_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/kt_content_padding"
+    android:paddingTop="@dimen/kt_content_padding">
+
+    <!-- icon图片 -->
+    <ImageView
+        android:id="@+id/kt_ad_icon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:scaleType="centerCrop" />
+
+
+    <TextView
+        android:id="@+id/kt_ad_title"
+        style="@style/kt_ad_title_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/kt_content_padding"
+        android:layout_toRightOf="@id/kt_ad_icon"
+        android:maxLines="1" />
+
+    <TextView
+        android:id="@+id/kt_ad_advertiser"
+        style="@style/kt_ad_content_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/kt_ad_title"
+        android:layout_below="@id/kt_ad_title"
+        android:layout_marginTop="2dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="@color/kt_ad_theme_color" />
+
+
+    <TextView
+        android:id="@+id/kt_ad_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/kt_ad_advertiser"
+        android:layout_marginLeft="@dimen/kt_content_padding"
+        android:layout_marginTop="2dp"
+        android:maxLines="1"
+        android:textColor="@color/kt_ad_theme_color" />
+
+    <!-- 广告内容 -->
+    <TextView
+        android:id="@+id/kt_ad_content"
+        style="@style/kt_ad_content_style"
+        android:layout_width="match_parent"
+        android:layout_alignLeft="@id/kt_ad_advertiser"
+        android:layout_below="@id/kt_ad_advertiser"
+        android:layout_toLeftOf="@+id/kt_ad_button"
+        android:maxLines="2" />
+
+
+    <!-- 广告标志 -->
+    <TextView
+        style="@style/kt_ad_flag_style"
+        android:layout_alignLeft="@id/kt_ad_content"
+        android:layout_below="@id/kt_ad_content"
+        android:layout_marginTop="2dp" />
+</RelativeLayout>

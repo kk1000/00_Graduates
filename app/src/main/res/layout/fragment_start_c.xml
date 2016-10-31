@@ -1,0 +1,328 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg_start"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ui.gameFragment.StartFragmentC">
+
+    <TextView
+        android:id="@+id/tv_jtbg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lines="2"
+        android:text="@string/jtbg_0"
+        android:textColor="@color/base_color_text_black" />
+
+    <RadioGroup
+        android:id="@+id/rg_jtbg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tv_jtbg"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_jtbg_0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_0"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="清贫之家" />
+
+        <RadioButton
+            android:id="@+id/rb_jtbg_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="小康之家" />
+
+        <RadioButton
+            android:id="@+id/rb_jtbg_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="中产之家" />
+
+        <RadioButton
+            android:id="@+id/rb_jtbg_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="富贵之家" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tv_xgqx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rg_jtbg"
+        android:lines="2"
+        android:text="@string/xgqx_0"
+        android:textColor="@color/base_color_text_black" />
+
+    <RadioGroup
+        android:id="@+id/rg_xgqx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tv_xgqx"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_xgqx_0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_1"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="热情直率" />
+
+        <RadioButton
+            android:id="@+id/rb_xgqx_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="稳重忍耐" />
+
+        <RadioButton
+            android:id="@+id/rb_xgqx_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="文静敏感" />
+
+        <RadioButton
+            android:id="@+id/rb_xgqx_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="理智谨慎" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tv_dxzy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rg_xgqx"
+        android:lines="2"
+        android:text="@string/dxzy_0"
+        android:textColor="@color/base_color_text_black" />
+
+    <RadioGroup
+        android:id="@+id/rg_dxzy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tv_dxzy"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_dxzy_0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_0"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="理工化建" />
+
+        <RadioButton
+            android:id="@+id/rb_dxzy_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="文史外语" />
+
+        <RadioButton
+            android:id="@+id/rb_dxzy_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="经济贸易" />
+
+        <RadioButton
+            android:id="@+id/rb_dxzy_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="艺术体育" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tv_gzfx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rg_dxzy"
+        android:lines="2"
+        android:text="@string/gzfx_0"
+        android:textColor="@color/base_color_text_black" />
+
+    <RadioGroup
+        android:id="@+id/rg_gzfx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tv_gzfx"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_gzfx_0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_1"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="生产研究" />
+
+        <RadioButton
+            android:id="@+id/rb_gzfx_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="管理财会" />
+
+        <RadioButton
+            android:id="@+id/rb_gzfx_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="销售公关" />
+
+        <RadioButton
+            android:id="@+id/rb_gzfx_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="技术服务" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tv_yxnd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rg_gzfx"
+        android:lines="2"
+        android:text="@string/yxnd_0"
+        android:textColor="@color/base_color_text_black" />
+
+    <RadioGroup
+        android:id="@+id/rg_yxnd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tv_yxnd"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_yxnd_0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_2"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="现实 最难" />
+
+        <RadioButton
+            android:id="@+id/rb_yxnd_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_2"
+            android:button="@null"
+            android:gravity="center"
+            android:text="幸运 中等" />
+
+        <RadioButton
+            android:id="@+id/rb_yxnd_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_2"
+            android:button="@null"
+            android:gravity="center"
+            android:text="理想 容易" />
+
+        <RadioButton
+            android:id="@+id/rb_yxnd_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/radio_bg_2"
+            android:button="@null"
+            android:gravity="center"
+            android:text="梦幻 完美" />
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/btn_go_game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/btn_forward" />
+</RelativeLayout>

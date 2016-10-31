@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.ktplay.widget.PullRefreshView
+        android:id="@+id/kryptanium_pull_refresh_viewgroup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/kryptanium_other_friends_listview"
+            style="@style/kryptanium_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </com.ktplay.widget.PullRefreshView>
+
+</RelativeLayout>

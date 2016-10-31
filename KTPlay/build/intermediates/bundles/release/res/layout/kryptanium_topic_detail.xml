@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 话题详情 - Header -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/kt_theme_section_background"
+    android:orientation="vertical">
+    <!-- 视频布局 -->
+    <include
+        android:id="@id/kt_video"
+        layout="@layout/kt_video_source_image" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/kt_card_hpadding"
+        android:paddingRight="@dimen/kt_card_hpadding"
+        android:paddingTop="@dimen/kt_card_vpadding">
+
+        <!-- Header -->
+
+        <include layout="@layout/kt_content_header" />
+
+        <!-- 标题 -->
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@id/kt_item_topic_title"
+            style="@style/kryptanium_primary_text_light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textSize="16sp" />
+
+        <!-- 内容 -->
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@id/kt_item_content"
+            style="@style/kryptanium_primary_text_light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/kt_theme_secondary_textcolor" />
+
+        <!-- 图片 -->
+
+        <ImageView
+            android:id="@id/kt_item_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/kt_topic_detail_image_height"
+            android:layout_marginTop="5dp"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:visibility="gone" />
+        <!-- 多图展示 -->
+
+        <com.ktplay.widget.KTNoScrollGridView
+            android:id="@+id/kt_item_gridview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:columnWidth="100dp"
+            android:gravity="center"
+            android:horizontalSpacing="2dp"
+            android:stretchMode="none"
+            android:verticalSpacing="2dp" />
+        <!-- 投票 -->
+
+        <LinearLayout
+            android:id="@+id/kt_vote_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/kt_vote_text"
+                style="@style/kryptanium_secondary_text_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="12dp" />
+
+            <com.ktplay.widget.KTListViewInScrollView
+                android:id="@+id/kt_vote_list"
+                style="@style/kryptanium_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:footerDividersEnabled="true"></com.ktplay.widget.KTListViewInScrollView>
+
+            <!-- 画一条横线 -->
+
+            <View style="@style/kryptanium_seperate_line" />
+
+            <LinearLayout
+                android:id="@+id/kt_vote_button_layout"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:orientation="vertical">
+
+                <!-- 投票按钮 -->
+
+                <TextView
+                    android:id="@+id/kt_vote_button"
+                    style="@style/kryptanium_button_style_main"
+                    android:layout_gravity="center|center_vertical"
+                    android:layout_marginTop="22dp"
+                    android:gravity="center"
+                    android:text="@string/kt_vote" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- 称赞按钮 -->
+        <include
+            android:id="@id/kt_like"
+            layout="@layout/kryptanium_topic_details_ilike_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+    </LinearLayout>
+
+    <!-- 回复数 -->
+
+
+    <TextView
+        android:id="@+id/kryptanium_topic_detail_replay_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="6dp"
+        android:paddingLeft="12dp"
+        android:paddingTop="6dp"
+        android:textColor="@color/kryptanium_text_dark_gray"
+        android:textSize="@dimen/kryptanium_text_size_standard" />
+
+</LinearLayout>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_hot_topic_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 头像 -->
+    <include
+        android:id="@id/kt_item_avatar"
+        layout="@layout/kt_item_avatar"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/kt_content_padding" />
+
+    <!-- title -->
+    <TextView
+        android:id="@id/kt_item_title"
+        style="@style/kryptanium_primary_text_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="6dp"
+        android:layout_toRightOf="@id/kt_item_avatar"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:includeFontPadding="false"
+        android:maxLines="1"
+        android:maxWidth="@dimen/kryptanium_user_topic_headtitle_itemtitle_maxwidth" />
+
+    <!-- 标识(标签) -->
+    <TextView
+        android:id="@id/kt_item_tag"
+        style="@style/kryptanium_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="6dp"
+        android:layout_toRightOf="@id/kt_item_title"
+        android:gravity="center_vertical"
+        android:text="@string/kt_account_adm"
+        android:visibility="gone" />
+
+    <!--回复数 -->
+    <TextView
+        android:id="@+id/kryptanium_hot_topic_tvcomment_replay"
+        style="@style/kryptanium_primary_text_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:textSize="12sp" />
+
+    <!--内容 -->
+    <com.ktplay.widget.KTEmojiText
+        android:id="@id/kt_item_content"
+        style="@style/kryptanium_primary_text_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/kt_item_title"
+        android:layout_below="@id/kt_item_title"
+        android:layout_marginTop="10dp"
+        android:ellipsize="end"
+        android:maxLines="2" />
+
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@id/kt_item_avatar"-->
+    <!--android:orientation="vertical"-->
+    <!--android:paddingLeft="@dimen/kryptanium_home_hot_topic_item_text_layout_paddingLeft">-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center_vertical"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:paddingTop="15dp">-->
+
+    <!--<TextView-->
+    <!--android:id="@id/kt_item_title"-->
+    <!--style="@style/kryptanium_primary_text_light_bold"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginRight="6dp"-->
+    <!--android:ellipsize="end"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:includeFontPadding="false"-->
+    <!--android:maxWidth="@dimen/kryptanium_user_topic_headtitle_itemtitle_maxwidth"-->
+    <!--android:maxLines="1"/>-->
+
+    <!--&lt;!&ndash; 标识(标签) &ndash;&gt;-->
+
+    <!--<TextView-->
+    <!--android:id="@id/kt_item_tag"-->
+    <!--style="@style/kryptanium_tag"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginRight="6dp"-->
+    <!--android:layout_toRightOf="@id/kt_item_title"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:text="@string/kt_account_adm"-->
+    <!--android:visibility="gone"/>-->
+
+    <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+    <!--&lt;!&ndash;android:id="@+id/kryptanium_hot_topic_tvcomment_replay"&ndash;&gt;-->
+    <!--&lt;!&ndash;style="@style/kryptanium_secondary_text_dark"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_alignParentRight="true"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_marginLeft="@dimen/kryptanium_spacing_superbig"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:paddingRight="@dimen/kryptanium_home_hot_topic_item_text_reply_paddingRight"/>&ndash;&gt;-->
+    <!--</RelativeLayout>-->
+
+    <!--<com.ktplay.widget.KTEmojiText-->
+    <!--android:id="@id/kt_item_content"-->
+    <!--style="@style/kryptanium_primary_text_dark"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:ellipsize="end"-->
+    <!--android:maxLines="2"-->
+    <!--android:paddingRight="@dimen/kryptanium_layout_paddingRight"/>-->
+    <!--</LinearLayout>-->
+</RelativeLayout>

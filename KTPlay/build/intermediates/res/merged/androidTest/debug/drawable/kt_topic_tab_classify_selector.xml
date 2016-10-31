@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 点击状态下的效果 -->
+    <item android:drawable="@drawable/kryptanium_topic_classify_text_down_selected_press" android:state_selected="true"></item>
+
+    <!-- 正常状态下(非点击)的效果 -->
+    <item android:drawable="@drawable/kryptanium_topic_classify_text_down_selected" android:state_pressed="false"></item>
+
+</selector>

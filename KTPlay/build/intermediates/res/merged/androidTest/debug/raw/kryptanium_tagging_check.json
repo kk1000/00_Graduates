@@ -1,0 +1,303 @@
+[
+  {
+    "name": "username",
+    "type": "or",
+    "items": [
+      {
+        "type": "null"
+      },
+      {
+        "name": "username",
+        "type": "length",
+        "value1": 1,
+        "value2": 64
+      }
+    ]
+  },
+  {
+    "name": "age",
+    "type": "range",
+    "value1": 0,
+    "value2": 120
+  },
+  {
+    "name": "gender",
+    "type": "range",
+    "value1": 0,
+    "value2": 2
+  },
+  {
+    "name": "stage",
+    "type": "range",
+    "value1": 1,
+    "value2": 1000
+  },
+  {
+    "name": "level",
+    "type": "range",
+    "value1": 1,
+    "value2": 1000
+  },
+  {
+    "name": "labelKey",
+    "type": "and",
+    "items": [
+      {
+        "type": "length",
+        "value1": 1,
+        "value2": 32
+      },
+      {
+        "type": "char-regex",
+        "value1": "[0-9a-zA-Z\\_\\-]"
+      }
+    ]
+  },
+  {
+    "name": "labelValue",
+    "type": "or",
+    "items": [
+      {
+        "type": "null"
+      },
+      {
+        "type": "length",
+        "value1": 1,
+        "value2": 32
+      }
+    ]
+  },
+  {
+    "name": "orderId",
+    "type": "and",
+    "items": [
+      {
+        "type": "length",
+        "value1": 1,
+        "value2": 64
+      },
+      {
+        "type": "char-regex",
+        "value1": "[0-9a-zA-Z\\_\\-]"
+      }
+    ]
+  },
+  {
+    "name": "currencyAmount",
+    "type": "range",
+    "value1": 0,
+    "value3": true
+  },
+  {
+    "name": "paymentChannel",
+    "type": "or",
+    "items": [
+      {
+        "type": "null"
+      },
+      {
+        "type": "length",
+        "value1": 1,
+        "value2": 16
+      }
+    ]
+  },
+  {
+    "name": "productId",
+    "type": "or",
+    "items": [
+      {
+        "type": "null"
+      },
+      {
+        "type": "length",
+        "value1": 1,
+        "value2": 32
+      }
+    ]
+  },
+  {
+    "name": "currencyType",
+    "type": "select",
+    "value1": [
+      "AED",
+      "AFN",
+      "ALL",
+      "AMD",
+      "ANG",
+      "AOA",
+      "ARS",
+      "AUD",
+      "AWG",
+      "AZN",
+      "BAM",
+      "BBD",
+      "BDT",
+      "BGN",
+      "BHD",
+      "BIF",
+      "BMD",
+      "BND",
+      "BOB",
+      "BOV",
+      "BRL",
+      "BSD",
+      "BTN",
+      "BWP",
+      "BYR",
+      "BZD",
+      "CAD",
+      "CDF",
+      "CHE",
+      "CHF",
+      "CHW",
+      "CLF",
+      "CLP",
+      "CNY",
+      "COP",
+      "COU",
+      "CRC",
+      "CUC",
+      "CUP",
+      "CVE",
+      "CZK",
+      "DJF",
+      "DKK",
+      "DOP",
+      "DZD",
+      "EGP",
+      "ERN",
+      "ETB",
+      "EUR",
+      "FJD",
+      "FKP",
+      "GBP",
+      "GEL",
+      "GHS",
+      "GIP",
+      "GMD",
+      "GNF",
+      "GTQ",
+      "GYD",
+      "HKD",
+      "HNL",
+      "HRK",
+      "HTG",
+      "HUF",
+      "IDR",
+      "ILS",
+      "INR",
+      "IQD",
+      "IRR",
+      "ISK",
+      "JMD",
+      "JOD",
+      "JPY",
+      "KES",
+      "KGS",
+      "KHR",
+      "KMF",
+      "KPW",
+      "KRW",
+      "KWD",
+      "KYD",
+      "KZT",
+      "LAK",
+      "LBP",
+      "LKR",
+      "LRD",
+      "LSL",
+      "LYD",
+      "MAD",
+      "MDL",
+      "MGA",
+      "MKD",
+      "MMK",
+      "MNT",
+      "MOP",
+      "MRO",
+      "MUR",
+      "MVR",
+      "MWK",
+      "MXN",
+      "MXV",
+      "MYR",
+      "MZN",
+      "NAD",
+      "NGN",
+      "NIO",
+      "NOK",
+      "NPR",
+      "NZD",
+      "OMR",
+      "PAB",
+      "PEN",
+      "PGK",
+      "PHP",
+      "PKR",
+      "PLN",
+      "PYG",
+      "QAR",
+      "RON",
+      "RSD",
+      "RUB",
+      "RWF",
+      "SAR",
+      "SBD",
+      "SCR",
+      "SDG",
+      "SEK",
+      "SGD",
+      "SHP",
+      "SLL",
+      "SOS",
+      "SRD",
+      "SSP",
+      "STD",
+      "SYP",
+      "SZL",
+      "THB",
+      "TJS",
+      "TMT",
+      "TND",
+      "TOP",
+      "TRY",
+      "TTD",
+      "TWD",
+      "TZS",
+      "UAH",
+      "UGX",
+      "USD",
+      "USN",
+      "USS",
+      "UYI",
+      "UYU",
+      "UZS",
+      "VEF",
+      "VND",
+      "VUV",
+      "WST",
+      "XAF",
+      "XAG",
+      "XAU",
+      "XBA",
+      "XBB",
+      "XBC",
+      "XBD",
+      "XCD",
+      "XDR",
+      "XFU",
+      "XOF",
+      "XPD",
+      "XPF",
+      "XPT",
+      "XSU",
+      "XTS",
+      "XUA",
+      "XXX",
+      "YER",
+      "ZAR",
+      "ZMW"
+    ]
+  }
+]

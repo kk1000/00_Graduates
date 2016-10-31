@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 不支持视频功能时的占位图 -->
+
+    <include
+        android:id="@+id/kt_video_incompatible_placeholder"
+        layout="@layout/kt_video_placeholder"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/kt_video_placeholder_height"
+        android:visibility="gone" />
+
+    <!-- 无视频截图时的占位图 -->
+
+    <FrameLayout
+        android:id="@+id/kt_video_placeholder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ff242424"
+        android:padding="8dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:src="@drawable/kt_logo" />
+    </FrameLayout>
+
+    <!-- 视频布局 -->
+
+    <FrameLayout
+        android:id="@+id/kryptanium_video_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- 显示视频缩略图 -->
+
+        <ImageView
+            android:id="@+id/kryptanium_video_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop" />
+        <!-- 中间的播放按钮 -->
+
+        <ImageView
+            android:layout_width="@dimen/kt_avatar_width_large"
+            android:layout_height="@dimen/kt_avatar_size_large"
+            android:layout_gravity="center"
+            android:background="@drawable/kryptanium_video_play_button" />
+        <!-- 底部黑色遮罩 -->
+
+        <ImageView
+            android:id="@+id/kryptanium_video_mask_image"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_gravity="bottom|fill_horizontal"
+            android:background="@drawable/kryptanium_video_mask" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|left"
+            android:layout_marginBottom="@dimen/kt_card_vpadding"
+            android:layout_marginLeft="@dimen/kt_card_hpadding"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/kryptanium_video_camera"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/kt_icon_video_white" />
+
+            <!-- 播放时间 -->
+
+
+            <!-- android:lineSpacingExtra="-2dp" ,消除文字下面的行间距 -->
+
+            <TextView
+                android:id="@+id/kryptanium_video_play_time"
+                style="@style/kryptanium_secondary_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="6dp"
+                android:includeFontPadding="false"
+                android:lineSpacingExtra="-2dp"
+                android:textColor="@color/kryptanium_base_color_white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_marginBottom="@dimen/kt_card_vpadding"
+            android:layout_marginRight="@dimen/kt_card_hpadding"
+            android:orientation="horizontal">
+
+            <!-- 小的播放图标 -->
+
+            <ImageView
+                android:id="@+id/kryptanium_video_play"
+                android:layout_width="9dp"
+                android:layout_height="9dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="6dp"
+                android:background="@drawable/kryptanium_video_play" />
+            <!-- 播放次数 -->
+
+            <TextView
+                android:id="@+id/kryptanium_video_play_number"
+                style="@style/kryptanium_secondary_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:includeFontPadding="false"
+                android:lineSpacingExtra="-2dp"
+                android:textColor="@color/kryptanium_base_color_white" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <View
+        android:id="@+id/kryptanium_video_imageload_placeholder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/kryptanium_default_icon_image_small"
+        android:visibility="gone" />
+</FrameLayout>

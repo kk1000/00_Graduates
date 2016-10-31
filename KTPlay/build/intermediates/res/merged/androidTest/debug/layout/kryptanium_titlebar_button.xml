@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_title_addbutton_icon"
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:background="@drawable/kryptanium_menuitem_bg"
+    android:paddingBottom="6dp"
+    android:paddingLeft="6dp"
+    android:paddingRight="10dp"
+    android:paddingTop="6dp">
+
+    <!-- 按钮 -->
+    <ImageView
+        android:id="@id/kt_icon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center"
+        android:contentDescription="@null"
+        android:scaleType="centerInside" />
+
+    <!-- 新消息 -->
+    <include
+        layout="@layout/kt_newmsg"
+        android:layout_width="@dimen/kryptanium_new_msg_size"
+        android:layout_height="@dimen/kryptanium_new_msg_size"
+        android:layout_gravity="right" />
+</FrameLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 独立弹出界面 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true">
+
+    <!-- 内容区域 -->
+    <FrameLayout
+        android:id="@id/kt_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/kryptanium_frame_contex_port" />
+
+    <ImageView style="@style/kryptanium_global_close" />
+</FrameLayout>

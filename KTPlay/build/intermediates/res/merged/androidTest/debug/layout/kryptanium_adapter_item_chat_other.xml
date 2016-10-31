@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 聊天窗口 - 我收到的消息 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp">
+    <!-- 时间 -->
+    <TextView
+        android:id="@+id/kryptanium_chat_other_msg_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingBottom="9dp"
+        android:paddingTop="9.5dp"
+        android:textColor="@color/kryptanium_base_color_near_white"
+        android:textSize="@dimen/kryptanium_text_size_small" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp">
+        <!-- 头像 -->
+        <!--  <ImageView
+             android:id="@+id/kryptanium_chat_other_icon"
+             android:layout_width="42dp"
+             android:layout_height="42dp"
+             android:layout_gravity="top"
+             android:scaleType="fitXY"/> -->
+        <include
+            layout="@layout/kt_item_avatar"
+            android:layout_width="@dimen/kt_avatar_width"
+            android:layout_height="@dimen/kt_avatar_height"
+            android:layout_gravity="top" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical">
+            <!-- 用户名称，公会用 -->
+            <TextView
+                android:id="@+id/kryptanium_chat_other_user_name_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@null"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/kryptanium_base_color_near_white"
+                android:textSize="@dimen/kryptanium_text_size_small"
+                android:visibility="gone" />
+            <!-- 文本消息布局 -->
+            <LinearLayout
+                android:id="@+id/kryptanium_chat_other_msg_box_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/kryptanium_chat_other_user_name_text"
+                android:layout_marginLeft="4dp"
+                android:background="@drawable/kryptanium_chat_receivedmessage_bg"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.ktplay.widget.KTEmojiText
+                    android:id="@+id/kryptanium_chat_other_msg_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:maxWidth="@dimen/kryptanium_chat_content_width"
+                    android:minHeight="30dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/kryptanium_base_color_black"
+                    android:textSize="@dimen/kryptanium_text_size_standard" />
+            </LinearLayout>
+
+            <!-- 图片消息布局 -->
+            <LinearLayout
+                android:id="@+id/kryptanium_chat_other_msg_box_imagview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/kryptanium_chat_other_user_name_text"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.ktplay.widget.KTRoundRectImageView
+                    android:id="@+id/kryptanium_chat_other_msg_imageview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp" />
+
+                <!--<FrameLayout-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content">-->
+
+                <!--<com.ktplay.widget.KTRoundRectImageView-->
+                <!--android:id="@+id/kryptanium_chat_other_msg_imageview"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"/>-->
+
+                <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+                <!--&lt;!&ndash;android:id="@+id/kryptanium_chat_other_msg_imageview_background"&ndash;&gt;-->
+                <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+                <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+                <!--&lt;!&ndash;android:background="@drawable/kryptanium_chat_other_image_background"/>&ndash;&gt;-->
+                <!--</FrameLayout>-->
+            </LinearLayout>
+
+            <!-- 语音消息布局 -->
+            <RelativeLayout
+                android:id="@+id/kryptanium_chat_other_msg_voice_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/kryptanium_chat_other_user_name_text"
+                android:layout_centerVertical="true"
+                android:gravity="center_vertical">
+
+                <FrameLayout
+                    android:id="@+id/kryptanium_chat_other_msg_voice_tag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="4dp"
+                    android:background="@drawable/kryptanium_chat_receivedmessage_bg">
+
+                    <FrameLayout
+                        android:id="@+id/kryptanium_chat_other_msg_voice_button"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_gravity="left">
+
+                        <ImageView
+                            android:id="@+id/kryptanium_chat_other_msg_voice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:maxWidth="@dimen/kryptanium_chat_content_width"
+                            android:minHeight="30dp"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:src="@drawable/kryptanium_chat_voicing_other_v3" />
+                    </FrameLayout>
+                </FrameLayout>
+
+                <!-- 语音未读提示，语音时间 -->
+                <LinearLayout
+                    android:id="@+id/kryptanium_chat_other_msg_voice_time_layout"
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:layout_toRightOf="@+id/kryptanium_chat_other_msg_voice_tag"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/kryptanium_chat_other_msg_voice_new_msg"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        android:src="@drawable/kryptanium_new_msg_voice"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/kryptanium_chat_other_msg_voice_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/kryptanium_base_color_near_white" />
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

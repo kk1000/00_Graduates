@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 话题 --><!--<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:layout_width="match_parent"--><!--android:layout_height="wrap_content"--><!--android:orientation="horizontal"--><!--android:paddingBottom="@dimen/kt_card_vmargin"--><!--android:paddingLeft="@dimen/kt_card_hmargin"--><!--android:paddingRight="@dimen/kt_card_hmargin"--><!--android:paddingTop="@dimen/kt_card_vmargin">-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_topic_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/kryptanium_card_bg_with_padding"
+    android:orientation="vertical"
+    android:paddingBottom="4dp"
+    android:paddingTop="@dimen/kt_card_vpadding">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/kt_card_hpadding"
+        android:paddingRight="@dimen/kt_card_hpadding">
+
+        <include layout="@layout/kt_content_header" />
+
+        <!-- 活动 -->
+
+        <LinearLayout
+            android:id="@+id/kryptanium_topic_item_activity"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/kt_theme_headsection_background"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@id/kt_icon"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:layout_gravity="center_vertical"
+                android:background="@color/kt_theme_color" />
+
+            <TextView
+                android:id="@+id/kryptanium_topic_item_activity_description"
+                style="@style/kryptanium_primary_text_dark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="12dp" />
+        </LinearLayout>
+
+        <!-- 投票 -->
+
+        <LinearLayout
+            android:id="@+id/kryptanium_topic_item_vote"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/kt_theme_headsection_background"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@id/kt_icon"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:layout_gravity="center_vertical"
+                android:background="@color/kt_theme_color"
+                android:src="@drawable/kryptanium_icon_vote" />
+
+            <TextView
+                android:id="@+id/kryptanium_topic_item_vote_description"
+                style="@style/kryptanium_primary_text_dark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="12dp" />
+        </LinearLayout>
+
+        <!-- 话题标题 -->
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@+id/kt_item_topic_title"
+            style="@style/kryptanium_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:includeFontPadding="false" />
+
+        <!-- 话题内容 -->
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@id/kt_item_content"
+            style="@style/kryptanium_secondary_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:includeFontPadding="false"
+            android:textSize="14sp" />
+
+        <!-- 显示更多 -->
+
+        <TextView
+            android:id="@+id/kryptanium_topic_item_content_showall"
+            style="@style/kryptanium_action_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:includeFontPadding="false"
+            android:text="@string/kt_expansion_centent"
+            android:visibility="invisible" />
+
+        <!-- 视频布局 -->
+        <include
+            android:id="@id/kt_video"
+            layout="@layout/kt_video_source_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" />
+        <!-- 话题图片 -->
+
+        <com.ktplay.widget.NoClickStateImageView
+            android:id="@+id/kryptanium_topic_item_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/kt_topic_detail_image_height"
+            android:layout_marginTop="5dp"
+            android:scaleType="fitXY"
+            android:visibility="visible" />
+
+        <com.ktplay.widget.KTNoScrollGridView
+            android:id="@+id/kryptanium_topic_item_gridview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:columnWidth="100dp"
+            android:gravity="center"
+            android:horizontalSpacing="2dp"
+            android:stretchMode="none"
+            android:verticalSpacing="2dp" />
+
+        <!-- 话题回复 -->
+
+        <LinearLayout
+            android:id="@+id/kryptanium_topic_item_reply"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/kryptanium_topic_reply_item_bg"
+            android:orientation="vertical"
+            android:visibility="gone"></LinearLayout>
+
+        <TextView
+            android:id="@+id/kryptanium_topic_reply_item_content_showdetail"
+            style="@style/kryptanium_action_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="18dp"
+            android:layout_marginTop="12dp"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:text="@string/kt_more_replies"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <View
+        style="@style/kryptanium_seperate_line"
+        android:layout_marginTop="12dp"
+        android:visibility="visible" />
+
+    <!-- 操作按钮 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <!-- 收藏 -->
+
+        <include
+            android:id="@+id/kryptanium_topic_item_info_favorite"
+            layout="@layout/kt_compound_icon"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <!-- 称赞 -->
+
+        <include
+            android:id="@+id/kryptanium_topic_item_info_like"
+            layout="@layout/kt_compound_icon"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <!-- 回复 -->
+
+        <include
+            android:id="@+id/kryptanium_topic_item_info_reply"
+            layout="@layout/kt_compound_icon"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+</LinearLayout>
+
+    <!--</FrameLayout>-->

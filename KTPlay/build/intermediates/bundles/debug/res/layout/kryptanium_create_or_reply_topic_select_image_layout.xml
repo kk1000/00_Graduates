@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <GridView
+        android:id="@+id/kryptanium_createtopic_image_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="#000000"
+        android:gravity="center"
+        android:horizontalSpacing="@dimen/kryptanium_topic_item_spacing_horizontal"
+        android:listSelector="#00000000"
+        android:verticalSpacing="@dimen/kryptanium_topic_item_spacing_horizontal" />
+
+</LinearLayout>

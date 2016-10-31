@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 话题 -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_topic_listview_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/kryptanium_topic_item"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/kryptanium_topic_item_user_info_rl"
+            style="@style/kryptanium_list_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="12dp"
+            android:paddingLeft="12dp"
+            android:paddingTop="12dp">
+
+            <include
+                android:id="@id/kt_item_avatar"
+                layout="@layout/kt_item_avatar"
+                android:layout_width="@dimen/kt_avatar_width"
+                android:layout_height="@dimen/kt_avatar_height"
+                android:layout_marginRight="12dp" />
+
+            <TextView
+                android:id="@id/kt_item_title"
+                style="@style/kryptanium_primary_text_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/kt_item_avatar"
+                android:ellipsize="end"
+                android:includeFontPadding="false"
+                android:maxLines="1"
+                android:maxWidth="120dp" />
+
+            <TextView
+                android:id="@id/kt_item_tag"
+                style="@style/kryptanium_tag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/kt_content_padding"
+                android:layout_marginRight="6dp"
+                android:layout_toRightOf="@id/kt_item_title"
+                android:gravity="center"
+                android:text="@string/kt_account_adm"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/kryptanium_topic_item_create_time"
+                style="@style/kryptanium_hint_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="12dp"
+                android:gravity="center"
+                android:includeFontPadding="false" />
+
+            <com.ktplay.widget.KTEmojiText
+                android:id="@+id/kryptanium_topic_item_content"
+                style="@style/kryptanium_primary_text_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/kt_item_title"
+                android:layout_below="@id/kt_item_title"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="6dp"
+                android:ellipsize="end"
+                android:includeFontPadding="false"
+                android:maxLines="1" />
+
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

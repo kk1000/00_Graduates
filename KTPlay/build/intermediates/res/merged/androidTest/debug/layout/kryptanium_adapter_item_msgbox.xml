@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 收件箱 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_msgbox_frame"
+    style="@style/kryptanium_list_item_with_noclick"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:padding="8dp">
+
+    <include
+        android:id="@id/kt_item_icon"
+        layout="@layout/kt_item_icon" />
+
+    <LinearLayout
+        android:id="@+id/kryptanium_msgbox_item_body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@id/kt_action"
+        android:layout_toRightOf="@id/kt_item_icon"
+        android:orientation="vertical">
+
+        <!-- 标题 -->
+        <TextView
+            android:id="@id/kt_item_title"
+            style="@style/kryptanium_primary_text_light_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/kt_state_text" />
+
+        <!-- 内容 -->
+        <TextView
+            android:id="@id/kt_item_content"
+            style="@style/kryptanium_primary_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2.5dp"
+            android:textColor="@color/kt_state_text" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/kryptanium_msgbox_item_time_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/kryptanium_msgbox_item_body"
+        android:layout_marginLeft="8dp"
+        android:layout_toLeftOf="@id/kt_action"
+        android:layout_toRightOf="@id/kt_item_icon">
+
+        <TextView
+            android:id="@id/kt_item_time"
+            style="@style/kryptanium_hint_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2.5dp"
+            android:gravity="center"
+            android:textColor="@color/kt_state_text" />
+
+        <TextView
+            android:id="@+id/kryptanium_msgbox_more_textview"
+            style="@style/kryptanium_link_text_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:includeFontPadding="false"
+            android:text="@string/kt_more"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+
+    <!-- Action Button -->
+    <TextView
+        android:id="@id/kt_action"
+        style="@style/kryptanium_button_style_main"
+        android:layout_width="60dp"
+        android:layout_height="26dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

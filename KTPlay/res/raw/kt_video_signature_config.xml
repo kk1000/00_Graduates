@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signature>
+    <module name="default" />
+    <module name="kt_music" />
+    <module name="kt_fire" />
+    <module name="kt_bubble" />
+    <module name="kt_cloud" />
+</signature> 

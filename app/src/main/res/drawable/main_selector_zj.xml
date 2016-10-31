@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 当按下时 -->
+    <item android:drawable="@mipmap/main_zj_1" android:state_pressed="true" />
+    <!-- 当按下时 -->
+    <item android:drawable="@mipmap/main_zj_1" android:state_focused="true" />
+
+    <item android:drawable="@mipmap/main_zj_0" android:state_focused="false" />
+</selector>

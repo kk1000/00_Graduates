@@ -1,0 +1,443 @@
+<resources>
+    <string name="app_name">毕业生之黄金岁月</string>
+    <string name="versionName">version 1.6.8</string>
+    <string name="authorEmail">neday@bk.ru</string>
+    <string name="teamSlogan">小苹果,让生活更简单!</string>
+    <string name="ImageViewDescription">TODO</string>
+    <string name="settings">设置</string>
+    <string name="phone">手机号码</string>
+    <string name="nick">昵称</string>
+    <string name="sex">性别</string>
+    <string name="music">音乐</string>
+    <string name="sound">音效</string>
+    <string name="splash">初始化</string>
+    <string name="about">关于</string>
+    <string name="help">游戏提示</string>
+    <string name="top">排行榜</string>
+    <string name="tv_start_b">毕业方向</string>
+    <string name="tv_start_a">你的信息</string>
+    <string name="tv_position_0">人才市场</string>
+    <string name="tv_car_0">汽车超市</string>
+    <string name="tv_house_0">房产中介</string>
+    <string name="tv_lottery_0">彩票中心</string>
+    <string name="tv_partner_0">红娘会馆</string>
+    <string name="tv_stock_0">股票市场</string>
+
+    <string name="exit_or_un">退出游戏</string>
+    <string name="exit_or_un_0">确定要退出游戏吗？</string>
+    <string name="restart_or_un">重新开始</string>
+    <string name="restart_or_un_0">您的存档将重置，\n确定要重新开始游戏吗？</string>
+
+    <string name="no_save">当前无存档！</string>
+    <string name="load_or_un">是否读档</string>
+    <string name="save_success">存档成功！</string>
+    <string name="load_times_run_out">可读档次数不足，读档失败！</string>
+    <string name="load_success">读档成功！</string>
+    <string name="return_main_or_un">返回主菜单</string>
+    <string name="return_main_or_un_0">确定要返回主菜单吗？</string>
+
+    <string name="start_a_0">\t\t\t\t青春泪流满面，在22岁生日那天终于领到了大学毕业证书。\n\t\t\t\t告别同窗校友走向社会的你踌躇满志，希望能干一番事业。\n\t\t\t\t但是面对社会，你如何在你的黄金岁月里选择你走的道路？\n\n\t\t\t\t人说三十而立，你想知道你三十岁之时你将会是什么样子？\n\t\t\t\t那就做出你的选择吧！祝你能马到成功！</string>
+    <string name="start_a_sex">\t\t\t\t请选择你的性别：</string>
+    <string name="sex_0">女生</string>
+    <string name="sex_1">男生</string>
+    <string name="start_b">\t\t\t\t哈哈，终于毕业啦，总不能呆在家里混吃等死吧！\n\t\t\t\t我乃有志青年，前途光芒万丈！\n\t\t\t\t是该为这个社会献出光和热的时候了。\n\t\t\t\t让我大步流星闯社会！GO!GO!GO!</string>
+    <string name="start_b_0">找工作</string>
+    <string name="start_b_0_0">因为没有工作经验，所以在如洪水泛滥般的人才市场中，你感觉如同一片树叶，随着洪流被抛上沉下。\n在你投了N份简历之后，终于有公司相中了你。</string>
+    <string name="start_b_0_1">开启你的职场生涯！</string>
+    <string name="start_b_1">自己创业</string>
+    <string name="start_b_1_0">毛爷爷教导我们:\n要自力更生，艰苦创业。\n所以你想从家里借点钱，开一家服装店，开始自己的小店经营。</string>
+    <string name="start_b_1_1">老爸老妈说俺还没有经商的头脑和经验，还是现在外历练历练吧！</string>
+    <string name="start_b_2">考研</string>
+    <string name="start_b_2_0">考研可以延缓就业，\n提高自己的文凭等级。\n但考研大军千军万马，没有金钢钻，\n哪敢揽瓷器活？\n你确认要考研究生吗？</string>
+    <string name="start_b_2_1">读研的阶段，耗费你不少黄金岁月，在这几年里，发生了很多事情，都与你的个性与选择有关。\n就业在即，现将你读研阶段的机遇与努力化为一个幸运礼盒，请选择和抽取其中一个，以助你在未来的开拓中获得更多的资本！</string>
+    <string name="start_b_3">考公务员</string>
+    <string name="start_b_3_0">近两年参加公务员考试人数猛增，\n出现上万人竞聘一个岗位的情形，\n可见其诱惑力。你确认要参与吗？</string>
+    <string name="start_b_3_1">笔试通过了，\n可是在面试时莫名其妙的裁了！</string>
+    <string name="start_b_4">出国</string>
+    <string name="start_b_4_0">出国啦，出国啦，哈哈！\n因为你没有钱，望着GRE考试你又望而却步，所以你只有找中介公司出国务工咯！</string>
+    <string name="start_b_4_1">受骗啦！受骗啦！\n出国劳务中介公司介绍我去伊拉克！差点被绑架呀！</string>
+
+    <string name="jtbg_0">你的家庭背景：\n\t\t你的初始经验、能力+300，道德+100</string>
+    <string name="jtbg_1">你的家庭背景：\n\t\t你的初始基金+20000，健康、快乐+50</string>
+    <string name="jtbg_2">你的家庭背景：\n\t\t你的初始基金+100000，交际+50</string>
+    <string name="jtbg_3">你的家庭背景：\n\t\t你的初始基金+500000，结局分数-20%</string>
+
+    <string name="xgqx_0">你的性格趋向：\n\t\t你的初始健康、快乐+50</string>
+    <string name="xgqx_1">你的性格趋向：\n\t\t你的初始交际+50</string>
+    <string name="xgqx_2">你的性格趋向：\n\t\t你的初始道德+50</string>
+    <string name="xgqx_3">你的性格趋向：\n\t\t你的初始经验、能力+200</string>
+
+    <string name="dxzy_0">你的大学专业：\n\t\t你的初始经验、能力+200</string>
+    <string name="dxzy_1">你的大学专业：\n\t\t你的初始快乐+50</string>
+    <string name="dxzy_2">你的大学专业：\n\t\t你的初始交际+50</string>
+    <string name="dxzy_3">你的大学专业：\n\t\t你的初始健康+50</string>
+
+    <string name="gzfx_0">你的工作方向：\n\t\t你的初始经验、能力+200</string>
+    <string name="gzfx_1">你的工作方向：\n\t\t你的初始快乐+50</string>
+    <string name="gzfx_2">你的工作方向：\n\t\t你的初始交际+50</string>
+    <string name="gzfx_3">你的工作方向：\n\t\t你的初始事业机遇指数+1</string>
+
+    <string name="yxnd_0">你的游戏难度：\n\t\t你的初始数据为原始值，结局计分100%</string>
+    <string name="yxnd_1">你的游戏难度：\n\t\t你的初始爱情事业机遇指数+1，结局分数-10%</string>
+    <string name="yxnd_2">你的游戏难度：\n\t\t你的初始数值均为理想值，结局分数-40%</string>
+    <string name="yxnd_3">你的游戏难度：\n\t\t你的初始数值均为梦幻值，结局无分数</string>
+
+    <string name="car_0">小型节油低档车</string>
+    <string name="car_1">经济实用中档车</string>
+    <string name="car_2">豪华舒适中档车</string>
+    <string name="car_3">超豪华型高档车</string>
+    <string name="car_4">时尚拉风跑车</string>
+
+    <string name="car_0_0">售价:40000元\n月花费:600元 </string>
+    <string name="car_0_1">售价:120000元\n月花费:1000元</string>
+    <string name="car_0_2">售价:350000元\n月花费:1500元</string>
+    <string name="car_0_3">售价:1600000元\n月花费:3000元</string>
+    <string name="car_0_4">售价:2500000元\n月花费:4000元</string>
+
+    <string name="buy">购买</string>
+    <string name="sell">出售</string>
+    <string name="apply">应聘</string>
+
+    <string name="position_no_ae">对不起，能力、经验不足！</string>
+    <string name="position_su">应聘成功！</string>
+
+    <string name="position_2">海外驻华公司</string>
+    <string name="position_1">国内知名公司</string>
+    <string name="position_0">国内中小公司</string>
+
+    <string name="position_0_11">高层老总 月收入35200</string>
+    <string name="position_0_10">高层老总 月收入26400</string>
+    <string name="position_0_9">高层老总 月收入17600</string>
+    <string name="position_0_8">中层经理 月收入17600</string>
+    <string name="position_0_7">中层经理 月收入13200</string>
+    <string name="position_0_6">中层经理 月收入8800</string>
+    <string name="position_0_5">基层主管 月收入8800</string>
+    <string name="position_0_4">基层主管 月收入6600</string>
+    <string name="position_0_3">基层主管 月收入4400</string>
+    <string name="position_0_2">基层员工 月收入4400</string>
+    <string name="position_0_1">基层员工 月收入3300</string>
+    <string name="position_0_0">基层员工 月收入2200</string>
+
+    <string name="house_no_money">对不起，你没有那么多钱购买该房产！</string>
+    <string name="house">本月房价指数：</string>
+    <string name="house_0">1室1厅 30m³</string>
+    <string name="house_1">2室1厅 50m³</string>
+    <string name="house_2">2室2厅 80m³</string>
+    <string name="house_3">3室1厅 100m³</string>
+    <string name="house_4">3室2厅 120m³</string>
+    <string name="house_5">4室2厅 150m³</string>
+    <string name="house_6">市郊豪华别墅</string>
+    <string name="house_7">城区豪华别墅</string>
+
+    <string name="stock">提示：\n\t\t整数交易，最小交易额100元，单边交易费用0.5% 相对盈亏率为本次比上次相对盈亏，非绝对盈亏率"</string>
+    <string name="stock_no_money">对不起，你没有那么多钱！</string>
+    <string name="stock_no_stock">对不起，你没有那么股票！</string>
+    <string name="stock_min_money">对不起，最小交易额为100元，请输入正确的数字！</string>
+
+    <string name="car_no_money">对不起，你的钱不够买这辆车！</string>
+
+    <string name="lottery">提示：每次购买彩票花费100元，每月只能购买一次</string>
+
+    <string name="partner">欢迎光临红娘婚介，你想寻找理想伴侣吗？我可以安排你和十大美女见面。如果双方都觉得不错，就可以相互交往成为男女朋友进而走向婚姻。每月只能见其中一位，每次花费1000元。</string>
+    <string name="partner_plus">红娘婚介的十大美女，对男朋友的选择会有不同的要求： \n\n施施：有2室2厅或3室1厅的房子，过大和过小都会影响她对家庭温馨和安全的需求。 \n\n阿禅：金钱大于200万，因为她需要你支持她在歌坛发展。 \n\n昭君：你要是“海外驻华公司中层经理”或“海外驻华公司高层老总”。 \n\n玉环：你要是“国内知名公司高层老总”或“海外驻华公司高层老总”。 \n\n圆圆：她需要你的交际网，你的交际能力要大于750。 \n\n香香：你要有超豪华享受高档车或时尚拉风跑车。 \n\n十娘：对你为人要求很高，你的道德要大于750。 \n\n小小：对你的身体健壮要求很高，你的健康要大于750。 \n\n飞燕：需要你的幽默和乐观，你的快乐要大于750。 \n\n莺莺：希望你年龄大一点，年龄要大于28岁。</string>
+    <string name="partner_0">施施</string>
+    <string name="partner_1">阿禅</string>
+    <string name="partner_2">昭君</string>
+    <string name="partner_3">玉环</string>
+    <string name="partner_4">圆圆</string>
+    <string name="partner_5">香香</string>
+    <string name="partner_6">十娘</string>
+    <string name="partner_7">小小</string>
+    <string name="partner_8">飞燕</string>
+    <string name="partner_9">莺莺</string>
+    <string name="partner_0_plus">施施说：“我希望安全感，希望能有温馨的家庭生活。你不适合我。”</string>
+    <string name="partner_1_plus">阿婵说：“我希望成名，希望能成为歌坛新一代天后。你不适合我。”</string>
+    <string name="partner_2_plus">昭君说：“我希望我的老公比我强。而你，不是我要找的那个人。”</string>
+    <string name="partner_3_plus">玉环说：“我是一个事业心很强的人，而我希望我的老公也是这样，你还打不到我要求。”</string>
+    <string name="partner_4_plus">圆圆说：“我需要一个志同道合交友广济的男朋友。你不适合我。”</string>
+    <string name="partner_5_plus">香香说：“我想你载着我夜晚游车河。可惜你都没有一辆好车。”</string>
+    <string name="partner_6_plus">十娘说：“我需要一个诚实正直，孝敬父母，疼爱我的老公，你还不适合我。”</string>
+    <string name="partner_7_plus">小小说：“我希望我的男朋友是个运动员，强壮而迷人的身体能够很好的保护我。”</string>
+    <string name="partner_8_plus">飞燕说：“我的工作压力很大，只希望我的男朋友能够风趣幽默，让我开心。你还不适合我。”</string>
+    <string name="partner_9_plus">莺莺说：“我没有别的要求，指向找一个成熟稳重点的男朋友，你还不适合我。”</string>
+
+    <string name="opportunity">机遇之窗</string>
+    <string name="opportunity_0">你通过大量学习阅读一些专业书籍，使你逐渐成为该行业的精英人才，有个女生非常钦佩你的学问，希望与你结识朋友一起研究探讨。请问你如何对待这位女性仰慕者？</string>
+    <string name="opportunity_0_a">1、"非常热情的与她一起探讨，共同进步。"</string>
+    <string name="opportunity_0_b">2、"利用与她的接触机会，趁机发展情侣关系。"</string>
+    <string name="opportunity_0_c">3、"有空就敷衍她一下，没太多时间理会她。"</string>
+    <string name="opportunity_0_d">4、"不理会她的追求，专心自己的学习。"</string>
+    <string name="opportunity_1">你博览群书，知识渊博，上知天文，下知地理，与人交谈，引经据典，舌灿莲花，口若悬河。一次遭遇一奇女子，口舌交锋中居然知识口才更胜你一筹，你如何对待她？</string>
+    <string name="opportunity_1_a">1、"对她的景仰之情有如滔滔江水连绵不绝。"</string>
+    <string name="opportunity_1_b">2、"甘拜下风，从此在她面前不敢班门弄斧。"</string>
+    <string name="opportunity_1_c">3、"遇强则强，针锋相对，不压倒她誓不罢休。"</string>
+    <string name="opportunity_1_d">4、"引为知己，从此高山流水，拈花一笑。"</string>
+    <string name="opportunity_2">下班后你喜欢与同事们流连于各种酒吧、迪厅、KTV，灯红酒绿，夜夜笙歌。一次醉酒，借着酒意对一女同事倾述心声，还壮着胆子亲了人家一口。酒醒后你如何面对此事？</string>
+    <string name="opportunity_2_a">1、"向女同事道歉，说当时是酒精冲昏头脑。"</string>
+    <string name="opportunity_2_b">2、"说酒后吐真言，趁机向女同事表明爱意。"</string>
+    <string name="opportunity_2_c">3、"假装忘记此事，就当什么也没有发生过。"</string>
+    <string name="opportunity_2_d">4、"保持这种暧昧关系，下次还接着吃豆腐。"</string>
+    <string name="opportunity_3">同学朋友聚会，心眼多的钻被窝，心眼少的在唠嗑，不多不少的在乱摸，一个心眼的在唱歌，缺心眼的在死喝。你在某次聚会中遇到自己以前喜欢的女同学，你如何面对？</string>
+    <string name="opportunity_3_a">1、"温文尔雅，问好祝福，今后会多多联系。"</string>
+    <string name="opportunity_3_b">2、"眉目传情，借机靠近，看能否再续前缘。"</string>
+    <string name="opportunity_3_c">3、"风雨飘摇，暗香浮动，人生若只如初见。"</string>
+    <string name="opportunity_3_d">4、"互换名片，交流人脉，情侣不成生意在。"</string>
+    <string name="opportunity_4">工作之余，你喜欢和朋友一起逛街吃饭，看着大街上时尚靓丽的美女穿梭，的确是种享受。一日你一哥们因临时有事委托你陪他卡哇伊的妹妹逛街吃饭，你如何处理此事？</string>
+    <string name="opportunity_4_a">1、"谦谦君子，温润如玉，悉心照顾小妹妹。"</string>
+    <string name="opportunity_4_b">2、"吃好喝好玩好，哥们的妹就是自己的妹。"</string>
+    <string name="opportunity_4_c">3、"观察了解，投其所好，试探能否进一步。"</string>
+    <string name="opportunity_4_d">4、"有美女相伴，自当欣然相陪，乐在其中。"</string>
+    <string name="opportunity_5">陌生的地点，陌生的人，一场风花雪月的邂逅，一个怦然心动的瞬间，旅行中的艳遇，可遇而不可求。这次，你就遇到这样一位女子，你期待怎样一场旅游中的艳遇呢？</string>
+    <string name="opportunity_5_a">1、"美丽大方开朗，如一场成熟爱情的演习。"</string>
+    <string name="opportunity_5_b">2、"精彩优雅抚慰，值得你一生细细去品味。"</string>
+    <string name="opportunity_5_c">3、"情趣洒脱直接，纯粹的身体解放与享受。"</string>
+    <string name="opportunity_5_d">4、"欣赏含蓄暧昧，今生有缘放待来生再续。"</string>
+    <string name="opportunity_6">你参加了很多专业培训，提高自己的专业素养和技能。这次的培训师，是位美艳大方而又富有内涵的女子，一见之下，简直惊为天人，你会怎样面对这样一位美女培训师？</string>
+    <string name="opportunity_6_a">1、"心如止水，专心培训，不能白花培训费。"</string>
+    <string name="opportunity_6_b">2、"男女搭配，欣赏品味，学习效率更提高。"</string>
+    <string name="opportunity_6_c">3、"明修栈道，暗渡陈仓，发展情侣也不错。"</string>
+    <string name="opportunity_6_d">4、"虚心请教，引为知己，真诚交往做朋友。"</string>
+    <string name="opportunity_7">会休息的人才会工作，工作之余，静下心来，品一杯清茶，睡一个好觉，做个白日梦，未尝不是一种幸福。有时候，你问自己到底要的是什么呢？追求的是什么呢？</string>
+    <string name="opportunity_7_a">1、"工作稳定收入不菲，温馨的家庭生活。"</string>
+    <string name="opportunity_7_b">2、"激情生活事业腾达，人生辉煌的成就。"</string>
+    <string name="opportunity_7_c">3、"三两好友知心爱人，平平淡淡才是真。"</string>
+    <string name="opportunity_7_d">4、"阅尽美景美食美人，人不风流枉少年。"</string>
+    <string name="opportunity_8">你经常选择熬夜加班，希望能多完成一些工作，多一些额外的收入，然而健康状态每况愈下。这时出现了一位女同事，很关心你，常给你买宵夜买水果，你如何面对她？</string>
+    <string name="opportunity_8_a">1、"心存感激，温柔相对，彼此相互温暖。"</string>
+    <string name="opportunity_8_b">2、"欣然接受，专注工作，待成功再回报。"</string>
+    <string name="opportunity_8_c">3、"减少加班，抽空陪她，不负她的关爱。"</string>
+    <string name="opportunity_8_d">4、"心有愧意，委婉拒绝，我心已有所属。"</string>
+    <string name="opportunity_9">经常上网的你，沉迷于聊天与网游，也认识了不少网友。其中有一位聊得很投机的女网友，你感觉自己已渐渐陷入其中。这天，女网友说要来和你见面，你如何去面对？</string>
+    <string name="opportunity_9_a">1、"激动万分，期待一场轰轰烈烈的网恋。"</string>
+    <string name="opportunity_9_b">2、"心向往之，网友也可发展成现实情侣。"</string>
+    <string name="opportunity_9_c">3、"拒绝见面，得不到的也许才是最好的。"</string>
+    <string name="opportunity_9_d">4、"展现魅力，送上门的当然不吃白不吃。"</string>
+    <string name="opportunity_10">喜欢运动健身的你，练就了健康的身体和健美的身材，阳光魅力吸引着周围同样喜欢运动健身的女生。在健身房，一位美女主动过来向你请教健身知识，你如何面对？</string>
+    <string name="opportunity_10_a">1、"热情的手把手的教，趁机会亲近美女。"</string>
+    <string name="opportunity_10_b">2、"不厌其烦，细心教答，伴随阳光微笑。"</string>
+    <string name="opportunity_10_c">3、"欣然解答，加深了解，请美女喝饮料。"</string>
+    <string name="opportunity_10_d">4、"共同语言，共同爱好，又多个好朋友。"</string>
+    <string name="opportunity_11">孝顺的你经常回家看望父母，父母总念叨着你什么时候带女朋友回家，什么时候成家能抱上孙子。多方联系还给你介绍了一个不错的本地女子与你相亲，你如何面对？</string>
+    <string name="opportunity_11_a">1、"好男儿志在四方，岂能被感情牵绊。"</string>
+    <string name="opportunity_11_b">2、"抱着试试看的心态，先见见面了解。"</string>
+    <string name="opportunity_11_c">3、"什么年代还相亲？还是自由恋爱吧。"</string>
+    <string name="opportunity_11_d">4、"不立业何以成家，先工作奋斗创业。"</string>
+
+    <string name="event">随机事件</string>
+
+    <string name="event_0">某省发生百年未遇的水灾，许多人流离失所，你要募捐吗？</string>
+    <string name="event_0_a">你虽然说服了自己，但是心里还是很内疚。</string>
+    <string name="event_0_b">事不关己高高挂起，你选择遗忘这件事。</string>
+    <string name="event_0_c">你慷慨解囊800元。这个世界充满了爱。</string>
+    <string name="event_0_d">你善心大发，捐助500元。</string>
+
+    <string name="event_1">公司外派你谈判，客户向你提出一些超出你权限的要求，你是否要擅自答应呢？</string>
+    <string name="event_1_a">还是打电话问问老板吧。老板赞赏你的举措。</string>
+    <string name="event_1_b">还是别私自做主了，老板会生气的。你因此并没有谈拢生意，被老板责罚。</string>
+    <string name="event_1_c">管他去呢，应该会没事的。事后被老板大骂一顿并扣除工资。</string>
+    <string name="event_1_d">只要能谈判下来，老板应该不会怪我的。事后老板反而奖励你一笔金钱。</string>
+
+    <string name="event_2">一位有着成熟风韵的女客户对你频送秋波，暗示你如果顺从她就有好处。你要满足她的要求吗？</string>
+    <string name="event_2_a">你的宛然拒绝惹恼了她，结果她对你实施了报复。</string>
+    <string name="event_2_b">你拒绝了她的要求，凭自己的努力赢得了尊重和业绩。</string>
+    <string name="event_2_c">你一咬牙满足了她的要求，她很满意你床上的表现，你也因此拿下了一笔大业务。</string>
+    <string name="event_2_d">没想到你越陷越深，沦为她的玩物，却终被她无情甩掉，人财两空。</string>
+
+    <string name="event_3">股神老头说：“坚持价值投资，一定能获得好的回报！” 你要信奉他的理念买股票吗？</string>
+    <string name="event_3_a">你坚定的拒绝了这种风险投资，结果股市正如股神老头所说大涨。</string>
+    <string name="event_3_b">不幸遭遇世界金融风暴，股神老头也承认自己犯错，你的财富大幅缩水。</string>
+    <string name="event_3_c">股市遭遇世界金融风暴重挫，蓝筹股转眼变成垃圾股，原来股神也会犯错。</string>
+    <string name="event_3_d">你坚持价值投资理念，理性投资股票，财富获得了稳定增值。</string>
+
+    <string name="event_4">你的手机在外面吃饭的时候放桌上忘记拿了，你要回去找吗？</string>
+    <string name="event_4_a">俺们哪个都是活雷锋！餐馆的服务员将手机交还给了你 ！餐馆的服务员将手机交还给了你，你决定以后天天来这里吃猪肉炖粉条。</string>
+    <string name="event_4_b">第二天上班的时候，同事把手机给了你。原来捡到的人给同事打了电话并归还了手机。原来世界上还是有许多好心人的。</string>
+    <string name="event_4_c">虽然回到了餐桌前，但是并没有找到手机，你询问服务员无果，只好自认倒霉，又买了一个手机。</string>
+    <string name="event_4_d">因为没有找回手机，结果有些公司机密被泄露。第二天上班，被老板骂了一顿。</string>
+
+    <string name="event_5">你曾经喜欢的女同学结婚了，给你送来了请柬，你要去参加吗？</string>
+    <string name="event_5_a">情之一字最是扰人。明知去了心会疼，又何必徒增烦恼。不过你还是寄了个大红包。</string>
+    <string name="event_5_b">往事无需回首，放下包袱的你由衷的祝福这对新人。</string>
+    <string name="event_5_c">你看着漂亮的新娘，心里很不是滋味，于是借酒浇愁。</string>
+    <string name="event_5_d">听闻后你心情低落，跑到酒吧去借酒浇愁。</string>
+
+    <string name="event_6">上级交给你一项工作任务，却不给你足够的权力，感觉处处受制约。你要向上级要权松绑吗？</string>
+    <string name="event_6_a">因为处处受制无法伸展拳脚，你的工作进行得很不顺利。</string>
+    <string name="event_6_b">你凡事多报告，多请示，获得上级的信任，工作得以顺利进行。</string>
+    <string name="event_6_c">你的上级怀疑你有野心，没有放权给你。你的工作进行得很不顺利。</string>
+    <string name="event_6_d">经过沟通，上级给了你足够的权力，你的工作完成得很顺利。</string>
+
+    <string name="event_7">股市暴跌，房价高涨，公司裁员，生存竞争压力太大，听说有人跳楼了，你也变得焦躁郁闷，要去看看心理医生吗？</string>
+    <string name="event_7_a">你坚信世上没有过不去的坎，只有看不开的人。</string>
+    <string name="event_7_b">房子怎么这么贵？油价为何这么高？工作为什么这么痛苦？啊啊啊啊啊 你快被逼疯了!</string>
+    <string name="event_7_c">经过医生的开导，你心理压力大减。</string>
+    <string name="event_7_d">时运不济，遇到一个无良医生，你感到压力更大了。</string>
+
+    <string name="event_8">听小道消息说，有只ST股票可能会重组，有大资金流入，你也要买点这只股票吗？</string>
+    <string name="event_8_a">原来重组是主力出逃前放的假消息，幸好没买TvT。</string>
+    <string name="event_8_b">小道消息也有正确的可能，由于你的优柔寡断，错过了这次良机。</string>
+    <string name="event_8_c">原来重组是主力出逃前放的假消息，在一个涨停后就连续跌停，你最后只有割肉出局。</string>
+    <string name="event_8_d">机遇总是伴随着风险，人不疯狂枉少年。结果你对自己的赌博取得了胜利。</string>
+
+    <string name="event_9">在路上拾了个钱包，你要据为己有吗？</string>
+    <string name="event_9_a">你把钱包交给了失主，失主是个外国人，很感激你并请你吃了顿西餐。</string>
+    <string name="event_9_b">原来这是个骗局，还好你没有受骗。</string>
+    <string name="event_9_c">哇！这下发了！钱包里面装了2000美金啊！把它换成了人民币。</string>
+    <string name="event_9_d">你捡起钱包，马上围来几个人。你反被敲诈500元。</string>
+
+    <string name="event_10">有人拉你加入一个公司，说只要交10000元再发展三个下线就可以成为百万富翁，你要加入吗？</string>
+    <string name="event_10_a">这不是传说中的传销么，我才不上你的当！</string>
+    <string name="event_10_b">区区骗术怎么骗得了我。</string>
+    <string name="event_10_c">你交了钱后不久，这家公司被公安机关做为非法传销组织查封，欲哭无泪。</string>
+    <string name="event_10_d">你交钱后不久，就被公安局请去喝茶。原来这是个传销组织，好在你不是组织者，交过保释金后被释放。</string>
+
+    <string name="event_11">某地发生地震，人员伤亡房屋倒塌，许多人需要社会的救助，你要捐款支援灾区吗？</string>
+    <string name="event_11_a">事不关己高高挂起，结果第二天不小心掉到没井盖的井里。</string>
+    <string name="event_11_b">有那么多人捐助，反正也不少我一个。</string>
+    <string name="event_11_c">祖国同胞在受难，身为中国人怎能不去帮助。</string>
+    <string name="event_11_d">一方有难，八方支援，你捐出了自己一个月的工资。</string>
+
+    <string name="event_12">母亲打电话给你，说你父亲生日，你要回家为他老人家庆祝生日吗？</string>
+    <string name="event_12_a">老妈骂你没孝心。</string>
+    <string name="event_12_b">虽然老妈没有骂你，但是听到老妈落寞的声音，你变得很难过。</string>
+    <string name="event_12_c">父亲很高兴，和你多喝了几杯，你也很高兴，红包就装厚了点。</string>
+    <string name="event_12_d">享受着一家人和睦的时光，你感到异常满足。</string>
+
+    <string name="event_13">为帮助失学儿童有慈善拍卖会，你参加竞拍吗？</string>
+    <string name="event_13_a">这些可能都是炒作，谁知道会不会到孩子手中。</string>
+    <string name="event_13_b">还是为俺将来的孩子攒点奶粉钱吧！</string>
+    <string name="event_13_c">你花了八百元买了一双明星穿过的袜子。有一名儿童因为你多读了一年的书。</string>
+    <string name="event_13_d">你花了一千元买了一个有明星亲笔签名的衣服。</string>
+
+    <string name="event_14">你可爱的小外甥最喜欢来你家玩，最喜欢和你抢电脑，你要带他一起玩吗？</string>
+    <string name="event_14_a">经过你的连哄带骗，他终于去外边玩了。结果把一个瓷器打碎了。</string>
+    <string name="event_14_b">电脑怎么能让小孩子多玩呢，结果你把你的外甥弄哭了。</string>
+    <string name="event_14_c">最喜欢小孩子了，啊，我的工作报告啊，这会又得熬夜写了。</string>
+    <string name="event_14_d">小屁屁真可爱！哇,电脑又被拍死机啦！</string>
+
+    <string name="event_15">网络低成本创业，现在流行开网店，你要利用业余时间去经营一个网店吗？</string>
+    <string name="event_15_a">有这时间还不如去锻炼和看书了。</string>
+    <string name="event_15_b">开网店太费时间精力，再说现在竞争也很激烈，我就不去倒腾了。</string>
+    <string name="event_15_c">你开的网店因为货品丰富，口碑信誉好，生意还不错，就是人比较辛苦。</string>
+    <string name="event_15_d">连续三个月的入不敷出，你的网店倒闭了。</string>
+
+    <string name="event_16">在路上碰到一个衣裳褴褛的乞丐，你要施舍一点钱吗？</string>
+    <string name="event_16_a">现在的社会，十丐九骗，你头也不会的走了。</string>
+    <string name="event_16_b">你对乞丐说：“大哥，收了我这个小弟吧！”乞丐瞪了一眼走了。</string>
+    <string name="event_16_c">听着他对你一直说着感谢的话，你的心里变得很快乐 </string>
+    <string name="event_16_d">乞丐恶狠狠的对你说“多打发点啊，你怕是打发叫花子啊！”</string>
+
+    <string name="event_17">上班快迟到了，但是刚来的这趟公交车很挤，你要上去？</string>
+    <string name="event_17_a">有小偷趁车上挤偷了你的钱包。</string>
+    <string name="event_17_b">好没有迟到，拿到了这个月的奖金。</string>
+    <string name="event_17_c">你选择了打的去公司上班。</string>
+    <string name="event_17_d">由于你没有坐上那辆车，结果迟到了，被扣了工资。</string>
+
+    <string name="event_18">有老同学出差到你所在的城市，你要招待他吗？</string>
+    <string name="event_18_a">月底了，工资还没发，没法接待了。</string>
+    <string name="event_18_b">最近经济比较拮据，还是算了吧。</string>
+    <string name="event_18_c">有朋至远方来，不亦乐乎？</string>
+    <string name="event_18_d">好基友一被子，友谊万万岁。金钱-1000，快乐+5，交际+8，经验+5</string>
+
+    <string name="event_19">现在商铺投资火热，但也是有人欢喜有人忧，你要选择投资一个黄金地段的商铺吗？</string>
+    <string name="event_19_a">投资商铺也有风险哦，还是慎重为好吧。</string>
+    <string name="event_19_b">还是观望观望吧，万一赔钱了呢。</string>
+    <string name="event_19_c">你投资的商铺因为位置不佳无人问津，只好赔钱转了出去。</string>
+    <string name="event_19_d">你经过仔细选址慎重考虑精确核算，投资的商铺升值后转手赚了不少。</string>
+
+    <string name="event_20">你发现有一辆自行车没有上锁，你要骑走吗？</string>
+    <string name="event_20_a">你当作没看见，这是有个人骑上去结果被当场抓住。还好有先见之明啊</string>
+    <string name="event_20_b">破车值不了几个钱，不要。</string>
+    <string name="event_20_c">天上掉馅饼，真走运啊！</string>
+    <string name="event_20_d">刚骑上就被几个人围住了，原来这是一个骗局，你被勒索了一番。</string>
+
+    <string name="event_21">不知怎么得罪了你的领导，他老是给你小鞋穿，你要找他理论吗？</string>
+    <string name="event_21_a">忍一忍，风平浪静，退一步，海阔天空。</string>
+    <string name="event_21_b">忍气吞声的日子让你心里很不舒服，导致工作效率很低，结果继续被领导穿小鞋。</string>
+    <string name="event_21_c">你正义的声音引来同事围观，领导怕影响不好，终于向你道歉。</string>
+    <string name="event_21_d">领导与你的矛盾愈加激化。同事都不敢和你来往。</string>
+
+    <string name="event_22">你看上了公司漂亮的公关部经理，你要送她喜欢的珠宝来敲开她的心吗？</string>
+    <string name="event_22_a">最后她喜欢上了那个送她珠宝的同事，你感到有一些后悔。</string>
+    <string name="event_22_b">虽然你没有赠送珠宝，但是她反而更欣赏你的人格魅力。</string>
+    <string name="event_22_c">通过你的珠宝攻势，你成功的俘获了女经理的心。</string>
+    <string name="event_22_d">虽然你也买了珠宝，但是有个土豪送了她一辆宝马，结果鸡飞蛋打。</string>
+
+    <string name="event_23">公司给了你一个几乎无法完成的任务，你要坚持做下去吗？</string>
+    <string name="event_23_a">公司委派其他人完成了这项任务。</string>
+    <string name="event_23_b">你的自知之明让你避免了老板的责罚。</string>
+    <string name="event_23_c">因为你出色的能力，最后力挽狂澜创造了奇迹。</string>
+    <string name="event_23_d">虽然最后你失败了，但你从中学到了不少东西。</string>
+
+    <string name="event_24">公司派你去搞采购，客户为了促成这笔生意，请你吃喝之余，还塞了个红包给你，你要接受吗？</string>
+    <string name="event_24_a">你没有收这个红包，难得难得。</string>
+    <string name="event_24_b">还好你没有收这个红包，结果公司表扬了你，客户也和你成了朋友。</string>
+    <string name="event_24_c">你收受回扣的事情最后被捅出来了，公司处分了你。</string>
+    <string name="event_24_d">你收了客户的回扣，把采购价格提高了。</string>
+
+    <string name="event_25">俗话说，小赌可以怡情，大赌可以发家，你也要赌上一把吗？</string>
+    <string name="event_25_a">赌博这东西可不能沾啊，搞不好会清家荡产的。</string>
+    <string name="event_25_b">还是不去了，这个月的工资还没发呢。</string>
+    <string name="event_25_c">你小赢了一把，还好及时收手，没有继续赌下去，保住了胜利的果实。</string>
+    <string name="event_25_d">你开始赢了不少，到后面却越输越多，结果把身上的钱输了个精光。</string>
+
+    <string name="removedAds">移除广告</string>
+    <string name="suggest_money">已赞助金额</string>
+    <string name="suggest_money_0">请输入您赞助的金额</string>
+    <string name="suggest_zfb">支付宝（暫不可用）</string>
+    <string name="suggest_wx">微信</string>
+    <string name="hour">小时</string>
+    <string name="month">月</string>
+    <string name="surplus_hour">本月空闲时间还剩</string>
+    <string name="surplus_month">您的黄金岁月还剩</string>
+    <string name="next_month">下个月</string>
+    <string name="update">检查更新</string>
+    <string name="plan">状态变化</string>
+    <string name="plan_0">花费30个小时，阅读一套专业书籍。能力+6，经验+7，快乐-2，金钱-200</string>
+    <string name="plan_1">花费30个小时，阅读其他书籍。能力+4，经验+5，快乐+2，金钱-100</string>
+    <string name="plan_2">花费30个小时，经常在下班后或周末与同事去酒吧迪厅疯狂派对娱乐。健康-2，经验+4，快乐+5，交际+6，道德-2，金钱-1000</string>
+    <string name="plan_3">花费30个小时，经常和同学朋友聚会。经验+2，快乐+3，交际+4，金钱-600</string>
+    <string name="plan_4">花费30个小时，经常出去逛街购物吃饭。经验+2，快乐+7，金钱-1000</string>
+    <string name="plan_5">花费60个小时，出门旅游度假四天。健康+4，能力+4，经验+4，快乐+10，交际+2，金钱-3000</string>
+    <string name="plan_6">花费60个小时，参加为期四天的高强度魔鬼学习培训。健康-2，能力+20，经验+20，快乐-4，金钱-2000</string>
+    <string name="plan_7">花费20个小时，在家里早睡早起好好休息。健康+2，快乐+2</string>
+    <string name="plan_8">花费60个小时，连续几天加班工作或做兼职捞外快。健康-5，能力+10，经验+10，快乐-8，金钱+1500</string>
+    <string name="plan_9">花费60个小时，经常上网打电脑游戏看电影电视。健康-2，经验+2，快乐+8，交际-1，金钱-100</string>
+    <string name="plan_10">花费30个小时，经常进行体育健身运动。健康+5，能力+3，快乐+2，金钱-100</string>
+    <string name="plan_11">花费30个小时，回家看望父母，百善孝为先嘛！健康+1，快乐+2，道德+2，金钱-300</string>
+    <string name="time_run_out">本月剩余时间不足以进行该活动</string>
+    <string name="money_run_out">你的剩余金钱不足以进行该活动</string>
+    <string name="money">金钱</string>
+    <string name="healthy">健康</string>
+    <string name="ability">能力</string>
+    <string name="experience">经验</string>
+    <string name="communication">交际</string>
+    <string name="happy">快乐</string>
+    <string name="morality">道德</string>
+    <string name="age">年龄</string>
+    <string name="no_partner">你还没有女朋友</string>
+    <string name="no_house">你还没有买房</string>
+    <string name="no_car">你还没有买车</string>
+    <string name="both_add">爱情机遇指数+1 事业机遇指数+1</string>
+    <string name="career_add">事业机遇指数+1</string>
+    <string name="no_add">机遇指数无变化</string>
+    <string name="love_add">爱情机遇指数+1</string>
+    <string name="plan_time_0">阅读一套专业书籍，需耗时30个小时</string>
+    <string name="plan_time_1">博览其他书籍，需耗时30个小时</string>
+    <string name="plan_time_2">经常在下班后或周末与同事去酒吧迪厅疯狂派对娱乐，需耗时30个小时</string>
+    <string name="plan_time_3">经常和同学朋友聚会，需耗时30个小时</string>
+    <string name="plan_time_4">经常出去逛街购物吃饭，需耗时30个小时</string>
+    <string name="plan_time_5">出门旅游度假四天，需耗时60个小时</string>
+    <string name="plan_time_6">参加为期四天的高强度魔鬼学习培训，需耗时60个小时</string>
+    <string name="plan_time_7">在家里早睡早起好好休息，需耗时20个小时</string>
+    <string name="plan_time_8">连续几天加班工作或做兼职捞外快，需耗时60个小时</string>
+    <string name="plan_time_9">经常上网打电脑游戏看电影电视，需耗时60个小时</string>
+    <string name="plan_time_10">经常进行体育健身运动，需耗时30个小时</string>
+    <string name="plan_time_11">回家看望父母，需耗时30个小时</string>
+    <string name="suggest_0">拒绝被坑\n任意赞助即可畅享VIP</string>
+    <string name="suggest_1">没广告真牛逼\n你是我的VIP</string>
+    <string name="loading">正在加载中..</string>
+    <string name="tv_top_0">总分排行榜</string>
+
+
+</resources>

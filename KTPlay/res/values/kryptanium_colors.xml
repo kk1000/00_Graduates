@@ -1,0 +1,31 @@
+<resources>
+    <color name="kryptanium_selected_bg_grey">#E6E6E6</color>
+    <color name="kryptanium_white_bg_alpha">#ddffffff</color>
+    <color name="kryptanium_white">#ffffffff</color>
+    <color name="kryptanium_black_alpha">#aa000000</color>
+    <color name="kryptanium_title_bg">#E4E4E4</color>
+    <!-- Base color -->
+    <color name="kryptanium_base_color_black">#ff000000</color>
+    <color name="kryptanium_base_color_white">#ffffffff</color>
+    <color name="kryptanium_base_color_green">#16ae2b</color>
+    <color name="kryptanium_base_color_near_white">#C0C0C0</color>
+    <color name="kryptanium_base_color_gray">#969696</color>
+    <color name="kryptanium_base_color_gray_2">#c0c0c0</color>
+    <color name="kryptanium_base_color_light_gray">#09000000</color>
+    <color name="kryptanium_base_color_hight_light_gray">#F6F6F6</color>
+    <!-- Background color -->
+    <color name="kryptanium_image_creator_comment_background">#50000000</color>
+
+    <!-- Text color -->
+    <color name="kryptanium_text_white">@color/kryptanium_base_color_white</color>
+    <color name="kryptanium_text_dark_gray">@color/kryptanium_base_color_gray_2</color>
+    <color name="kryptanium_text_black">#333333</color>
+    <color name="kryptanium_barline_color">#F7F7F7</color>
+
+    <color name="kt_primary_text_default_material_dark">#ffffffff</color>
+
+    <color name="kt_secondary_text_default_material_light">#8a000000</color>
+
+    <color name="kt_imagepreview_blue">#29b6f6</color>
+
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent">-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_hot_item_image_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.ktplay.widget.NoClickStateImageView
+        android:id="@+id/kryptanium_hot_item_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <!-- 视频截图为空时显示logo -->
+
+    <!--<ImageView-->
+    <!--android:id="@+id/kryptanium_hot_item_image_logo"-->
+    <!--android:layout_width="50dp"-->
+    <!--android:layout_height="25dp"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:src="@drawable/kt_logo"-->
+    <!--android:visibility="gone"/>-->
+
+
+    <com.ktplay.widget.KTEmojiText
+        android:id="@+id/kryptanium_hot_item_image_msg"
+        style="@style/kryptanium_primary_text_dark"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_alignParentBottom="true"
+        android:background="#5f7f7f7f"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:maxLines="2"
+        android:paddingLeft="46dp"
+
+        />
+
+    <include
+        android:id="@id/kt_item_avatar"
+        layout="@layout/kt_item_avatar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="@dimen/kt_content_padding"
+        android:background="@null"
+        android:paddingLeft="@dimen/kt_content_padding"
+        android:paddingRight="@dimen/kt_content_padding" />
+
+    <!--<RelativeLayout-->
+    <!--android:id="@+id/kryptanium_hot_item_placeholder"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="@dimen/kryptanium_home_hot_image_item_bottom_layout_height"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:layout_gravity="bottom"-->
+    <!--android:adjustViewBounds="true"-->
+    <!--android:background="@drawable/kryptanium_video_mask"-->
+    <!--android:paddingLeft="@dimen/kryptanium_home_hot_image_item_bottom_paddingLeft"-->
+    <!--android:paddingRight="@dimen/kryptanium_home_hot_image_item_bottom_layout_paddingRight">-->
+
+    <!--<com.ktplay.widget.KTEmojiText-->
+    <!--android:id="@+id/kryptanium_hot_item_image_msg"-->
+    <!--style="@style/kryptanium_primary_text_dark"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_toRightOf="@id/kt_item_avatar"-->
+    <!--android:ellipsize="end"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:maxLines="2"-->
+    <!--android:paddingLeft="@dimen/kryptanium_home_hot_image_item_bottom_paddingLeft"/>-->
+
+    <!--<include-->
+    <!--android:id="@id/kt_item_avatar"-->
+    <!--android:layout_width="@dimen/kt_avatar_width_small"-->
+    <!--android:layout_height="@dimen/kt_avatar_height_small"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--layout="@layout/kt_item_avatar"-->
+    <!--/>-->
+
+    <!--<com.ktplay.widget.KTEmojiText-->
+    <!--android:id="@+id/kryptanium_hot_item_image_msg"-->
+    <!--style="@style/kryptanium_primary_text_dark"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_toRightOf="@id/kt_item_avatar"-->
+    <!--android:ellipsize="end"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:maxLines="2"-->
+    <!--android:paddingLeft="@dimen/kryptanium_home_hot_image_item_bottom_paddingLeft"/>-->
+    <!--</RelativeLayout>-->
+
+</RelativeLayout>
+
+    <!--</RelativeLayout>-->

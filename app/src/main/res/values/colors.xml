@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- base_color -->
+    <color name="base_color_text_black">#000000</color>
+    <color name="base_color_text_gray">#9fa0a0</color>
+    <color name="base_color_text_white">#ffffff</color>
+    <!-- transparent -->
+    <color name="color_transparent_bg">#00000000</color>
+    <color name="color_half_transparent">#30000000</color>
+    <!-- other -->
+    <color name="lanse">#77e6ed</color>
+    <color name="lsxa">#916829</color>
+
+</resources>

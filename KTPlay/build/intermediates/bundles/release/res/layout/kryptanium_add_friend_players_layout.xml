@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 添加好友 -->
+
+    <!-- 发送邀请按钮 -->
+    <TextView
+        android:id="@id/kryptanium_add_friends_action"
+        style="@style/kryptanium_button_style_main"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/kryptanium_button_bg"
+        android:text="@string/kt_invite_to_be_friend"
+        android:textColor="@color/kryptanium_text_white" />
+
+    <ListView
+        android:id="@+id/kryptanium_players_listview"
+        style="@style/kryptanium_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/kryptanium_add_friends_action" />
+</RelativeLayout>

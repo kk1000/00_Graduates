@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ktplay.widget.NoClickStateImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/kt_item_icon"
+    android:layout_width="@dimen/kt_icon_width"
+    android:layout_height="@dimen/kt_icon_height"
+    android:background="@null"
+    android:scaleType="fitXY" />

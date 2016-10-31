@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@id/kt_item_title"
+        style="@style/kryptanium_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="@string/kt_tip_addfriends_now" />
+
+    <TextView
+        android:id="@id/kt_content"
+        style="@style/kryptanium_primary_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/kt_item_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/kt_tip_addfrinds_from_different_types" />
+
+    <TextView
+        android:id="@+id/kryptanium_friend_splashscreen_addfriend_text"
+        style="@style/kryptanium_button_style_main"
+        android:layout_below="@id/kt_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="45dp"
+        android:gravity="center"
+        android:text="@string/kt_add_friends" />
+
+</RelativeLayout>

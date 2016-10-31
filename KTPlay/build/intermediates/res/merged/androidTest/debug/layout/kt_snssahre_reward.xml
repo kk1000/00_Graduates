@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/kryptanium_redemption_line"
+        android:orientation="vertical">
+
+        <ListView
+            android:id="@id/kt_list"
+            style="@style/kryptanium_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:id="@+id/kryptanium_redemption_listview_alpha"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="#aaffffff" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/kryptanium_redemption_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/kryptanium_titlebar_line_height"
+        android:layout_above="@+id/kryptanium_redemption_foot_button"
+        android:background="@color/kryptanium_barline_color"
+        android:paddingLeft="@dimen/kryptanium_layout_paddingLeft"
+        android:scaleType="fitXY" />
+
+    <FrameLayout
+        android:id="@+id/kryptanium_redemption_foot_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:background="@drawable/kryptanium_colorbg_white_alpha"
+        android:paddingBottom="3dp"
+        android:paddingTop="3dp">
+
+        <TextView
+            android:id="@id/kt_action"
+            style="@style/kryptanium_button_style_main"
+            android:layout_gravity="center_horizontal|bottom"
+            android:gravity="center"
+            android:text="@string/kt_claim" />
+    </FrameLayout>
+
+</RelativeLayout>

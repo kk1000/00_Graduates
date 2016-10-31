@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/kryptanium_leaderboard_friend_title"
+        style="@style/ktplay_style_subtitle_line"
+        android:text="@string/kt_invite_to_be_friend" />
+</LinearLayout>

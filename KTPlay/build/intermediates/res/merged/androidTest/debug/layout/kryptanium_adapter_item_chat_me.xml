@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 聊天窗口 - 我发送的消息 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <!-- 时间 -->
+    <TextView
+        android:id="@+id/kryptanium_chat_me_msg_date"
+        style="@style/kryptanium_hint_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingBottom="9dp"
+        android:paddingTop="9.5dp" />
+    <!-- 你已经和xxx成为KTplay好友提示-->
+    <TextView
+        android:id="@+id/kryptanium_chat_me_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="3dp"
+        android:paddingBottom="10dp"
+        android:textColor="@color/kryptanium_base_color_near_white"
+        android:textSize="@dimen/kryptanium_text_size_small"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:gravity="right"
+        android:orientation="horizontal">
+        <!-- 语音消息布局 -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="horizontal">
+            <!-- 发送失败小红点 -->
+            <com.ktplay.widget.NoClickStateImageView
+                android:id="@+id/kryptanium_chat_me_msg_again"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/kryptanium_flag_caution" />
+
+            <ProgressBar
+                android:id="@+id/kryptanium_chat_me_msg_loading_bar"
+                style="@android:style/Widget.ProgressBar.Small"
+                android:layout_width="12dp"
+                android:layout_height="12dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="5dp"
+                android:indeterminate="true"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/kryptanium_chat_me_msg_voice_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="6dp"
+                android:textColor="@color/kryptanium_base_color_near_white" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:paddingRight="4dp">
+            <!-- 文本消息布局 -->
+            <LinearLayout
+                android:id="@+id/kryptanium_chat_me_msg_box_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/kryptanium_chat_sentmessage_bg"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.ktplay.widget.KTEmojiText
+                    android:id="@+id/kryptanium_chat_me_msg_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:maxWidth="@dimen/kryptanium_chat_content_width"
+                    android:minHeight="30dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/kryptanium_base_color_white"
+                    android:textSize="@dimen/kryptanium_text_size_standard" />
+            </LinearLayout>
+
+            <!-- 图片消息布局 -->
+            <RelativeLayout
+                android:id="@+id/kryptanium_chat_me_msg_imageview_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:visibility="gone">
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <com.ktplay.widget.KTRoundRectImageView
+                        android:id="@+id/kryptanium_chat_me_msg_imageview"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <LinearLayout
+                        android:id="@+id/kryptanium_chat_me_imageview_loading_bar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="#99000000"
+                        android:gravity="center">
+
+                        <ProgressBar
+                            style="@android:style/Widget.ProgressBar.Small"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp"
+                            android:indeterminate="true" />
+                    </LinearLayout>
+
+
+                </FrameLayout>
+            </RelativeLayout>
+            <!-- 语音消息播放布局 -->
+            <LinearLayout
+                android:id="@+id/kryptanium_chat_me_msg_voice_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|right">
+
+                <FrameLayout
+                    android:id="@+id/kryptanium_chat_me_msg_voice_tag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:background="@drawable/kryptanium_chat_sentmessage_bg">
+
+                    <FrameLayout
+                        android:id="@+id/kryptanium_chat_me_msg_voice_button"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/kryptanium_chat_me_msg_voice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:gravity="center_vertical"
+                            android:maxWidth="@dimen/kryptanium_chat_content_width"
+                            android:minHeight="30dp"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:src="@drawable/kryptanium_chat_voicing_me_v1" />
+
+                    </FrameLayout>
+                </FrameLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <!--  <ImageView
+             android:id="@+id/kryptanium_chat_me_icon"
+             android:layout_width="42dp"
+             android:layout_height="42dp"
+             android:layout_gravity="top"
+             android:scaleType="fitXY"
+             android:baselineAlignBottom="true"/> -->
+        <include layout="@layout/kt_item_avatar" />
+    </LinearLayout>
+
+</LinearLayout>

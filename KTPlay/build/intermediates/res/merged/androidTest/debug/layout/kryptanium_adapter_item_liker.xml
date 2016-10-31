@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 用户收到的称赞 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/kryptanium_list_item"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <include layout="@layout/kt_item_avatar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/kryptanium_praise_layout_paddingLeft"
+        android:paddingRight="@dimen/kryptanium_layout_paddingRight">
+
+        <TextView
+            android:id="@id/kt_item_title"
+            style="@style/kryptanium_primary_text_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:maxWidth="@dimen/kryptanium_praise_nickname_maxWidth" />
+
+        <TextView
+            android:id="@id/kt_item_time"
+            style="@style/kryptanium_hint_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/kt_item_title" />
+        <!-- 新消息 -->
+        <include
+            layout="@layout/kt_newmsg"
+            android:layout_width="@dimen/kryptanium_new_msg_size"
+            android:layout_height="@dimen/kryptanium_new_msg_size"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+
+</LinearLayout>

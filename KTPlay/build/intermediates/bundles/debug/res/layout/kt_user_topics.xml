@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:orientation="vertical"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent">-->
+
+<com.ktplay.widget.PullRefreshView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_pull_refresh_viewgroup"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@id/kt_list"
+        style="@style/kryptanium_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</com.ktplay.widget.PullRefreshView>
+
+    <!--</LinearLayout>-->

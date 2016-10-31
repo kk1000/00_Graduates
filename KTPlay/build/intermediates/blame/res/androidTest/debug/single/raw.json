@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\kt_video_signature_config.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\raw\\kt_video_signature_config.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\kt_fire.zip",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\raw\\kt_fire.zip"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\kt_bubble.zip",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\raw\\kt_bubble.zip"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\kt_cloud.zip",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\raw\\kt_cloud.zip"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\newmessage.wav",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\raw\\newmessage.wav"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\kt_music.zip",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\raw\\kt_music.zip"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\camera.wav",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\raw\\camera.wav"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\kryptanium_tagging_check.json",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\raw\\kryptanium_tagging_check.json"
+    }
+]

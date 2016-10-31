@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/kryptanium_popup_bg"
+    android:minWidth="@dimen/kryptanium_menu_width"
+    android:orientation="vertical"
+    android:paddingBottom="8dp"
+    android:paddingTop="14dp">
+
+    <!-- 标题 -->
+    <TextView
+        android:id="@id/kt_menu_title"
+        style="@style/kryptanium_primary_text"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:visibility="gone" />
+
+
+    <!-- 列表 -->
+    <ListView
+        android:id="@id/kt_menu_items"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="#00000000"
+        android:divider="#00000000"
+        android:dividerHeight="0dp"
+        android:fadingEdge="none"
+        android:scrollbars="none"></ListView>
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 我的好友 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/kryptanium_list_item"
+    android:gravity="center_vertical">
+
+    <include layout="@layout/kt_item_avatar" />
+
+    <TextView
+        android:id="@+id/kt_item_title"
+        style="@style/kryptanium_primary_text_light"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/kryptanium_user_login_edit_height"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:maxLines="1"
+        android:paddingLeft="10dp" />
+</LinearLayout>

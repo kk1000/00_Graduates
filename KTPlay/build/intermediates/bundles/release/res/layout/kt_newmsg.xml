@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/kt_newmsg"
+    android:layout_width="@dimen/kryptanium_new_msg_size"
+    android:layout_height="@dimen/kryptanium_new_msg_size"
+    android:background="@drawable/kryptanium_new_msg"
+    android:contentDescription="@null"
+    android:visibility="gone" />

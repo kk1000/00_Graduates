@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+
+    >
+    <!--  android:paddingBottom="5dp" -->
+    <ListView
+        android:id="@+id/kryptanium_invite_contacts_listview"
+        style="@style/kryptanium_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null"
+
+        />
+    <!--    android:layout_marginBottom="@dimen/kryptanium_button_content_height" -->
+</FrameLayout>

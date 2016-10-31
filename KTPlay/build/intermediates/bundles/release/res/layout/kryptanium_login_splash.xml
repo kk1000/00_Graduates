@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>    <!-- 登录宣传界面 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@id/kt_login_slogan"
+                style="@style/kryptanium_primary_text_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/kryptanium_chat_login"
+                android:gravity="center" />
+
+            <TextView
+                android:id="@id/kt_action"
+                style="@style/kryptanium_button_style_main"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="@string/kt_login_or_register" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

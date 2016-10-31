@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!-- 内容作者头像 -->
+
+    <include
+        android:id="@id/kt_item_avatar"
+        layout="@layout/kt_item_avatar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginRight="8dp" />
+
+    <!-- 内容作者名称 -->
+
+    <LinearLayout
+        android:id="@+id/kt_item_sub_reply_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/kt_item_avatar"
+        android:orientation="horizontal">
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@+id/kt_item_sub_reply_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="6dp"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:includeFontPadding="false"
+            android:textSize="@dimen/kryptanium_text_size_standard" />
+    </LinearLayout>
+
+    <!-- 内容创建时间 -->
+
+    <TextView
+        android:id="@+id/kt_item_replytoreply_time"
+        style="@style/kryptanium_hint_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/kt_item_sub_reply_title_layout"
+        android:layout_below="@id/kt_item_sub_reply_title_layout"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:paddingBottom="16dp" />
+
+</RelativeLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 主界面 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kryptanium_frame_content_body"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 导航栏 -->
+    <LinearLayout
+        android:id="@+id/kryptanium_tabpage_indicator_parentview"
+        android:layout_width="@dimen/kt_navbar_size"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:background="@color/kt_theme_navigationbar_background"
+        android:gravity="top|center_horizontal"
+        android:orientation="vertical" />
+    <!-- </LinearLayout> -->
+
+    <!-- 内容区域 -->
+    <ViewFlipper
+        android:id="@+id/kryptanium_tabpage_content_parentview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/kryptanium_tabpage_indicator_parentview"
+        android:background="@drawable/kryptanium_frame_contex_padding_left" />
+
+    <!-- 全局状态栏 -->
+    <FrameLayout
+        android:id="@+id/kryptanium_global_statusbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/kt_global_statusbar_height"
+        android:layout_alignLeft="@id/kryptanium_tabpage_content_parentview"
+        android:layout_alignTop="@id/kryptanium_tabpage_content_parentview"
+        android:layout_marginTop="42dp"
+        android:background="#cf000000"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@id/kt_item_title"
+            style="@style/kryptanium_primary_text_dark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+    </FrameLayout>
+
+    <!-- 关闭按钮 -->
+    <ImageView
+        style="@style/kryptanium_global_close"
+        android:layout_alignParentRight="true" />
+
+</RelativeLayout>

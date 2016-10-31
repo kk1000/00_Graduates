@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <!-- 定义一个动画帧，mipmap为img0，持续时间50毫秒 -->
+    <item
+        android:drawable="@mipmap/rect_01"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/rect_02"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/rect_01"
+        android:duration="200" />
+
+</animation-list>

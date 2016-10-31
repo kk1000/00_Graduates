@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 嵌套一层view,为了解决动态添加view参数无效的问题 -->
+
+    <FrameLayout
+        android:id="@+id/kt_signature_layout"
+        android:layout_width="240dp"
+        android:layout_height="161dp">
+
+        <!--昵称区域-->
+        <FrameLayout
+            android:id="@+id/signature_nickname_layout"
+            android:layout_width="215dp"
+            android:layout_height="84dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="67dp"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/signature_nickname_ground"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:scaleType="fitXY" />
+
+            <com.ktplay.widget.KTEmojiText
+                android:id="@+id/signature_nickname_text"
+                android:layout_width="106dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="30dp"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxEms="10"
+                android:maxLines="1"
+                android:shadowColor="#aa000000"
+                android:shadowDy="2"
+                android:shadowRadius="6"
+                android:textSize="12sp"
+                android:visibility="gone" />
+        </FrameLayout>
+
+        <!--头像区域-->
+        <FrameLayout
+            android:id="@+id/signature_portrait_layout"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="79dp"
+            android:visibility="gone">
+
+            <com.ktplay.widget.KTMaskableImageView
+                android:id="@+id/signature_portrait"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY" />
+
+            <ImageView
+                android:id="@+id/signature_portrait_before"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY" />
+        </FrameLayout>
+        <!-- 气泡区域 -->
+        <FrameLayout
+            android:id="@+id/signature_bubble_layout"
+            android:layout_width="160dp"
+            android:layout_height="94dp"
+            android:layout_marginLeft="50dp"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/signature_bubble_ground"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="bottom"
+                android:scaleType="fitXY" />
+
+            <com.ktplay.widget.KTEmojiText
+                android:id="@+id/signature_bubble_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:lines="3"
+                android:paddingBottom="23dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="25dp"
+                android:paddingTop="18dp"
+                android:textSize="11sp"
+                android:visibility="gone" />
+        </FrameLayout>
+    </FrameLayout>
+
+</FrameLayout>

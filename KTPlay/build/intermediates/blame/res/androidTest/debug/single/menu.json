@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_favorited.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_favorited.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_chatitems_sent_failed.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_chatitems_sent_failed.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_gender.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_gender.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_chatitems.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_chatitems.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_community.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_community.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_chatusers.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_chatusers.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_addimage.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_addimage.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_chatsessions.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_chatsessions.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_topic.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_topic.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_inbox.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_inbox.xml"
+    },
+    {
+        "merged": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\kryptanium_menu_friendrequests.xml",
+        "source": "Z:\\Users\\nEdAy\\Desktop\\Graduates\\KTPlay\\build\\intermediates\\bundles\\debug\\res\\menu\\kryptanium_menu_friendrequests.xml"
+    }
+]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="4dp"
+    android:paddingTop="4dp">
+
+    <com.ktplay.widget.KTCircleImageView
+        android:id="@id/kt_item_avatar"
+        android:layout_width="@dimen/kt_avatar_width_small"
+        android:layout_height="@dimen/kt_avatar_height_small"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="8dp"
+        android:contentDescription="@null" />
+
+    <com.ktplay.widget.KTEmojiText
+        android:id="@id/kt_content"
+        style="@style/kryptanium_hint_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:ellipsize="end"
+        android:gravity="center_vertical|left"
+        android:includeFontPadding="false"
+        android:maxLines="2"
+        android:paddingLeft="41dp" />
+</FrameLayout>
